@@ -21,4 +21,3 @@ The above learning outcomes apply to the courses as follows:
 ![Yampa%20River%202010%20129]({{ site.baseurl }}/assets/images/Yampa%20River%202010%20129.jpg)
 
 GIS being used in the field, here with a ground-based LiDaR. 
-
