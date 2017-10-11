@@ -10,13 +10,13 @@ title: Primary Learning Outcomes
 
 The above learning outcomes apply to the courses as follows:
 
-| **Learning Outcome:**                    | **WATS 4930/6920** | **WATS 4931/6921** | **WATS 6915 ** |
-| ---------------------------------------- | ------------------ | ------------------ | -------------- |
-| 1 - GIS Theory                           | Core               | NA                 | Core           |
-| 2 - Profiency in Spatial Analyses & Cartography | Core               | Partial            | Partial        |
-| 3 - Self-Teaching & Troubleshooting      | Partial            | Core               | Partial        |
-| 4 - Spatial Analysis in Research         | NA                 | Core               | NA             |
-| 5 - Communicating with GIS               | Core               | Core               | Core           |
+| **Learning Outcome:**                    | **WATS 4930/6920** | **WATS 4931/6921** | **WATS 6915** |
+| ---------------------------------------- | ------------------ | ------------------ | ------------- |
+| 1 - GIS Theory                           | Core               | NA                 | Core          |
+| 2 - Profiency in Spatial Analyses & Cartography | Core               | Partial            | Partial       |
+| 3 - Self-Teaching & Troubleshooting      | Partial            | Core               | Partial       |
+| 4 - Spatial Analysis in Research         | NA                 | Core               | NA            |
+| 5 - Communicating with GIS               | Core               | Core               | Core          |
 
 ![Yampa%20River%202010%20129]({{ site.baseurl }}/assets/images/Yampa%20River%202010%20129.jpg)
 
