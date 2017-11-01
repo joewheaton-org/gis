@@ -90,32 +90,22 @@ Adding XY data:
 
 1. Create a simple table with the northing and easting values
 
-[![img](https://usu.instructure.com/courses/360981/files/55930794/download?wrap=1)](https://usu.instructure.com/courses/360981/files/55930794/download?wrap=1)
-
 ​    Save and close Excel.
 
-\2. Add the table to Arc just like with any dataset.
+2. Add the table to Arc just like with any dataset.
 
 3.  In the table of contents, right click the table > Display XY Data
-
-[![img](https://usu.instructure.com/courses/360981/files/55930792/download?wrap=1)](https://usu.instructure.com/courses/360981/files/55930792/download?wrap=1)
-
- 
-
-[![img](https://usu.instructure.com/courses/360981/files/55930795/download?wrap=1)](https://usu.instructure.com/courses/360981/files/55930795/download?wrap=1)
 
 4.  Verify that the point is in the right place (add a basemap, compare with other data layers).
 5.  Change the temporary "Event" layer created to a permanent shapefile.
 
 -    Right click the "Event" layer in the table of contents > Data > Export Data.
 
-[![img](https://usu.instructure.com/courses/360981/files/55930793/download?wrap=1)](https://usu.instructure.com/courses/360981/files/55930793/download?wrap=1)
+
 
 Once you have identified the rupture location, you need to identify and select the impacted portion of Emigration Creek. The NHD high resolution data from the Utah AGRC should provide you with the necessary information to complete this task. Note that due to the winter season, the irrigation spur located at (431099.378m, 4511359.276m) was not impacted and you should disregard this stream data.
 
-You may wish to "cut" the stream segment where the rupture occurred in order to capture the true length of impacted stream.  Select the segment, start editing, use the "Split Tool" on the editor tool bar to cut the line segment at the rupture location.  (Click on the highlighted line at the rupture point.)  Then test the cut by trying to select 
-
-[![img](https://usu.instructure.com/courses/360981/files/55962063/download?wrap=1)](https://usu.instructure.com/courses/360981/files/55962063/download?wrap=1)
+You may wish to "cut" the stream segment where the rupture occurred in order to capture the true length of impacted stream.  Select the segment, start editing, use the "Split Tool" on the editor tool bar to cut the line segment at the rupture location.  (Click on the highlighted line at the rupture point.)  Then test the cut by trying to select.
 
 When you have identified and selected the stream features, you should save only those features to a new dataset (again, Data > Export Data) and then buffer that reach of the stream to 250-meters. The 250-meter zone is considered the critical fume impact area.  (When you run the Buffer tool, consider setting the Dissolve to "All" to avoid the Michelin man looking buffers around each reach segment.)
 
