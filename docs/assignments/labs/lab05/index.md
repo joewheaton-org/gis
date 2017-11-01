@@ -174,7 +174,7 @@ Prepare a webpage for this lab on your personal website for the course and prepa
 
 #### Task 2:
 
-- Provide a legible image of the** first page of your joined PDF**.  Edit headers.  
+- Provide a legible image of the **first page of your joined PDF**.  Edit headers.  
 
 - - table should clearly show both the name and address with parcel ID to demonstrate join 
 
