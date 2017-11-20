@@ -6,8 +6,8 @@ title: 6. Export the Final Figure & Put Where Needed
 
 Finally, when you've assembled your figure and you are happy with it, there is the question of where will you use it. In the beginning of the [Figure Preparation Guidelines](http://gis.joewheaton.org/useful-quick-references/figure-preparation-guidelines), we discussed the different potential different outlets for your figure: 
 
-- **Report **(e.g. inserted in a word document but report with embedded figures is distributed as a PDF)
-- **Manuscript / Journal Article **(i.e. publication quality figures, which include maps are submitted as separate PDFs or EPS at high resolution)
+- **Report**(e.g. inserted in a word document but report with embedded figures is distributed as a PDF)
+- **Manuscript / Journal Article**(i.e. publication quality figures, which include maps are submitted as separate PDFs or EPS at high resolution)
 - On a **web page** (i.e. should be a *.png or *.jpeg; and may need to be displayed on main page at one size and a higher resolution version available when clicked on)
 - In a **presentation** (e.g. a PowerPoint talk... so a portrait layout will NOT fill page)
 
