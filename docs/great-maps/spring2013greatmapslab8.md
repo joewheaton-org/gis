@@ -21,4 +21,3 @@ Justin was able to identify the landscape characteristics of the watershed and a
 ![justin%20Britton%20profile]({{ site.baseurl }}/assets/images/Justion%20Britton%20planform.jpg)
 
 ![Justion%20Britton%20planform]({{ site.baseurl }}/assets/images/Justion%20Britton%20planform.jpg)
-
