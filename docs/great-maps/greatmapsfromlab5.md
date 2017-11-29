@@ -15,4 +15,3 @@ This is a page from the PDF book done by [Ben Poulson](https://sites.google.com/
 [Beth Orning-Tschampl](https://sites.google.com/site/bethorninggis6920/labs/05---vector-analyses) did a great job in her write-up of "for the public" information. I zoomed in on the google map so you could see how nicely her data shows up. The extra road files were removed, making the impacted parcels much easier to quickly and efficiently view. Excellent work!
 
 [![beth2]({{ site.baseurl }}/assets/images/beth2.JPG)]({{ site.baseurl }}/assets/images/hr/beth2.JPG)
-
