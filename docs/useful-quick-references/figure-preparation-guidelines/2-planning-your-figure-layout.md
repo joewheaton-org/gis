@@ -28,7 +28,7 @@ By carefully laying out the figure we determined that each of the individual map
 
 ![ExampleLayout0]({{ site.baseurl }}/assets/images/ExampleLayout0.PNG)
 
-← Back to [1. Recognizing What's Wrong With Typical GIS Maps](http://gis.joewheaton.org/useful-quick-references/figure-preparation-guidelines/1-recognizing-what-s-wrong-with-typical-gis-maps)
+← Back to [1. Recognizing What's Wrong With Typical GIS Maps]({{ site.baseurl }}/useful-quick-references/figure-preparation-guidelines/1-recognizing-what-s-wrong-with-typical-gis-maps)
 
- Next to  → [3. Use ArcGIS ONLY for Making Figure Building Block](http://gis.joewheaton.org/useful-quick-references/figure-preparation-guidelines/2-use-arcgis-only-for-making-map)
+ Next to  → [3. Use ArcGIS ONLY for Making Figure Building Block]({{ site.baseurl }}/useful-quick-references/figure-preparation-guidelines/2-use-arcgis-only-for-making-map)
 

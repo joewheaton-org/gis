@@ -12,13 +12,13 @@ title: Week 04 - Geoprocessing & Uncertainty
 
 **Reading Assignments**
 
-[See Here for Reading Assignments](http://gis.joewheaton.org/assignments/reading-assignments-2010)
+[See Here for Reading Assignments]({{ site.baseurl }}/assignments/reading-assignments-2010)
 
 ------
 
 Lab Assignment(s)
 
-- [Lab 04 - Digitzing, Editing & Sharing Data](http://gis.joewheaton.org/assignments/labs/lab04)
+- [Lab 04 - Digitzing, Editing & Sharing Data]({{ site.baseurl }}/assignments/labs/lab04)
 
 ### Background
 
@@ -39,7 +39,7 @@ Geoprocessing is what helps make you efficient in your spatial analyses. Whether
 
 #### Learning Outcomes
 
-These lectures, readings and Labs [03](http://gis.joewheaton.org/assignments/labs/lab03) & [04](http://gis.joewheaton.org/assignments/labs/lab04) all help fulfill [primary learning outcomes](http://gis.joewheaton.org/about/primary-learning-outcomes) 1, 2, 3 & 4.
+These lectures, readings and Labs [03]({{ site.baseurl }}/assignments/labs/lab03) & [04]({{ site.baseurl }}/assignments/labs/lab04) all help fulfill [primary learning outcomes]({{ site.baseurl }}/about/primary-learning-outcomes) 1, 2, 3 & 4.
 
 ### Lectures and Podcasts
 
@@ -47,21 +47,21 @@ These lectures, readings and Labs [03](http://gis.joewheaton.org/assignments/lab
 
 So many of the geoprocessing tasks we do in ArcGIS are highly mundane and repetitive. Building models and/or writing scripts in ArcGIS is an effective way of increasing your efficiency.
 
-View 
+View
 
-[Podcast Here](http://gis.joewheaton.org/topics/week-04---geoprocessing-uncertainty/geoprocessing-podcast) or [stream whole podcast series here](https://www.youtube.com/playlist?list=PL0ZiZg4rilzJ8p6ap_EQ7A7r7_xUD8E6D)
+[Podcast Here]({{ site.baseurl }}/topics/week-04---geoprocessing-uncertainty/geoprocessing-podcast) or [stream whole podcast series here](https://www.youtube.com/playlist?list=PL0ZiZg4rilzJ8p6ap_EQ7A7r7_xUD8E6D)
 
-- ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) [2015](http://gis.joewheaton.org/topics/goog_670769724)[ Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2015/Lectures/4_Geoprocessing.pdf)  - PDF 
+- ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) [2015]({{ site.baseurl }}/topics/goog_670769724)[ Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2015/Lectures/4_Geoprocessing.pdf)  - PDF
 
 Previous:
 
-- ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) [2014](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/topics/goog_930015760)[ Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2014/Lectures/Week03/2_Geoprocessing_AND_Uncertainty.pdf)  - PDF 
-- ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) [2013](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/topics/goog_930015760)[ Thursday Lecture](http://etal.usu.edu/Courses/GIS/2013/Lectures/Week_03/2_Geoprocessing.pdf)  - PDF 
-- ![img](http://gis.joewheaton.org/_/rsrc/1325824218298/past-year-s-course-topics/geoprocessing/pdf_icon.gif) 2012 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2003%20&%2004%20-%20Working%20with%20Data/2_Geoprocessing_2PP.pdf) - 2 Slides per page
-- ![img](http://gis.joewheaton.org/_/rsrc/1325824218298/past-year-s-course-topics/geoprocessing/pdf_icon.gif) 2012 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2003%20&%2004%20-%20Working%20with%20Data/2_Geoprocessing_6PP.pdf) - 6 Slides per page
+- ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) [2014](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/topics/goog_930015760)[ Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2014/Lectures/Week03/2_Geoprocessing_AND_Uncertainty.pdf)  - PDF
+- ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) [2013](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/topics/goog_930015760)[ Thursday Lecture](http://etal.usu.edu/Courses/GIS/2013/Lectures/Week_03/2_Geoprocessing.pdf)  - PDF
+- ![img]({{ site.baseurl }}/_/rsrc/1325824218298/past-year-s-course-topics/geoprocessing/pdf_icon.gif) 2012 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2003%20&%2004%20-%20Working%20with%20Data/2_Geoprocessing_2PP.pdf) - 2 Slides per page
+- ![img]({{ site.baseurl }}/_/rsrc/1325824218298/past-year-s-course-topics/geoprocessing/pdf_icon.gif) 2012 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2003%20&%2004%20-%20Working%20with%20Data/2_Geoprocessing_6PP.pdf) - 6 Slides per page
 - 2012 [Video of Lecture](http://youtu.be/rG0Zq-S7k50)
 
-[![podcast]({{ site.baseurl }}/assets/images/podcast.jpg)](http://gis.joewheaton.org/topics/week-04---geoprocessing-uncertainty/geoprocessing-podcast)
+[![podcast]({{ site.baseurl }}/assets/images/podcast.jpg)]({{ site.baseurl }}/topics/week-04---geoprocessing-uncertainty/geoprocessing-podcast)
 
 #### NOT the Podcast.... Old Lecture From 2012
 
@@ -74,9 +74,9 @@ Previous:
 This year, the Uncertainty in GIS was combined with the Geoprocessing Lecture
 
 - ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif)  [2015 Thursday Lecture](http://etal.usu.edu/Courses/GIS/2015/Lectures/5_Uncertainty.pdf) - PDF
-- ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) [2014](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/topics/goog_930015760)[ Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2014/Lectures/Week03/2_Geoprocessing_AND_Uncertainty.pdf)  - PDF 
-- ![img](http://gis.joewheaton.org/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2012 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2003%20&%2004%20-%20Working%20with%20Data/4_UncertaintyInGIS_2pp.pdf) - PDF w/ 2 slides per page
-- ![img](http://gis.joewheaton.org/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2012 [Tuesday Lecture](http://www.gis.usu.edu/~jwheaton/courses/WATS4930/Lectures/Week%2003%20&%2004%20-%20Working%20with%20Data/4_UncertaintyInGIS_6pp.pdf) - PDF w/ 6 slides per page
+- ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) [2014](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/topics/goog_930015760)[ Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2014/Lectures/Week03/2_Geoprocessing_AND_Uncertainty.pdf)  - PDF
+- ![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2012 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2003%20&%2004%20-%20Working%20with%20Data/4_UncertaintyInGIS_2pp.pdf) - PDF w/ 2 slides per page
+- ![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2012 [Tuesday Lecture](http://www.gis.usu.edu/~jwheaton/courses/WATS4930/Lectures/Week%2003%20&%2004%20-%20Working%20with%20Data/4_UncertaintyInGIS_6pp.pdf) - PDF w/ 6 slides per page
 - 2012 [Video of Lecture](http://youtu.be/QZ9zifqTBBQ)
 
 #### NOT the Podcast.... Old Lecture From 2012
@@ -99,7 +99,7 @@ This year, the Uncertainty in GIS was combined with the Geoprocessing Lecture
 #### Finding Existing Tools and Scripts
 
 - [Geoprocessing Model and Script Tool Gallery](http://resources.arcgis.com/gallery/file/geoprocessing) - *A hub of tools you can download and install in ArcGIS that other users have made. Very useful!*
-- See also this week's lab [Tutorial Topic 1](http://gis.joewheaton.org/assignments/labs/old-labs/lab_homeless/1-basics-of-loading-and-using-a-toolbox-and-model)
+- See also this week's lab [Tutorial Topic 1]({{ site.baseurl }}/assignments/labs/old-labs/lab_homeless/1-basics-of-loading-and-using-a-toolbox-and-model)
 
 #### Geoprocessing with Model Builder
 
@@ -110,7 +110,7 @@ This year, the Uncertainty in GIS was combined with the Geoprocessing Lecture
 #### Add-Ins
 
 - [Add-Ins for ArcGIS 10](http://resources.arcgis.com/gallery/video/java/details?entryID=F8A0A38E-1422-2418-7FA3-CC2C83ED9674) -* Add-Ins are a new feature in ArcGIS. This video describes them.*
-- [Add-Ins Blog](http://resources.arcgis.com/gallery/video/java/details?entryID=F8A0A38E-1422-2418-7FA3-CC2C83ED9674) - 
+- [Add-Ins Blog](http://resources.arcgis.com/gallery/video/java/details?entryID=F8A0A38E-1422-2418-7FA3-CC2C83ED9674) -
 
 #### Plug-Ins
 
@@ -131,11 +131,10 @@ Plug-Ins are typically tool-bars that are installed externally and produced by s
 - Burrough PA and McDonnell RA. 1998. [Principles of Geographical Information Systems: Spatial Information Systems and Geostatistics](http://www.amazon.com/Principles-Geographical-Information-Systems-Spatial/dp/0198233655). Oxford University Press: Oxford, 333 pp. - *See Chapters Nine (Errors and Quality Control) and Ten (Error Propagation in Numerical Modeling)*
 - Burrough P.A., van Rijn, R., and Rikken, M. 1996. [Spatial Data Quality and Error Analysis Issues: GIS Functions and Environmental Modleing](http://books.google.com/books?id=amzYLaY4ddcC&pg=PA29&lpg=PA29&dq=error+analysis+in+GIS&source=bl&ots=Ry4rI6vSzG&sig=IJ0wv-Kl6QNMOtGnhFQhPCnU074&hl=en&ei=e02aTYnrOIvPiAK546zgCA&sa=X&oi=book_result&ct=result&resnum=9&ved=0CFQQ6AEwCA#v=onepage&q=error%20analysis%20in%20GIS&f=false). In: GIS and Environmental Modeling, By Michael F. Goodchild, Louis T. Steyaert, Bradley O. Parks, Carol Johnston (Eds.), Wiley.
 - Haining R. 2003. Spatial Data Analysis: Theory and Practice. Cambridge University Press: Cambridge, 432 pp. - *See Chapter 4 on 'Data quality: implications for spatial data analysis'*
-- Hall ST and Post CJ. 2009. [Advanced GIS Exercise: Performing Error Analysis in ArcGIS ModelBuilder](http://www.jnrlse.org/view/2009/e08-0025g.pdf). Journal of Natural Resources and Life Sciences Education. 38: 41-44. 
+- Hall ST and Post CJ. 2009. [Advanced GIS Exercise: Performing Error Analysis in ArcGIS ModelBuilder](http://www.jnrlse.org/view/2009/e08-0025g.pdf). Journal of Natural Resources and Life Sciences Education. 38: 41-44.
 - Taylor J. 1997. [An Introduction to Error Analysis: the Study of Uncertainties in Physical Measurements](http://books.google.com/books?id=giFQcZub80oC&printsec=frontcover&dq=An+Introduction+to+Error+Analysis:+the+Study+of+Uncertainties+in+Physical+Measurements&hl=en&ei=6EyaTYGHE4LiiAKMmbGdCQ&sa=X&oi=book_result&ct=result&resnum=1&ved=0CC0Q6AEwAA#v=onepage&q&f=false), Second Edition. University Science Books: Sausalito, California, 327 pp.
 
 #### Web Links on Uncertainty:
 
 - [Error, Accuracy and Precision in GIS](http://www.colorado.edu/geography/gcraft/notes/error/error_f.html) -* A very helpful series of webpages on the basics of errors, accuracy and precision in GIS maintained by **Kenneth E. Foote and Donald J. Huebner, The Geographer's Craft Project, Department of Geography, University of Texas at Austin. *
 - [Uncertainty Propagation in GIS](http://www.ncgia.ucsb.edu/giscc/units/u098/u098_f.html) - *Curriculum developed by : Gerard B.M. Heuvelink, Faculty of Environmental Sciences, University of Amsterdam.*
-

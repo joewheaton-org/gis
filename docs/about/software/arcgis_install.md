@@ -89,7 +89,7 @@ Now, you should see it communicating with ESRI to authorize the software and ext
 
 ![S11]({{ site.baseurl }}/assets/images/S11.png)
 
-Your software should now be authenticated and ready for one year of use. Enjoy. Exit The ArcGIS Administrator and start ArcGIS to make sure it works. Note you will need to turn on the extensions in ArcGIS for them to be accessible (see [here](http://gis.joewheaton.org/assignments/labs/lab01/getting-organized-and-oriented) for help getting started).
+Your software should now be authenticated and ready for one year of use. Enjoy. Exit The ArcGIS Administrator and start ArcGIS to make sure it works. Note you will need to turn on the extensions in ArcGIS for them to be accessible (see [here]({{ site.baseurl }}/assignments/labs/lab01/getting-organized-and-oriented) for help getting started).
 
 ## What if it Fails to Authenticate?
 
@@ -145,6 +145,6 @@ Now, you should see it communicating with ESRI to authorize the software and ext
 
 ![S11]({{ site.baseurl }}/assets/images/S11.png)
 
-Your software should now be authenticated and ready for one year of use. Enjoy. Exit The ArcGIS Administrator and start ArcGIS to make sure it works. Note you will need to turn on the extensions in ArcGIS for them to be accessible (see [here](http://gis.joewheaton.org/assignments/labs/lab01/getting-organized-and-oriented) for help getting started).
+Your software should now be authenticated and ready for one year of use. Enjoy. Exit The ArcGIS Administrator and start ArcGIS to make sure it works. Note you will need to turn on the extensions in ArcGIS for them to be accessible (see [here]({{ site.baseurl }}/assignments/labs/lab01/getting-organized-and-oriented) for help getting started).
 
 THIS IS NOT AN OFFICIAL ESRI site! These instructions were compiled simply to help students who were having trouble installing Education Edition licenses. You may not use the Education Edition for any use other that specified in the ESRI License Agreement.

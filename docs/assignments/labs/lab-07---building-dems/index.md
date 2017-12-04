@@ -10,7 +10,7 @@ During this lab you will work on building, displaying and manipulating digital e
 
 #### Prerequisites
 
-The only prerequisite for this lab is a basic proficiency in using ArcGIS 10 (e.g.[ Lab 1](http://gis.joewheaton.org/assignments/labs/lab01) and [Getting Oriented](http://gis.joewheaton.org/assignments/labs/lab01/getting-organized-and-oriented)). It is also expected that you are familiar with the[ 6 C's](http://gis.joewheaton.org/about/grades#TOC-The-Six-C-s-Rubric) to make effective maps.
+The only prerequisite for this lab is a basic proficiency in using ArcGIS 10 (e.g.[ Lab 1]({{ site.baseurl }}/assignments/labs/lab01) and [Getting Oriented]({{ site.baseurl }}/assignments/labs/lab01/getting-organized-and-oriented)). It is also expected that you are familiar with the[ 6 C's]({{ site.baseurl }}/about/grades#TOC-The-Six-C-s-Rubric) to make effective maps.
 
 ### Lab Objectives
 
@@ -21,7 +21,7 @@ This lab is intended to make you proficient in  the construction of DEMs from ra
 3. Built a high-resolution DEM from processed airborne LiDaR data (remotely-sensed)
 4. Run a simple change detection analysis on multiple year DEMs
 
-Meets [Course Learning Outcomes](http://gis.joewheaton.org/about/primary-learning-outcomes) 2, 3 & 5. 
+Meets [Course Learning Outcomes]({{ site.baseurl }}/about/primary-learning-outcomes) 2, 3 & 5. 
 
 ### Instructions & Lab Tasks
 
@@ -49,15 +49,15 @@ His vague instructions and context can be summarized as follows:
 
 #### Detailed Instructions: Translation of Your Boss's Vague Instructions
 
-- [Task 1 - Ground Based Topography](http://gis.joewheaton.org/assignments/labs/lab-07---building-dems/tas)
-- [Task 2 - Airborne LiDaR](http://gis.joewheaton.org/assignments/labs/lab-07---building-dems/task-4)
-- [Task 3 - Change detection analysis](http://gis.joewheaton.org/assignments/labs/lab-07---building-dems/task-5)
+- [Task 1 - Ground Based Topography]({{ site.baseurl }}/assignments/labs/lab-07---building-dems/tas)
+- [Task 2 - Airborne LiDaR]({{ site.baseurl }}/assignments/labs/lab-07---building-dems/task-4)
+- [Task 3 - Change detection analysis]({{ site.baseurl }}/assignments/labs/lab-07---building-dems/task-5)
 
 ### What to Submit
 
 Prepare a webpage(s) for this lab on your personal website for the course and prepare the following within that page or subpages:
 
-- For Task [1](http://gis.joewheaton.org/assignments/labs/lab-07---building-dems/tas):
+- For Task [1]({{ site.baseurl }}/assignments/labs/lab-07---building-dems/tas):
 
 - - Set of informal figures illustrating
 
@@ -73,7 +73,7 @@ Prepare a webpage(s) for this lab on your personal website for the course and pr
 
   - Provide links to higher resolution JPG or PDFs** if** the images on your webpage don't show relevant details. 
 
-- For Task [2](http://gis.joewheaton.org/assignments/labs/lab-07---building-dems/task-4):
+- For Task [2]({{ site.baseurl }}/assignments/labs/lab-07---building-dems/task-4):
 
 - - **In a well marked section provide a brief explanation about the differences between the DEM created from raw survey data in Task 1 and the LiDAR DEM created in Task 2 with respect to channel change detection. What are the pros and cons of each?**  (Use additional figures to illustrate your points if necessary.)  *Specifically, with the goal of analyzing the surface to detect changes in channel morphometry, address whether the airborne LiDAR would be more or less effective than the survey DEM.  Incorporate what you've learned about airborne LiDAR and the survey data, and think about data extent, resolution, and what types of features can or can't be resolved by each data set to support your decision to use one or the other for change detection analysis.*
 
@@ -94,7 +94,7 @@ Make sure your lab conforms to the general [lab submission guidelines](http://a/
 
 #### Lab Introduction Slides
 
-[![img](http://gis.joewheaton.org/_/rsrc/1325801572897/assignments/labs/lab01/PDF_Icon.png)](http://gis.joewheaton.org/assignments/labs/lab01/PDF_Icon.png?attredirects=0) [Lab 7 Slides](http://etal.usu.edu/Courses/GIS/2013/Lab/ppt/4930_wk07_DEM_build.pdf) - Shannon Belmont Spring 2013
+[![img]({{ site.baseurl }}/_/rsrc/1325801572897/assignments/labs/lab01/PDF_Icon.png)]({{ site.baseurl }}/assignments/labs/lab01/PDF_Icon.png?attredirects=0) [Lab 7 Slides](http://etal.usu.edu/Courses/GIS/2013/Lab/ppt/4930_wk07_DEM_build.pdf) - Shannon Belmont Spring 2013
 
 #### Where to get DEM Data:
 
@@ -120,5 +120,5 @@ Make sure your lab conforms to the general [lab submission guidelines](http://a/
 - [Building a TIN to represent a Terrain](http://help.arcgis.com/en/arcgisdesktop/10.0/help/index.html#/Exercise_4_Building_a_TIN_to_represent_terrain/00q8000000w1000000/) - ESRI Help Tutorial
 - [Creating and Using a Terrain Dataset](http://help.arcgis.com/en/arcgisdesktop/10.0/help/index.html#/Exercise_8_Creating_and_using_a_terrain_dataset/00q800000007000000/) - ESRI Help Tutorial
 
-Subpages (3): [Task 1 - Ground Based Topography](http://gis.joewheaton.org/assignments/labs/lab-07---building-dems/tas) [Task 2 - Airborne LiDaR](http://gis.joewheaton.org/assignments/labs/lab-07---building-dems/task-4) [Task 3 - Change detection analysis](http://gis.joewheaton.org/assignments/labs/lab-07---building-dems/task-5)
+Subpages (3): [Task 1 - Ground Based Topography]({{ site.baseurl }}/assignments/labs/lab-07---building-dems/tas) [Task 2 - Airborne LiDaR]({{ site.baseurl }}/assignments/labs/lab-07---building-dems/task-4) [Task 3 - Change detection analysis]({{ site.baseurl }}/assignments/labs/lab-07---building-dems/task-5)
 

@@ -16,7 +16,7 @@ This class places more of an emphasis on raster-based analyses and/or analyses t
 
 #### Learning Outcomes
 
-These lectures, readings and [Lab 05](http://gis.joewheaton.org/assignments/labs/lab05) all help fulfill [primary learning outcomes](http://gis.joewheaton.org/about/primary-learning-outcomes) 1, 2, 3 & 4.
+These lectures, readings and [Lab 05]({{ site.baseurl }}/assignments/labs/lab05) all help fulfill [primary learning outcomes]({{ site.baseurl }}/about/primary-learning-outcomes) 1, 2, 3 & 4.
 
 ### Lectures 
 
@@ -27,14 +27,14 @@ These lectures, readings and [Lab 05](http://gis.joewheaton.org/assignments/labs
 Vector-based spatial analyses of discrete spatial data is one of the most power forms of geographic analysis. 
 
 - ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) [Lecture Slides](http://etal.usu.edu/Courses/GIS/2015/Lectures/1_VectorAnalyses.pdf) - PDF
-- See[ here for PODCAST by topic](http://gis.joewheaton.org/topics/vector-analyses/podcast-of-vector-analyses), or [here to stream all in order](http://www.youtube.com/playlist?list=PL0ZiZg4rilzIhpWsSaDg_Il0bRlutAvYz).
+- See[ here for PODCAST by topic]({{ site.baseurl }}/topics/vector-analyses/podcast-of-vector-analyses), or [here to stream all in order](http://www.youtube.com/playlist?list=PL0ZiZg4rilzIhpWsSaDg_Il0bRlutAvYz).
 
 Previous Year's:
 
 - ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2014 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2014/Lectures/Week05/1_VectorAnalyses.pdf) - PDF
 - ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2013 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2013/Lectures/Week_05/1_VectorAnalyses.pdf) - PDF
-- ![img](http://gis.joewheaton.org/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2012 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2005%20-%20Vector%20Analyses/1_VectorAnalyses_2PP.pdf)  - PDF w/ 2 slides per page 
-- ![img](http://gis.joewheaton.org/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2012 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2005%20-%20Vector%20Analyses/1_VectorAnalyses_6PP.pdf) - PDF w/ 6 slides per page
+- ![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2012 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2005%20-%20Vector%20Analyses/1_VectorAnalyses_2PP.pdf)  - PDF w/ 2 slides per page 
+- ![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2012 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2005%20-%20Vector%20Analyses/1_VectorAnalyses_6PP.pdf) - PDF w/ 6 slides per page
 - 2012 [Video of Lecture](http://youtu.be/jYrVuwgfJXM)
 
 #### NOT the PODCAST - Old 2012 Lecture
@@ -43,15 +43,15 @@ Previous Year's:
 
 #### Analyses Combining Raster & Vector Data
 
-- ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) [Lecture](http://gis.joewheaton.org/topics/goog_1569863267)[ Slides](http://etal.usu.edu/Courses/GIS/2015/Lectures/2_VectorRasterAnalysesCombined.pdf) - PDF
-- See[ here for PODCAST by topic](http://gis.joewheaton.org/topics/vector-analyses/podcast---analyses-combining-raster--vector-data), or [here to stream all in order](http://www.youtube.com/playlist?list=PL0ZiZg4rilzIJ_QNCqtH8U_tZMpcRfoNY).
+- ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) [Lecture]({{ site.baseurl }}/topics/goog_1569863267)[ Slides](http://etal.usu.edu/Courses/GIS/2015/Lectures/2_VectorRasterAnalysesCombined.pdf) - PDF
+- See[ here for PODCAST by topic]({{ site.baseurl }}/topics/vector-analyses/podcast---analyses-combining-raster--vector-data), or [here to stream all in order](http://www.youtube.com/playlist?list=PL0ZiZg4rilzIJ_QNCqtH8U_tZMpcRfoNY).
 
 Past Lectures:
 
 - ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2014 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2014/Lectures/Week05/2_VectorRasterAnalysesCombined.pdf) - PDF
-- ![img](http://gis.joewheaton.org/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif)  2013 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2013/Lectures/Week_06/2_VectorRasterAnalysesCombined.pdf) - PDF
-- ![img](http://gis.joewheaton.org/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2012 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2006%20&%2007%20-%20Raster%20Analyses/3_VectorRasterAnalysesCombined_2PP.pdf) - PDF w/ 2 slides per page 
-- ![img](http://gis.joewheaton.org/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2012 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2006%20&%2007%20-%20Raster%20Analyses/3_VectorRasterAnalysesCombined_6PP.pdf) - PDF w/ 6 slides per page 
+- ![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif)  2013 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2013/Lectures/Week_06/2_VectorRasterAnalysesCombined.pdf) - PDF
+- ![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2012 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2006%20&%2007%20-%20Raster%20Analyses/3_VectorRasterAnalysesCombined_2PP.pdf) - PDF w/ 2 slides per page 
+- ![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2012 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2006%20&%2007%20-%20Raster%20Analyses/3_VectorRasterAnalysesCombined_6PP.pdf) - PDF w/ 6 slides per page 
 - 2012 [Video of Lecture](http://youtu.be/83cbN8u2jcQ)
 
 NOT the PODCAST - The old 2011 Lecture
@@ -76,5 +76,5 @@ New this year!
 - [An overview of the Spatial Statistics Toolbox](http://help.arcgis.com/en/arcgisdesktop/10.0/help/index.html#/An_overview_of_the_Spatial_Statistics_toolbox/005p00000002000000/)
 - [Network Analyst Toolbox](http://help.arcgis.com/en/arcgisdesktop/10.0/help/index.html#/What_is_Network_Analyst/004700000001000000/)
 
-Subpages (2): [Podcast - Analyses Combining Raster & Vector Data](http://gis.joewheaton.org/topics/vector-analyses/podcast---analyses-combining-raster--vector-data) [Podcast of Vector Analyses](http://gis.joewheaton.org/topics/vector-analyses/podcast-of-vector-analyses)
+Subpages (2): [Podcast - Analyses Combining Raster & Vector Data]({{ site.baseurl }}/topics/vector-analyses/podcast---analyses-combining-raster--vector-data) [Podcast of Vector Analyses]({{ site.baseurl }}/topics/vector-analyses/podcast-of-vector-analyses)
 

@@ -12,7 +12,7 @@ Two of the biggest challenges when working with DEMs are a) getting data from wh
 
 ### Prerequisites
 
-The only prerequisite for this lab is a basic proficiency in using ArcGIS 10 (e.g.[ Lab 1](http://gis.joewheaton.org/assignments/labs/lab01) and [Getting Oriented](http://gis.joewheaton.org/assignments/labs/lab01/getting-organized-and-oriented)). It is also expected that you are familiar with the[ 6 C's](http://gis.joewheaton.org/about/grades#TOC-The-Six-C-s-Rubric) to make effective maps.
+The only prerequisite for this lab is a basic proficiency in using ArcGIS 10 (e.g.[ Lab 1]({{ site.baseurl }}/assignments/labs/lab01) and [Getting Oriented]({{ site.baseurl }}/assignments/labs/lab01/getting-organized-and-oriented)). It is also expected that you are familiar with the[ 6 C's]({{ site.baseurl }}/about/grades#TOC-The-Six-C-s-Rubric) to make effective maps.
 
 ### Lab Objectives
 
@@ -21,7 +21,7 @@ This lab is intended to make you proficient in the use and manipulation of DEMs.
 1. Have acquired and worked with DEMs in common formats and from typical data sources
 2. Built an appreciation of the tradeoffs between DEMs at different resolutions and built from different data sources using different methods
 
-Meets [Course Learning Outcomes](http://gis.joewheaton.org/about/primary-learning-outcomes) 2, 3 & 5. 
+Meets [Course Learning Outcomes]({{ site.baseurl }}/about/primary-learning-outcomes) 2, 3 & 5. 
 
 ## Instructions & Lab Tasks
 
@@ -51,21 +51,21 @@ His vague instructions and context can be summarized as follows:
 
 #### Detailed Instructions
 
-- [Task 1](http://gis.joewheaton.org/assignments/labs/lab06-1/task-1)
-- [Task 2](http://gis.joewheaton.org/assignments/labs/lab06-1/task-2)
+- [Task 1]({{ site.baseurl }}/assignments/labs/lab06-1/task-1)
+- [Task 2]({{ site.baseurl }}/assignments/labs/lab06-1/task-2)
 
 ## Data for This Lab
 
-While DEM data exists for your area of interest, it is often a challenge to get it in the format you want, covering the extent you are interested in. Since DEMs are rasters, they are typically available in rectangular raster tiles. Almost always, the area you are interested in is on the junction of, or covers, multiple raster tiles. Tasks [1](http://gis.joewheaton.org/assignments/labs/lab06-1/task-1) and [2](http://gis.joewheaton.org/assignments/labs/lab06-1/task-2) are all about working with existing DEM data provided from somewhere else. 
+While DEM data exists for your area of interest, it is often a challenge to get it in the format you want, covering the extent you are interested in. Since DEMs are rasters, they are typically available in rectangular raster tiles. Almost always, the area you are interested in is on the junction of, or covers, multiple raster tiles. Tasks [1]({{ site.baseurl }}/assignments/labs/lab06-1/task-1) and [2]({{ site.baseurl }}/assignments/labs/lab06-1/task-2) are all about working with existing DEM data provided from somewhere else. 
 
-The download of data you need for [Task 1](http://gis.joewheaton.org/assignments/labs/lab06-1/task-1) and [Task 2](http://gis.joewheaton.org/assignments/labs/lab06-1/task-2) is described in the [Task 1 Instructions](http://gis.joewheaton.org/assignments/labs/lab06-1/task-1). 
+The download of data you need for [Task 1]({{ site.baseurl }}/assignments/labs/lab06-1/task-1) and [Task 2]({{ site.baseurl }}/assignments/labs/lab06-1/task-2) is described in the [Task 1 Instructions]({{ site.baseurl }}/assignments/labs/lab06-1/task-1). 
 
 ## What to Submit
 
 - Spatial Context: locator map showing watershed and extent indicator for larger scale maps. This can be done with an interactive google map or a static map figure.
 
 
-- Task [1](http://gis.joewheaton.org/assignments/labs/lab06-1/task-1):
+- Task [1]({{ site.baseurl }}/assignments/labs/lab06-1/task-1):
 
 - - Create a set of figures that **\*clearly illustrate the resolution differences*** between the 4 datasets at fine scale (i.e. smaller extent).
 
@@ -76,7 +76,7 @@ The download of data you need for [Task 1](http://gis.joewheaton.org/assignments
   - Show a 3D perspective (ArcScene) of one of these Big Cottonwood Canyon DEMs. (optional)
 
 
-- Task [2](http://gis.joewheaton.org/assignments/labs/lab06-1/task-2):
+- Task [2]({{ site.baseurl }}/assignments/labs/lab06-1/task-2):
 
 - - Show a figure demonstrating the 4 peaks from which you extracted elevations.  
 
@@ -93,7 +93,7 @@ Make sure your lab conforms to the general [lab submission guidelines](http://a/
 
 #### Lab Introduction Slides
 
-[![img](http://gis.joewheaton.org/_/rsrc/1325801572897/assignments/labs/lab01/PDF_Icon.png)](http://gis.joewheaton.org/assignments/labs/lab01/PDF_Icon.png?attredirects=0) [Lab 6 Slides](http://etal.usu.edu/Courses/GIS/2013/Lab/ppt/4930_wk06_DEMs.pdf) - Shannon Belmont Spring 2013
+[![img]({{ site.baseurl }}/_/rsrc/1325801572897/assignments/labs/lab01/PDF_Icon.png)]({{ site.baseurl }}/assignments/labs/lab01/PDF_Icon.png?attredirects=0) [Lab 6 Slides](http://etal.usu.edu/Courses/GIS/2013/Lab/ppt/4930_wk06_DEMs.pdf) - Shannon Belmont Spring 2013
 
 ### Where to get DEM Data:
 

@@ -126,5 +126,5 @@ Presentation should include:
 
 - Table with results of landcover analysis
 
-[^ Back to Parent Lab 4](http://gis.joewheaton.org/assignments/labs/lab04)                                           [-> Next to Task 2](http://gis.joewheaton.org/assignments/labs/lab04/task-2-details-share-files-with-internal-review-committee)  
+[^ Back to Parent Lab 4]({{ site.baseurl }}/assignments/labs/lab04)                                           [-> Next to Task 2]({{ site.baseurl }}/assignments/labs/lab04/task-2-details-share-files-with-internal-review-committee)  
 

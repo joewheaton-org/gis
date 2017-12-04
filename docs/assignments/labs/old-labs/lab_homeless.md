@@ -14,7 +14,7 @@ We've been using geopocessing all semester without calling it that. One of the w
 
 #### Data for Lab
 
-Refer back to Lab 6, [Task 3](http://gis.joewheaton.org/assignments/labs/lab-07---building-dems/tas) & Lab 7, [Task 1](http://gis.joewheaton.org/assignments/labs/lab-8---choice/lab08a/task-1---watershed-delineation).
+Refer back to Lab 6, [Task 3]({{ site.baseurl }}/assignments/labs/lab-07---building-dems/tas) & Lab 7, [Task 1]({{ site.baseurl }}/assignments/labs/lab-8---choice/lab08a/task-1---watershed-delineation).
 
 ![compute-equal-geoprocessing%20cropped%281%29]({{ site.baseurl }}/assets/images/compute-equal-geoprocessing%20cropped%281%29.png)
 
@@ -22,7 +22,7 @@ Refer back to Lab 6, [Task 3](http://gis.joewheaton.org/assignments/labs/lab-07-
 
 This lab is intended to teach you the basics of geoprocessing in ArcGIS using model builder. You will be required to build a model that pieces together a string of geoprocessing tasks you need to complete an analysis for your project.
 
-Meets [Course Learning Outcomes](http://gis.joewheaton.org/about/primary-learning-outcomes) 2, 3 & 4.
+Meets [Course Learning Outcomes]({{ site.baseurl }}/about/primary-learning-outcomes) 2, 3 & 4.
 
 ### Task 1
 
@@ -30,8 +30,8 @@ This lab consists of a single task in which you will build a model that combines
 
 #### Geoprocessing Tutorials:
 
-- [1. Basics of Loading and Using a Toolbox and Model](http://gis.joewheaton.org/assignments/labs/old-labs/lab_homeless/1-basics-of-loading-and-using-a-toolbox-and-model)
-- [2. Building Your own Tool](http://gis.joewheaton.org/assignments/labs/old-labs/lab_homeless/2-building-your-own-tool)
+- [1. Basics of Loading and Using a Toolbox and Model]({{ site.baseurl }}/assignments/labs/old-labs/lab_homeless/1-basics-of-loading-and-using-a-toolbox-and-model)
+- [2. Building Your own Tool]({{ site.baseurl }}/assignments/labs/old-labs/lab_homeless/2-building-your-own-tool)
 
 ### What to Submit
 
@@ -70,7 +70,7 @@ We've been using geopocessing all semester without calling it that. One of the w
 
 #### Data for Lab
 
-Refer back to Lab 6, [Task 3](http://gis.joewheaton.org/assignments/labs/lab-07---building-dems/tas) & Lab 7, [Task 1](http://gis.joewheaton.org/assignments/labs/lab-8---choice/lab08a/task-1---watershed-delineation).
+Refer back to Lab 6, [Task 3]({{ site.baseurl }}/assignments/labs/lab-07---building-dems/tas) & Lab 7, [Task 1]({{ site.baseurl }}/assignments/labs/lab-8---choice/lab08a/task-1---watershed-delineation).
 
 ![compute-equal-geoprocessing%20cropped%281%29]({{ site.baseurl }}/assets/images/compute-equal-geoprocessing%20cropped%281%29.png)
 
@@ -78,7 +78,7 @@ Refer back to Lab 6, [Task 3](http://gis.joewheaton.org/assignments/labs/lab-07-
 
 This lab is intended to teach you the basics of geoprocessing in ArcGIS using model builder. You will be required to build a model that pieces together a string of geoprocessing tasks you need to complete an analysis for your project.
 
-Meets [Course Learning Outcomes](http://gis.joewheaton.org/about/primary-learning-outcomes) 2, 3 & 4.
+Meets [Course Learning Outcomes]({{ site.baseurl }}/about/primary-learning-outcomes) 2, 3 & 4.
 
 ### Task 1
 
@@ -86,8 +86,8 @@ This lab consists of a single task in which you will build a model that combines
 
 #### Geoprocessing Tutorials:
 
-- [1. Basics of Loading and Using a Toolbox and Model](http://gis.joewheaton.org/assignments/labs/old-labs/lab_homeless/1-basics-of-loading-and-using-a-toolbox-and-model)
-- [2. Building Your own Tool](http://gis.joewheaton.org/assignments/labs/old-labs/lab_homeless/2-building-your-own-tool)
+- [1. Basics of Loading and Using a Toolbox and Model]({{ site.baseurl }}/assignments/labs/old-labs/lab_homeless/1-basics-of-loading-and-using-a-toolbox-and-model)
+- [2. Building Your own Tool]({{ site.baseurl }}/assignments/labs/old-labs/lab_homeless/2-building-your-own-tool)
 
 ### What to Submit
 
@@ -113,4 +113,4 @@ Make sure your lab conforms to the general [lab submission guidelines](http://a/
 
 >>>>>>> Stashed changes
 >>>>>>> Stashed changes
-See the [Additional Resources for this Lecture Topic](http://gis.joewheaton.org/past-year-s-course-topics/geoprocessing)
+See the [Additional Resources for this Lecture Topic]({{ site.baseurl }}/past-year-s-course-topics/geoprocessing)

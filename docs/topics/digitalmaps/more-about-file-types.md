@@ -20,7 +20,7 @@ These are several important file types you will see frequently when working in A
 | ArcGIS project document                  | .mxd             |                                          |
 | Log file                                 | log              | This file records everything anyone   does to the files and when it was done. |
 
-Please refer back to this [Lab 01 reference page](http://gis.joewheaton.org/assignments/labs/lab01/getting-organized-and-oriented/arcgis-10-desktop-orientation/working-with-arccatalog) for how some of these formats are displayed in ArcCatalog. See [here](http://spatialnews.geocomm.com/education/av_fileextensions.html) for information on commonly used extensions.
+Please refer back to this [Lab 01 reference page]({{ site.baseurl }}/assignments/labs/lab01/getting-organized-and-oriented/arcgis-10-desktop-orientation/working-with-arccatalog) for how some of these formats are displayed in ArcCatalog. See [here](http://spatialnews.geocomm.com/education/av_fileextensions.html) for information on commonly used extensions.
 
 **IMPORTANT:** If you want to move your shapefile, you need to move all of these associated files together. A coverage can only be moved together with the INFO directory. If you separate the two you will corrupt the coverage. The best way to move files around is in ArcCatalog, because it keeps files together that need to be together (e.g., you can move the shapefile and all the associated files are automatically moved with it).
 

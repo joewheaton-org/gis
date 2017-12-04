@@ -2,7 +2,7 @@
 title: Nice Maps!
 ---
 
-For each lab, Shannon, Tommy and I will find examples of great maps that you guys create and post on your websites, we'll post them below the table as announcements. If you are enrolled and have not already added your website to the list, please [do so here](http://gis.joewheaton.org/assignments/labs/lab01). Good job and keep it up.
+For each lab, Shannon, Tommy and I will find examples of great maps that you guys create and post on your websites, we'll post them below the table as announcements. If you are enrolled and have not already added your website to the list, please [do so here]({{ site.baseurl }}/assignments/labs/lab01). Good job and keep it up.
 
 ### Your Peer's Websites
 
@@ -94,13 +94,13 @@ For each lab, Shannon, Tommy and I will find examples of great maps that you guy
 | Broderius       | Chance       | https://sites.google.com/site/chancebroderiusgisclasswebsite/home |
 | Kohl            | Michel       | https://sites.google.com/site/michelkohlswebspace/home |
 
-If you want to see the websites from the 2010 class, [click here](http://gis.joewheaton.org/great-maps/great-maps-from-2010).
+If you want to see the websites from the 2010 class, [click here]({{ site.baseurl }}/great-maps/great-maps-from-2010).
 
 ### Great Map Nominations
 
- [Subscribe to posts](http://gis.joewheaton.org/great-maps/posts.xml)
+ [Subscribe to posts]({{ site.baseurl }}/great-maps/posts.xml)
 
-#### [Spring 2014 Lab 10 Great Maps!](http://gis.joewheaton.org/great-maps/spring2014lab10greatmaps)
+#### [Spring 2014 Lab 10 Great Maps!]({{ site.baseurl }}/great-maps/spring2014lab10greatmaps)
 
 posted May 5, 2014, 11:36 PM by Thomas Thompson
 

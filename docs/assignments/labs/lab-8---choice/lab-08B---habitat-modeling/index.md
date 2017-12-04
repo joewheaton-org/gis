@@ -14,7 +14,7 @@ In this lab we're going to try and figure out where the ungulates (cows) would h
 
 #### Data for Lab
 
-- ![img](http://gis.joewheaton.org/_/rsrc/1293667540566/config/pagetemplates/lab-template/zip_icon.gif) [Matlab Model & Input Data Files](http://etal.usu.edu/GCT/GrazingCapacity_FIS_InputsOnly.zip)
+- ![img]({{ site.baseurl }}/_/rsrc/1293667540566/config/pagetemplates/lab-template/zip_icon.gif) [Matlab Model & Input Data Files](http://etal.usu.edu/GCT/GrazingCapacity_FIS_InputsOnly.zip)
 
 Given how hard we've been working you the past three labs, we're going to lighten the work-load of this lab (allow you to have a spring break). A major challenge in running these models is getting all your inputs together and in a consistent format. We've scaled back the scope of this lab.  Instead of having you plow through the tedious task of finding, cleaning up, and processing your inputs, we are simply providing you with the correctly formatted inputs for running the model in Matlab. The trickiest thing you'll have to deal with is getting the ascii rasters to display properly in ArcGIS (something you should be an expert at by now - HINT - calculate statistics and change display properties). 
 
@@ -26,7 +26,7 @@ Given how hard we've been working you the past three labs, we're going to lighte
 - Exposure to Matlab
 - Articulate a critical evaluation of model, methodology, and model outputs
 
-Meets [Course Learning Outcomes](http://gis.joewheaton.org/about/primary-learning-outcomes) 3 & 5. 
+Meets [Course Learning Outcomes]({{ site.baseurl }}/about/primary-learning-outcomes) 3 & 5. 
 
 ------
 
@@ -48,9 +48,9 @@ Create figures for each of the model inputs. Use the ascii to raster tool (see e
 
 #### More Detailed Information & Instructions
 
-- [Background on the Fuzzy Black Box](http://gis.joewheaton.org/assignments/labs/lab-8---choice/lab-08B---habitat-modeling/background-on-the-fuzzy-black-box)
-- [Inputs](http://gis.joewheaton.org/assignments/labs/lab-8---choice/lab-08B---habitat-modeling/inputs)
-- [Run the Model](http://gis.joewheaton.org/assignments/labs/lab-8---choice/lab-08B---habitat-modeling/run-the-model)
+- [Background on the Fuzzy Black Box]({{ site.baseurl }}/assignments/labs/lab-8---choice/lab-08B---habitat-modeling/background-on-the-fuzzy-black-box)
+- [Inputs]({{ site.baseurl }}/assignments/labs/lab-8---choice/lab-08B---habitat-modeling/inputs)
+- [Run the Model]({{ site.baseurl }}/assignments/labs/lab-8---choice/lab-08B---habitat-modeling/run-the-model)
 
 ### What to Submit
 

@@ -2,7 +2,7 @@
 title: Project Proposal
 ---
 
-You obviously have not been exposed to the full breadth of potential GIS spatial analyses tools yet. However, you can browse through [ArcGIS help](http://help.arcgis.com/en/arcgisdesktop/10.0/help/index.html), look at the [topics we covered in WATS 4930/6920](http://gis.joewheaton.org/topics), and do some[ literature review](http://libguides.usu.edu/content.php?pid=176243&sid=1484018) to identify techniques that you may want to use. Don't worry if your plans change. We won't hold you to exactly what you layout in your proposal. The important thing is to develop a plan, and start pursuing it. **Mid course corrections are expected...**in fact I will be surprised if you stick exactly to your original proposal. 
+You obviously have not been exposed to the full breadth of potential GIS spatial analyses tools yet. However, you can browse through [ArcGIS help](http://help.arcgis.com/en/arcgisdesktop/10.0/help/index.html), look at the [topics we covered in WATS 4930/6920]({{ site.baseurl }}/topics), and do some[ literature review](http://libguides.usu.edu/content.php?pid=176243&sid=1484018) to identify techniques that you may want to use. Don't worry if your plans change. We won't hold you to exactly what you layout in your proposal. The important thing is to develop a plan, and start pursuing it. **Mid course corrections are expected...**in fact I will be surprised if you stick exactly to your original proposal. 
 
 Proposal Deadlines:
 

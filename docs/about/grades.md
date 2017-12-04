@@ -4,18 +4,18 @@ title: Grades
 
 ### Grade Overview
 
-Our primary concern is that you engage in achieving the [learning objectives](http://gis.joewheaton.org/about/primary-learning-outcomes) for this course. Your grade is a secondary concern to us, and if you are effectively learning your grade should be a moot point. However, we recognize how motivated some of you are by grades and we have attempted to provide clear guidelines (below) to help manage your expectations about what you need to do to earn the grade you want. 
+Our primary concern is that you engage in achieving the [learning objectives]({{ site.baseurl }}/about/primary-learning-outcomes) for this course. Your grade is a secondary concern to us, and if you are effectively learning your grade should be a moot point. However, we recognize how motivated some of you are by grades and we have attempted to provide clear guidelines (below) to help manage your expectations about what you need to do to earn the grade you want. 
 
 #### WATS 4930/6920
 
-Your grade consists of lab-based work, a project and occasional quizzes (see [assignments](http://gis.joewheaton.org/assignments)):
+Your grade consists of lab-based work, a project and occasional quizzes (see [assignments]({{ site.baseurl }}/assignments)):
 
-- 9 [Lab](http://gis.joewheaton.org/assignments/labs) Reports (2%-15% each)                                              95%
+- 9 [Lab]({{ site.baseurl }}/assignments/labs) Reports (2%-15% each)                                              95%
 - Occasional Quizzes (Some in class and some on [Canvas](https://learn-usu.uen.org/))       5%
 
 #### WATS 4931/6921
 
-Your grade consists entirely of project-based work (see [Project Components](http://gis.joewheaton.org/assignments/project)):
+Your grade consists entirely of project-based work (see [Project Components]({{ site.baseurl }}/assignments/project)):
 
 - Proposal, 3 Vignettes and Peer Review                               15%
 - Poster Presentation                                                                  15%
@@ -23,9 +23,9 @@ Your grade consists entirely of project-based work (see [Project Components](htt
 
 #### WATS 6915 
 
-Your grade consists of lab-based work (see [assignments](http://gis.joewheaton.org/assignments)):
+Your grade consists of lab-based work (see [assignments]({{ site.baseurl }}/assignments)):
 
-- 4 [Lab](http://gis.joewheaton.org/assignments/labs) Reports (2%-10% each)                                               95%
+- 4 [Lab]({{ site.baseurl }}/assignments/labs) Reports (2%-10% each)                                               95%
 - Occasional Quizzes (Some in class and some on [Canvas](https://learn-usu.uen.org/))      5%
 
 ### Grading Specifics:
@@ -68,27 +68,27 @@ All labs consist of a series of tasks. See the grading rubric for each lab on Ca
 
 #### Quizzes (5% of final grade)
 
-There will be between three and ten pop-quiz activities. The number of quizzes will depend partly on attendance - if attendance drops we will start having more quizzes. All quizzes will be graded pass-fail and weighted equally. The format of these quizzes will vary widely, but most are designed to help you gauge your own knowledge and assess where you are at with respect to the [lecture material](http://gis.joewheaton.org/topics) and [readings](http://gis.joewheaton.org/assignments/reading-assignments-2010). The grades from these are essentially participation points. If you attend class regularly, this should be the easiest free 5% you can earn. There will be NO makeup quizzes. If you miss a quiz due to a *pre-excused absence*, we will award you a pass. If you miss a quiz due to any other reason that was not cleared with the instructor prior to the absence, you will receive a fail.
+There will be between three and ten pop-quiz activities. The number of quizzes will depend partly on attendance - if attendance drops we will start having more quizzes. All quizzes will be graded pass-fail and weighted equally. The format of these quizzes will vary widely, but most are designed to help you gauge your own knowledge and assess where you are at with respect to the [lecture material]({{ site.baseurl }}/topics) and [readings]({{ site.baseurl }}/assignments/reading-assignments-2010). The grades from these are essentially participation points. If you attend class regularly, this should be the easiest free 5% you can earn. There will be NO makeup quizzes. If you miss a quiz due to a *pre-excused absence*, we will award you a pass. If you miss a quiz due to any other reason that was not cleared with the instructor prior to the absence, you will receive a fail.
 
 ### Breakdown of Grading Weights for WATS 4931/6921
 
 #### Project (100% of final grade)
 
-Your [project](http://gis.joewheaton.org/assignments/project) grade will consist of the [following components](http://gis.joewheaton.org/assignments/project#TOC-Grading-Criteria):
+Your [project]({{ site.baseurl }}/assignments/project) grade will consist of the [following components]({{ site.baseurl }}/assignments/project#TOC-Grading-Criteria):
 
 - These six project components are worth 30% of your grade:
 
-1. 1. [Project Proposal](http://gis.joewheaton.org/assignments/project/project-proposal) - *5 pts*
+1. 1. [Project Proposal]({{ site.baseurl }}/assignments/project/project-proposal) - *5 pts*
    2. Data Prep Vignette -* 5 pts*
    3. Data Analysis Vignette 1 - *5 pts*
    4. Data Analysis Vignette 2 - * 5 pts*
-   5. [Project Poster Presentation](http://gis.joewheaton.org/assignments/project/poster-session) - *25 pts*.  
+   5. [Project Poster Presentation]({{ site.baseurl }}/assignments/project/poster-session) - *25 pts*.  
    6. Project Peer Review -* 5 pts*
 
 - - Project components 1-4 and 6 (proposal, vignettes and peer review) are worth half of the 30% (15% of total grade)
   - Poster Presentation (5) is worth theother half of the 30% (15% of total grade)
 
-- The [Final Project Manuscript](http://gis.joewheaton.org/assignments/project/final-report-or-manuscripts) is worth 70% of your grade
+- The [Final Project Manuscript]({{ site.baseurl }}/assignments/project/final-report-or-manuscripts) is worth 70% of your grade
 
 For the project report or manuscript, we will use the following rubric:
 
@@ -147,7 +147,7 @@ In addition to the basic feedback (6 C's) and the discretionary written feedback
 
 We may occasionally get a grade wrong, or make a mistake in grading your work. It is your responsibility to check your grades and read the feedback and make sure we got it right. We are happy to explain how we arrived at a particular part of your grade (not the entire grade for an assignment as this is clear from the above information). We are also happy to fix your grades if we made a mistake. 
 
-The procedure for **requesting an explanation for a specific grade** (e.g. as part of a specific task) is simple. First approach the member of the [teaching staff](http://gis.joewheaton.org/about/instructors) who graded your assignment (in person in lab or during office hours is best, but an email will suffice) and point out what has surprised or confused you about your grade (be specific) and ask for a clarification. 
+The procedure for **requesting an explanation for a specific grade** (e.g. as part of a specific task) is simple. First approach the member of the [teaching staff]({{ site.baseurl }}/about/instructors) who graded your assignment (in person in lab or during office hours is best, but an email will suffice) and point out what has surprised or confused you about your grade (be specific) and ask for a clarification. 
 
 After hearing the explanation, if you wish to **submit a formal request for us to reconsider your grade**, please do so in the form of an email. Please make sure that it is worth requesting a reconsideration of your grade, because we will look at the entire assignment again and it is possible that your reconsidered grade may be lowered. 
 

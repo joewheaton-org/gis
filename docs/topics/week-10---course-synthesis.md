@@ -23,6 +23,6 @@ To synthesize what we've learned this semester.
 
 #### Follow up Courses:
 
-- [List of Follow Up Courses and Activities](http://gis.joewheaton.org/about/alternative-courses) -*Things you can do to further your GIS & Spatial Analysis education.*
+- [List of Follow Up Courses and Activities]({{ site.baseurl }}/about/alternative-courses) -*Things you can do to further your GIS & Spatial Analysis education.*
 
   ​

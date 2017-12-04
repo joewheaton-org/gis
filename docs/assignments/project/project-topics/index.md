@@ -8,7 +8,7 @@ This year's 'canned' topics include (list will grow):
 
 - [Prioritizing eroding bluffs for stabilization, Minnesota River Basin](http://etal.usu.edu/Courses/GIS/2015/Projects/GIS%20Project_BluffStabilization.pdf) - Peter Wilcock promises lots of personal attention in helping you with this project.
 
-- [City of Logan, GIS-Based Story Maps ](http://gis.joewheaton.org/assignments/project/project-topics/city-of-logan-gis-based-story-maps)- *Talk to Joe Wheaton and Chuck Shaw.* Multiple options:
+- [City of Logan, GIS-Based Story Maps ]({{ site.baseurl }}/assignments/project/project-topics/city-of-logan-gis-based-story-maps)- *Talk to Joe Wheaton and Chuck Shaw.* Multiple options:
 
 - - City Building Information (e.g. where to go for specific services)
   - Trail Information

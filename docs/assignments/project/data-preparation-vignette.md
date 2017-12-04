@@ -4,7 +4,7 @@ title: Data Preparation Vignette
 
 In the second week of the project course, you will focus on getting all your data together and ready for analysis.  You should work on filling this vignette out all week and use its structure to help you organize your activities and tasks. You will bring a draft of it with you to Thursday's class and you will turn in a final version on Friday night. 
 
-Please use the ![img](http://gis.joewheaton.org/_/rsrc/1364166508198/assignments/project/data-preparation-vignette/small_word_icon.gif) `DataPrepVignetteTemplate.docx` to complete your vignette. Include figures as appropriate!
+Please use the ![img]({{ site.baseurl }}/_/rsrc/1364166508198/assignments/project/data-preparation-vignette/small_word_icon.gif) `DataPrepVignetteTemplate.docx` to complete your vignette. Include figures as appropriate!
 
 Instructions are provided in the template, but are also listed below for reference:
 
@@ -20,7 +20,7 @@ Provide a brief description of the spatial extents of where you plan on conducti
 
 Please describe the basic location and characteristics of where you are conducting your model. Include at least one Project Location Map and site vicinity map (if appropriate). Denote on the map the spatial extent that will be necessary for all your inputs. 
 
-If having concurrent rasters is important, you might find this ![img](http://gis.joewheaton.org/_/rsrc/1364181460189/assignments/project/data-preparation-vignette/Excel_icon.gif) `Concurrency Calculator.xltx` that Philip Bailey put together quite helpful.
+If having concurrent rasters is important, you might find this ![img]({{ site.baseurl }}/_/rsrc/1364181460189/assignments/project/data-preparation-vignette/Excel_icon.gif) `Concurrency Calculator.xltx` that Philip Bailey put together quite helpful.
 
 ### Coordinate System
 
@@ -84,7 +84,7 @@ A major stumbling block for many students is simply getting organized and making
 - A ‘Working’ folder where draft versions of analyses and attempts of analyses get saved temporarily. 
 - A ‘Final’ folder for your final inputs and outputs. 
 
-Please refer back to the [File Management](http://gis.joewheaton.org/assignments/labs/lab01/getting-organized-and-oriented/file-management) guidelines in [Lab 1](http://gis.joewheaton.org/assignments/labs/lab01) for more tips. 
+Please refer back to the [File Management]({{ site.baseurl }}/assignments/labs/lab01/getting-organized-and-oriented/file-management) guidelines in [Lab 1]({{ site.baseurl }}/assignments/labs/lab01) for more tips. 
 
 ------
 

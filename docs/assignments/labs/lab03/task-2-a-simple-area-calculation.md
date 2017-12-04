@@ -90,5 +90,5 @@ Create a table for your website in which you report the rock names, areas with u
 
 This task illustrated how you can do some simple analyses of spatial data.
 
-<- [Back to Task 1 ](http://gis.joewheaton.org/assignments/labs/lab03/task-01---reproduce-geologic-map)         ^ [Back to Main Lab Page](http://gis.joewheaton.org/assignments/labs/lab03)
+<- [Back to Task 1 ]({{ site.baseurl }}/assignments/labs/lab03/task-01---reproduce-geologic-map)         ^ [Back to Main Lab Page]({{ site.baseurl }}/assignments/labs/lab03)
 

@@ -34,7 +34,7 @@ This is a reduced resolution version of the 1953 Aerial photo (notice that north
 
 #### WARNING!
 
-When you georeference an image in your Map Document, the changes ARE NOT saved in the map document. You can only save the link table, and the original image is NOT modified. You must use the Rectify command at the end to save a georeferenced image. You then need to load the rectified image manually back into your Map Document. If you want to get rid of the Black background, Go to the layer properties -> symbology -> and check the display background values of 0 , 0 ,0 and choose transparent for color. Also, pay special attention to the details of the coordinate systems between Task 1 and [2](http://gis.joewheaton.org/assignments/labs/old-labs/Georeferencing/task-2-georeferencing-a-digital-aerial-photograph).
+When you georeference an image in your Map Document, the changes ARE NOT saved in the map document. You can only save the link table, and the original image is NOT modified. You must use the Rectify command at the end to save a georeferenced image. You then need to load the rectified image manually back into your Map Document. If you want to get rid of the Black background, Go to the layer properties -> symbology -> and check the display background values of 0 , 0 ,0 and choose transparent for color. Also, pay special attention to the details of the coordinate systems between Task 1 and [2]({{ site.baseurl }}/assignments/labs/old-labs/Georeferencing/task-2-georeferencing-a-digital-aerial-photograph).
 
 ### What to Submit
 

@@ -10,11 +10,11 @@ In ArcMap go to the Customize drop down > Extensions.  Click in the Spatial Anal
 
 Task 1 is really all about getting four different resolution DEMs for our study watershed (Big Cottonwood Canyon) into ArcGIS and then displaying them in a useful format. This sounds like a straight-forward task, but in reality it is a somewhat nuanced exercise and takes a while to get everything in exactly the format you want for the areas you want. This is typical of working with raster data provided from others ([Utah AGRC](http://gis.utah.gov/data/#) in this case). 
 
-These instructions DO NOT walk through every step of that process for you. However they do cover most of the tricky parts once (i.e. for one of the four resolution DEMs) and then we expect you to be able to apply that knowledge by doing the same thing for the other datasets. We start our instructions focusing on finding where our study site is, and then we start with the high resolution data first (2m LiDaR DEM) and move on to the easier coarser resolution datasets. As with all the instructions in these [labs](http://gis.joewheaton.org/assignments/labs), this is not the only way to do things, but it is suggested. 
+These instructions DO NOT walk through every step of that process for you. However they do cover most of the tricky parts once (i.e. for one of the four resolution DEMs) and then we expect you to be able to apply that knowledge by doing the same thing for the other datasets. We start our instructions focusing on finding where our study site is, and then we start with the high resolution data first (2m LiDaR DEM) and move on to the easier coarser resolution datasets. As with all the instructions in these [labs]({{ site.baseurl }}/assignments/labs), this is not the only way to do things, but it is suggested. 
 
 ### Figure out Where the Big Cottonwood Canyon Watershed Is
 
- Download* and unzip the `Watersheds_Area_shp or _gdb file` from the [Utah AGRC](http://gis.utah.gov/data/water-data-services/watersheds/) for the state of Utah. After [lab 4](http://gis.joewheaton.org/assignments/labs/lab04) you should appreciate the differences between the two formats. 
+ Download* and unzip the `Watersheds_Area_shp or _gdb file` from the [Utah AGRC](http://gis.utah.gov/data/water-data-services/watersheds/) for the state of Utah. After [lab 4]({{ site.baseurl }}/assignments/labs/lab04) you should appreciate the differences between the two formats. 
 
 1. Load the `Watersheds_Area` polygon feature class for Utah into an empty map document.
 2. Add an imagery basemap for context.
@@ -31,7 +31,7 @@ For 2 m LiDaR DEM... you will need to know what tiles to download. You can do th
 
 [![2011-02-13_112019]({{ sites.baseurl }}/assets/images/2011-02-13_112019.png)]({{ sites.baseurl }}/assets/images/hr/2011-02-13_112019.png)
 
-Now we have a problem. When we look at the **LiDAR2006_2m_BareEarth_Tiles** attribute table, we see the query has correctly returned 51 records (note you can view just the selected in the attribute table with the *Show Selected Records* button![img](http://gis.joewheaton.org/_/rsrc/1297621926365/assignments/labs/lab06-1/task-1/ShowJustSelcted.png): 
+Now we have a problem. When we look at the **LiDAR2006_2m_BareEarth_Tiles** attribute table, we see the query has correctly returned 51 records (note you can view just the selected in the attribute table with the *Show Selected Records* button![img]({{ site.baseurl }}/_/rsrc/1297621926365/assignments/labs/lab06-1/task-1/ShowJustSelcted.png): 
 
 [![2011-02-13_112907]({{ sites.baseurl }}/assets/images/2011-02-13_112907.png)]({{ sites.baseurl }}/assets/images/hr/2011-02-13_112907.png)
 
@@ -117,9 +117,9 @@ So that the Cottonwood Canyons Foundation has some eye candy, you can use [ArcSc
 
 ### What to Submit
 
-See the [what to submit](http://gis.joewheaton.org/assignments/labs/lab06-1#TOC-What-to-Submit) section for Task 1.
+See the [what to submit]({{ site.baseurl }}/assignments/labs/lab06-1#TOC-What-to-Submit) section for Task 1.
 
-[Proceed to Task 2](http://gis.joewheaton.org/assignments/labs/lab06-1/task-2)
+[Proceed to Task 2]({{ site.baseurl }}/assignments/labs/lab06-1/task-2)
 
 
 

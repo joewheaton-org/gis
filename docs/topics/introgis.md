@@ -10,7 +10,7 @@ We need to review the basics of GIS, what it is, what we use it for, why we shou
 
 #### Why we're Covering it
 
-Although there are [prerequisites](http://gis.joewheaton.org/about/catalog-description) of previous GIS experience or cousework (for undergraduates) and GEOG 1800 for undergraduates, I typically find it is safe to assume you've forgotten most of what you know. A refresher never hurts. Moreover, this introduction and review will get us all on the same page. 
+Although there are [prerequisites]({{ site.baseurl }}/about/catalog-description) of previous GIS experience or cousework (for undergraduates) and GEOG 1800 for undergraduates, I typically find it is safe to assume you've forgotten most of what you know. A refresher never hurts. Moreover, this introduction and review will get us all on the same page. 
 
 WebGIS is something most of you have used whether you realize it or not. For example, you have probably used maps like the GoogleMap below many times:
 
@@ -44,7 +44,7 @@ GIS software
 
 #### Learning Outcomes
 
-These lectures, readings and Lab 01 all help fulfill [primary learning outcomes](http://gis.joewheaton.org/about/primary-learning-outcomes) 1 & 5.
+These lectures, readings and Lab 01 all help fulfill [primary learning outcomes]({{ site.baseurl }}/about/primary-learning-outcomes) 1 & 5.
 
 ### Lecture 
 
@@ -54,21 +54,21 @@ Here we cover the syllabus, introductions and start to review maps.
 
 Current Year:
 
-- [![img](http://gis.joewheaton.org/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif)](http://gis.joewheaton.org/topics/introgis/pdf_icon.gif?attredirects=0) [2017 Tuesday & Thursday Lecture](http://etalweb.joewheaton.org/Courses/GIS/2017/Lectures/1_IntroToCourse_%26GIS_Review.pdf) - PDF 
+- [![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif)]({{ site.baseurl }}/topics/introgis/pdf_icon.gif?attredirects=0) [2017 Tuesday & Thursday Lecture](http://etalweb.joewheaton.org/Courses/GIS/2017/Lectures/1_IntroToCourse_%26GIS_Review.pdf) - PDF 
 
 Past Years:
 
 Starting in 2013, we covered the syllabus, a review of GIS and intro to WebGIS on the first day.
 
-- [![img](http://gis.joewheaton.org/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif)](http://gis.joewheaton.org/topics/introgis/pdf_icon.gif?attredirects=0) [2015 Tuesday Lecture - PDF](http://etal.usu.edu/Courses/GIS/2015/Lectures/1_IntroToCourse_&GIS_Review.pdf) 
+- [![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif)]({{ site.baseurl }}/topics/introgis/pdf_icon.gif?attredirects=0) [2015 Tuesday Lecture - PDF](http://etal.usu.edu/Courses/GIS/2015/Lectures/1_IntroToCourse_&GIS_Review.pdf) 
 
-- [![img](http://gis.joewheaton.org/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif)](http://gis.joewheaton.org/topics/introgis/pdf_icon.gif?attredirects=0) [2014 Tuesday Lecture - PDF](http://etal.usu.edu/Courses/GIS/2014/Lectures/Week01/1_IntroToCourse_&GIS_Review.pdf)
+- [![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif)]({{ site.baseurl }}/topics/introgis/pdf_icon.gif?attredirects=0) [2014 Tuesday Lecture - PDF](http://etal.usu.edu/Courses/GIS/2014/Lectures/Week01/1_IntroToCourse_&GIS_Review.pdf)
 
-- [![img](http://gis.joewheaton.org/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif)](http://gis.joewheaton.org/topics/introgis/pdf_icon.gif?attredirects=0) 2013 [Tuesday Lecture - PDF](http://etal.usu.edu/Courses/GIS/2013/Lectures/Week_01/1_IntroToCourse_&GIS_Review.pdf)
+- [![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif)]({{ site.baseurl }}/topics/introgis/pdf_icon.gif?attredirects=0) 2013 [Tuesday Lecture - PDF](http://etal.usu.edu/Courses/GIS/2013/Lectures/Week_01/1_IntroToCourse_&GIS_Review.pdf)
 
-- [![img](http://gis.joewheaton.org/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif)](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/topics/introgis/1_IntroToCourse_%26GIS_Review_2PP.pdf?attredirects=0) 2012 [Tuesday Lecture  - PDF](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2001%20-%20Intro%20to%20GIS/1_IntroToCourse_&GIS_Review_2PP.pdf) w/ 2 slides per page
+- [![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif)](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/topics/introgis/1_IntroToCourse_%26GIS_Review_2PP.pdf?attredirects=0) 2012 [Tuesday Lecture  - PDF](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2001%20-%20Intro%20to%20GIS/1_IntroToCourse_&GIS_Review_2PP.pdf) w/ 2 slides per page
 
-- ![img](http://gis.joewheaton.org/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2012 [Tuesday Lecture - PDF](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2001%20-%20Intro%20to%20GIS/1_IntroToCourse_&GIS_Review_6PP.pdf) w/ 6 slides per page
+- ![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2012 [Tuesday Lecture - PDF](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2001%20-%20Intro%20to%20GIS/1_IntroToCourse_&GIS_Review_6PP.pdf) w/ 6 slides per page
 
 - - 2012 [Video of Lecture](http://youtube.com/watch?v=ZNBiOnxcJkY) 
 
@@ -78,8 +78,8 @@ Starting in 2013, we covered the syllabus, a review of GIS and intro to WebGIS o
 
 In this lecture (from 2012) we eased into a review of GIS and Intro to WebGIS
 
-- [![img](http://gis.joewheaton.org/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif)](http://gis.joewheaton.org/topics/introgis/pdf_icon.gif?attredirects=0) 2012 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2001%20-%20Intro%20to%20GIS/2_ArcGIS_Refresher_WebGIS_2PP.pdf) - PDF w/ 2 slides per page 
-- [![img](http://gis.joewheaton.org/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif)](http://gis.joewheaton.org/topics/introgis/pdf_icon.gif?attredirects=0) 2012 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2001%20-%20Intro%20to%20GIS/2_ArcGIS_Refresher_WebGIS_6PP.pdf) - PDF w/ 6 slides per page
+- [![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif)]({{ site.baseurl }}/topics/introgis/pdf_icon.gif?attredirects=0) 2012 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2001%20-%20Intro%20to%20GIS/2_ArcGIS_Refresher_WebGIS_2PP.pdf) - PDF w/ 2 slides per page 
+- [![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif)]({{ site.baseurl }}/topics/introgis/pdf_icon.gif?attredirects=0) 2012 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2001%20-%20Intro%20to%20GIS/2_ArcGIS_Refresher_WebGIS_6PP.pdf) - PDF w/ 6 slides per page
 - 2012 [Video of Lecture](http://youtu.be/2oj-ay1NBSM?list=PL0ZiZg4rilzIZguMkS4RihH2SSIcWLasD)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2oj-ay1NBSM" frameborder="0" allowfullscreen></iframe>

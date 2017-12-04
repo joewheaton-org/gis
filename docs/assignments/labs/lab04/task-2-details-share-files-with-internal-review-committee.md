@@ -99,7 +99,7 @@ Click [here](http://help.arcgis.com/en/arcgisdesktop/10.0/help/index.html#//00s5
 
 Remember, it is possible to 'group' files in your ArcMap table of contents by holding the control key while selecting layer files, right clicking and selecting 'group'.  This might come in handy when saving your layer package file.
 
-You will need your ESRI Global Account login information, which you most likely created if you installed the Arc10 software on your personal computer.  If not, you will need to create an ESRI Global account (you probably did this for the [first reading assignment](http://gis.joewheaton.org/assignments/reading-assignments/readchapteronefamiliarizeyourselfwithclasswebsite)).  
+You will need your ESRI Global Account login information, which you most likely created if you installed the Arc10 software on your personal computer.  If not, you will need to create an ESRI Global account (you probably did this for the [first reading assignment]({{ site.baseurl }}/assignments/reading-assignments/readchapteronefamiliarizeyourselfwithclasswebsite)).  
 
 Once you have an active account, go to [ArcGIS Online](http://www.arcgis.com/home/) and Sign In in the upper right hand corner.  Once you are signed in, go to My Content if you aren't directed there automatically.  This is where you can 'Add an Item' (i.e. your layer package containing your campground, campsite, and road shape and layer files).  Notice that you have 2GB of storage on their server!  If you choose to, you can 'Share' your layer package with the public or any group you are a member of.  
 
@@ -107,11 +107,11 @@ Once you have an active account, go to [ArcGIS Online](http://www.arcgis.com/hom
 
 ## Step 2: Google map
 
-Create an interactive Google map displaying your campground files.  (Refer back to [Lab 1 Task 3](http://gis.joewheaton.org/assignments/labs/lab01/task3) and the course forum for how-to details.)  Remember to include a descriptive title for your interactive map.  Consider using the Google map as a device for illustrating campground proximity to surrounding cities...
+Create an interactive Google map displaying your campground files.  (Refer back to [Lab 1 Task 3]({{ site.baseurl }}/assignments/labs/lab01/task3) and the course forum for how-to details.)  Remember to include a descriptive title for your interactive map.  Consider using the Google map as a device for illustrating campground proximity to surrounding cities...
 
 ## Step 3: Upload final images of your campground design
 
-Display your map components on your webpage at sizes sufficient for the details to be discernible.  Include link to download higher resolution images as pdfs if necessary.  See [Lab 1](http://gis.joewheaton.org/assignments/labs/lab01/task3) for how-to details.
+Display your map components on your webpage at sizes sufficient for the details to be discernible.  Include link to download higher resolution images as pdfs if necessary.  See [Lab 1]({{ site.baseurl }}/assignments/labs/lab01/task3) for how-to details.
 
 ## Step 4: Take Quiz to demonstrate your knowledge of GIS file types.
 
@@ -119,5 +119,5 @@ Quiz will cover layer files, map project documents (mxd files), shapefiles, geod
 
 [Take Lab04 Quiz on File Types ](https://usu.instructure.com/courses/360981/quizzes/504498) (have to be logged into Canvas for link to work).
 
-#### Proceed to [What to Submit Section](http://gis.joewheaton.org/assignments/labs/lab04#TOC-What-to-Submit)
+#### Proceed to [What to Submit Section]({{ site.baseurl }}/assignments/labs/lab04#TOC-What-to-Submit)
 

@@ -37,13 +37,13 @@ Do not attempt to synchronize or backup data while ArcGIS software is open that 
 
 ### Suggested Folder Organization
 
-Once you decide [where you are going store your GIS data](http://gis.joewheaton.org/assignments/labs/lab01/getting-organized-and-oriented/file-management#TOC-Storage-Location), you need to have an organized directory structure that is logical and easy to navigate quickly to the files you need when you need them. We have prepared a [folder structure template](http://etal.usu.edu/Courses/GIS/2013/Other/WATS_4930_6920.zip) you might use for this course (click on for larger view):
+Once you decide [where you are going store your GIS data]({{ site.baseurl }}/assignments/labs/lab01/getting-organized-and-oriented/file-management#TOC-Storage-Location), you need to have an organized directory structure that is logical and easy to navigate quickly to the files you need when you need them. We have prepared a [folder structure template](http://etal.usu.edu/Courses/GIS/2013/Other/WATS_4930_6920.zip) you might use for this course (click on for larger view):
 
 [![DirectoryStructure]({{ site.baseurl }}/assets/images/DirectoryStructure.PNG)]({{ site.baseurl }}/assets/images/hr/DirectoryStructure.PNG)
 
-Folder Template: [WATS4930.zip](http://etal.usu.edu/Courses/GIS/2013/Other/WATS_4930_6920.zip) ![img](http://gis.joewheaton.org/_/rsrc/1294542586979/assignments/labs/lab01/getting-organized-and-oriented/file-management/zip_icon.gif)
+Folder Template: [WATS4930.zip](http://etal.usu.edu/Courses/GIS/2013/Other/WATS_4930_6920.zip) ![img]({{ site.baseurl }}/_/rsrc/1294542586979/assignments/labs/lab01/getting-organized-and-oriented/file-management/zip_icon.gif)
 
-You can unzip the folder template to any parent folder (`WATS4930 `in the example above) in your chosen [storage locations](http://gis.joewheaton.org/assignments/labs/lab01/getting-organized-and-oriented/file-management#TOC-Storage-Location). The directories are organized as follows:
+You can unzip the folder template to any parent folder (`WATS4930 `in the example above) in your chosen [storage locations]({{ site.baseurl }}/assignments/labs/lab01/getting-organized-and-oriented/file-management#TOC-Storage-Location). The directories are organized as follows:
 
 - `Common` - For any common base layers you find yourself using across labs and/or your project
 - `Labs `- With a subdirectory for each lab.
@@ -57,7 +57,7 @@ If you are unfamiliar with dealing with zip files, see [here](http://www.ehow.co
 
 ### Storage Formats
 
-We will cover [data types](http://gis.joewheaton.org/topics/digitalmaps/more-about-file-types) and storage formats in [Week 02](http://gis.joewheaton.org/topics/digitalmaps).
+We will cover [data types]({{ site.baseurl }}/topics/digitalmaps/more-about-file-types) and storage formats in [Week 02]({{ site.baseurl }}/topics/digitalmaps).
 
 ## Some other References
 

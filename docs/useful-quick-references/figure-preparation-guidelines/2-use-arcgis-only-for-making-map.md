@@ -2,7 +2,7 @@
 title: 3. Use ArcGIS ONLY for Making Figure Building Block
 ---
 
-The take home here, is **get out of ArcGIS as quick as possible**! Why? Because ArcGIS is a finicky, klutzy  slow and cumbersome environment that does not always behave consistently. There are more powerful and efficient software (see [intro](http://gis.joewheaton.org/useful-quick-references/figure-preparation-guidelines)) to put together a figure. Having said that, if you are making a simple figure, ArcGIS alone will often suffice. If you have any thoughts of using this figure for multiple purposes (e.g. a slide in a talk, on a poster, on a website and in a report), get into ArcGIS, do your analysis, make your image building block, and get out!
+The take home here, is **get out of ArcGIS as quick as possible**! Why? Because ArcGIS is a finicky, klutzy  slow and cumbersome environment that does not always behave consistently. There are more powerful and efficient software (see [intro]({{ site.baseurl }}/useful-quick-references/figure-preparation-guidelines)) to put together a figure. Having said that, if you are making a simple figure, ArcGIS alone will often suffice. If you have any thoughts of using this figure for multiple purposes (e.g. a slide in a talk, on a poster, on a website and in a report), get into ArcGIS, do your analysis, make your image building block, and get out!
 
 There are many options for making maps and using multiple data frames within one ArcMap document. 
 
@@ -58,7 +58,7 @@ There are also several export options.  Which option you choose will depend on t
 
 ### Examples
 
-In the video below Martha shows us how to export some typical map elements from ArcGIS so we can use them [later in Adobe Illustrator](http://gis.joewheaton.org/useful-quick-references/figure-preparation-guidelines/4-assemble-the-figure-in-a-drawing-application/using-adobe-illustrator-to-assemble):
+In the video below Martha shows us how to export some typical map elements from ArcGIS so we can use them [later in Adobe Illustrator]({{ site.baseurl }}/useful-quick-references/figure-preparation-guidelines/4-assemble-the-figure-in-a-drawing-application/using-adobe-illustrator-to-assemble):
 
 #### Exporting from ArcMap for Adobe Illustrator
 
@@ -66,10 +66,10 @@ In the video below Martha shows us how to export some typical map elements from 
 
 If you wish to follow along with the exact same data used in the video above, you can download the data from <http://etal.usu.edu/Downloads/ArcmapToIllustrator/>:
 
-- [CHaMP Sites](http://etal.usu.edu/Downloads/ArcmapToIllustrator/CHaMPSites.zip) [![http://etal.usu.edu/Downloads/ArcmapToIllustrator/CHaMPSites.zip](http://gis.joewheaton.org/_/rsrc/1397705972437/useful-quick-references/figure-preparation-guidelines/2-use-arcgis-only-for-making-map/winzip_icon_16.gif)](http://etal.usu.edu/Downloads/ArcmapToIllustrator/CHaMPSites.zip)
-- [Perennial Stream Drainage Network](http://etal.usu.edu/Downloads/ArcmapToIllustrator/PerennialStreams.zip) [![http://etal.usu.edu/Downloads/ArcmapToIllustrator/PerennialStreams.zip](http://gis.joewheaton.org/_/rsrc/1397705972437/useful-quick-references/figure-preparation-guidelines/2-use-arcgis-only-for-making-map/winzip_icon_16.gif)](http://etal.usu.edu/Downloads/ArcmapToIllustrator/PerennialStreams.zip)
-- [Tucannon Hillshade](http://etal.usu.edu/Downloads/ArcmapToIllustrator/Tuc10mDEMClipHS.zip) [![http://etal.usu.edu/Downloads/ArcmapToIllustrator/Tuc10mDEMClipHS.zip](http://gis.joewheaton.org/_/rsrc/1397705972437/useful-quick-references/figure-preparation-guidelines/2-use-arcgis-only-for-making-map/winzip_icon_16.gif)](http://etal.usu.edu/Downloads/ArcmapToIllustrator/Tuc10mDEMClipHS.zip)
-- [Tucannon Watershed Boundary ](http://etal.usu.edu/Downloads/ArcmapToIllustrator/TucannonWatershedUTM.zip) [![http://etal.usu.edu/Downloads/ArcmapToIllustrator/TucannonWatershedUTM.zip](http://gis.joewheaton.org/_/rsrc/1397705972437/useful-quick-references/figure-preparation-guidelines/2-use-arcgis-only-for-making-map/winzip_icon_16.gif)](http://etal.usu.edu/Downloads/ArcmapToIllustrator/TucannonWatershedUTM.zip)
+- [CHaMP Sites](http://etal.usu.edu/Downloads/ArcmapToIllustrator/CHaMPSites.zip) [![http://etal.usu.edu/Downloads/ArcmapToIllustrator/CHaMPSites.zip]({{ site.baseurl }}/_/rsrc/1397705972437/useful-quick-references/figure-preparation-guidelines/2-use-arcgis-only-for-making-map/winzip_icon_16.gif)](http://etal.usu.edu/Downloads/ArcmapToIllustrator/CHaMPSites.zip)
+- [Perennial Stream Drainage Network](http://etal.usu.edu/Downloads/ArcmapToIllustrator/PerennialStreams.zip) [![http://etal.usu.edu/Downloads/ArcmapToIllustrator/PerennialStreams.zip]({{ site.baseurl }}/_/rsrc/1397705972437/useful-quick-references/figure-preparation-guidelines/2-use-arcgis-only-for-making-map/winzip_icon_16.gif)](http://etal.usu.edu/Downloads/ArcmapToIllustrator/PerennialStreams.zip)
+- [Tucannon Hillshade](http://etal.usu.edu/Downloads/ArcmapToIllustrator/Tuc10mDEMClipHS.zip) [![http://etal.usu.edu/Downloads/ArcmapToIllustrator/Tuc10mDEMClipHS.zip]({{ site.baseurl }}/_/rsrc/1397705972437/useful-quick-references/figure-preparation-guidelines/2-use-arcgis-only-for-making-map/winzip_icon_16.gif)](http://etal.usu.edu/Downloads/ArcmapToIllustrator/Tuc10mDEMClipHS.zip)
+- [Tucannon Watershed Boundary ](http://etal.usu.edu/Downloads/ArcmapToIllustrator/TucannonWatershedUTM.zip) [![http://etal.usu.edu/Downloads/ArcmapToIllustrator/TucannonWatershedUTM.zip]({{ site.baseurl }}/_/rsrc/1397705972437/useful-quick-references/figure-preparation-guidelines/2-use-arcgis-only-for-making-map/winzip_icon_16.gif)](http://etal.usu.edu/Downloads/ArcmapToIllustrator/TucannonWatershedUTM.zip)
 
 In the video below, Sara shows us a slightly different version of above... Sara uses a few different methods, but both videos provide useful tips and tricks:
 
@@ -77,7 +77,7 @@ In the video below, Sara shows us a slightly different version of above... Sara 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bQGepVTM9KM" frameborder="0" allowfullscreen></iframe>
 
-← Back to  [2. Planning your Figure Layout](http://gis.joewheaton.org/useful-quick-references/figure-preparation-guidelines/2-planning-your-figure-layout)
+← Back to  [2. Planning your Figure Layout]({{ site.baseurl }}/useful-quick-references/figure-preparation-guidelines/2-planning-your-figure-layout)
 
- Next to  → [4. Gather Up Your Other Figure Components](http://gis.joewheaton.org/useful-quick-references/figure-preparation-guidelines/3-gather-up-your-other-figure-components)
+ Next to  → [4. Gather Up Your Other Figure Components]({{ site.baseurl }}/useful-quick-references/figure-preparation-guidelines/3-gather-up-your-other-figure-components)
 

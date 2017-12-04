@@ -4,7 +4,7 @@ title: 6. Export the Final Figure & Put Where Needed
 
 ### What is Figure For?
 
-Finally, when you've assembled your figure and you are happy with it, there is the question of where will you use it. In the beginning of the [Figure Preparation Guidelines](http://gis.joewheaton.org/useful-quick-references/figure-preparation-guidelines), we discussed the different potential different outlets for your figure: 
+Finally, when you've assembled your figure and you are happy with it, there is the question of where will you use it. In the beginning of the [Figure Preparation Guidelines]({{ site.baseurl }}/useful-quick-references/figure-preparation-guidelines), we discussed the different potential different outlets for your figure: 
 
 - **Report** (e.g. inserted in a word document but report with embedded figures is distributed as a PDF)
 - **Manuscript / Journal Article** (i.e. publication quality figures, which include maps are submitted as separate PDFs or EPS at high resolution)
@@ -27,7 +27,7 @@ How you choose to manage your files is your prerogative, but it is often conveni
 - `Figure01_300px.png` - A reduced resolution (300 px wide) version of same figure (for example what is shown in the figure above ↑.  By controlling file size, you can export figures that are the exact size you want for the webpage (and in this case I even make the hyperlink if you click on the figure goto a the higher resolution `Figure01.png` 
 - `Figure01_HR.png` - A ultra high resolution version of same figure
 
-The above list is by no means exhaustive, but you will find that *.png s are much easier to share via email, on websites, etc. and use in web pages, presentations, or reports because they are so much smaller.  If you wish to download all the various flavors of the figures shown in the videos and mentioned above download `AI.zip` [![http://etal.usu.edu/Courses/GIS/2014/Project/Figs/AI.zip](http://gis.joewheaton.org/_/rsrc/1397714092436/useful-quick-references/figure-preparation-guidelines/5-export-the-final-figure-put-where-needed/winzip_icon_16.gif)](http://etal.usu.edu/Courses/GIS/2014/Project/Figs/AI.zip).
+The above list is by no means exhaustive, but you will find that *.png s are much easier to share via email, on websites, etc. and use in web pages, presentations, or reports because they are so much smaller.  If you wish to download all the various flavors of the figures shown in the videos and mentioned above download `AI.zip` [![http://etal.usu.edu/Courses/GIS/2014/Project/Figs/AI.zip]({{ site.baseurl }}/_/rsrc/1397714092436/useful-quick-references/figure-preparation-guidelines/5-export-the-final-figure-put-where-needed/winzip_icon_16.gif)](http://etal.usu.edu/Courses/GIS/2014/Project/Figs/AI.zip).
 
 ### Managing File Sizes
 
@@ -51,6 +51,6 @@ Sometimes the PDFs you save from Adobe Illustrator (above) can be quite large. I
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f32V6vc8Diw" frameborder="0" allowfullscreen></iframe>
 
-← Back to  [5. Assemble the 'Figure' in a Drawing Application](http://gis.joewheaton.org/useful-quick-references/figure-preparation-guidelines/4-assemble-the-figure-in-a-drawing-application)
+← Back to  [5. Assemble the 'Figure' in a Drawing Application]({{ site.baseurl }}/useful-quick-references/figure-preparation-guidelines/4-assemble-the-figure-in-a-drawing-application)
 
  

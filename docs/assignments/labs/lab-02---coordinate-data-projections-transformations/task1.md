@@ -14,5 +14,5 @@ When finished, include a static version of this map in your website. Save your m
 
 For kicks, use the measure tool on the main toolbar, and measure the distance (meters) between CP1 and CP3.  Make note of the distance and compare to the distance measured after the transformation to test whether the data were skewed or distorted during the transformation to a projected coordinate system.
 
-Click here to advance to [detailed Task 2 instructions.](http://gis.joewheaton.org/assignments/labs/lab-02---coordinate-data-projections-transformations/task2)
+Click here to advance to [detailed Task 2 instructions.]({{ site.baseurl }}/assignments/labs/lab-02---coordinate-data-projections-transformations/task2)
 

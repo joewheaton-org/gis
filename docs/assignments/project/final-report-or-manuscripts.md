@@ -35,7 +35,7 @@ Unlike many reports you might have prepared, manuscripts are typically formatted
 
 The nice thing about this is it allows you to focus on content and substance as opposed to formatting. You still need to have properly formatted, professional quality figures, they just don't need to be embedded in the main body of the text (just put all at end of manuscript).
 
-To make it easier for you, you can use this ![img](http://gis.joewheaton.org/_/rsrc/1364185596506/assignments/project/final-report-or-manuscripts/small_word_icon.gif)  `ManuscriptTemplate.dotx`. You may need to change the template to meet your target journal guidelines, but it will give you a starting point. Make sure to use properly formatted headings, sub-headings, etc.
+To make it easier for you, you can use this ![img]({{ site.baseurl }}/_/rsrc/1364185596506/assignments/project/final-report-or-manuscripts/small_word_icon.gif)  `ManuscriptTemplate.dotx`. You may need to change the template to meet your target journal guidelines, but it will give you a starting point. Make sure to use properly formatted headings, sub-headings, etc.
 
 [![ManuscriptTemplate]({{ site.baseurl }}/assets/images/ManuscriptTemplate.png)]({{ site.baseurl }}/assets/images/hr/ManuscriptTemplate.png)
 

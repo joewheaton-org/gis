@@ -38,7 +38,7 @@ Instructions for accessing AGRC ArcSDE database server are posted [here](http://
 
 #### Prerequisites
 
-Labs [03](http://gis.joewheaton.org/assignments/labs/lab03) & [04](http://gis.joewheaton.org/assignments/labs/lab04) 
+Labs [03]({{ site.baseurl }}/assignments/labs/lab03) & [04]({{ site.baseurl }}/assignments/labs/lab04) 
 
 ### Lab Objectives
 
@@ -50,7 +50,7 @@ The overall lab objective is to build your confidence and proficiency with some 
 - Provide a ground-useable report for EMS and hazmat crews
 - Understand page scale and [map books](http://help.arcgis.com/en/arcgisdesktop/10.0/help/index.html#//00s90000002s000000.htm)
 
-Meets [Course Learning Outcome](http://gis.joewheaton.org/about/primary-learning-outcomes) 2. 
+Meets [Course Learning Outcome]({{ site.baseurl }}/about/primary-learning-outcomes) 2. 
 
 ## Lab Tasks
 
@@ -123,7 +123,7 @@ To complete the work, you need to open and join the EMS_CONTACT.XLSX file that y
 
 You will  post this PDF online with your map books.
 
-For tutorials walking through Tasks 1 and 2, click [here](http://gis.joewheaton.org/assignments/labs/lab05/lab-5-detailed-instructions).
+For tutorials walking through Tasks 1 and 2, click [here]({{ site.baseurl }}/assignments/labs/lab05/lab-5-detailed-instructions).
 
 ------
 
@@ -182,7 +182,7 @@ Make sure your lab conforms to the general [lab submission guidelines](http://a/
 
 
 
-Subpages (1): [Lab 5 Detailed Instructions](http://gis.joewheaton.org/assignments/labs/lab05/lab-5-detailed-instructions)
+Subpages (1): [Lab 5 Detailed Instructions]({{ site.baseurl }}/assignments/labs/lab05/lab-5-detailed-instructions)
 
 
 

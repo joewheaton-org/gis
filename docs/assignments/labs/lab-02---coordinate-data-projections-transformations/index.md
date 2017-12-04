@@ -20,7 +20,7 @@ Another fundamental part of doing GIS, is the ability to do geoprocessing and an
 
 In this lab, we are fundamentally concerned with helping you better understand coordinate systems and transformations between them. We want you to be able to easily answer all of the questions posed above. Such knowledge can help you avoid costly mistakes in the future. To instill this understanding, we are going to have you work with coordinate data from a stream habitat survey and transform it from an assumed coordinate system into a real world coordinate system so you can overlay it with other existing baselayers in GIS. Secondarily, we are going to provide very specific guidelines for how you should produce figures to drill the 6 C's into you. 
 
-Meets [Course Learning Outcomes](http://gis.joewheaton.org/about/primary-learning-outcomes) 1, 2 & 5. 
+Meets [Course Learning Outcomes]({{ site.baseurl }}/about/primary-learning-outcomes) 1, 2 & 5. 
 
 ### Instructions & Lab Tasks
 
@@ -42,7 +42,7 @@ Crew members recording information at a transect during a habitat survey at Stud
 
 #### Task 1 - Plot up Unprojected Data
 
-Please download the [`CBW05583_028709_2011-08-15.gdb``.zip`![img](http://gis.joewheaton.org/_/rsrc/1326734358270/assignments/labs/lab-02---coordinate-data-projections-transformations/zip_icon.gif)](http://etal.usu.edu/Courses/GIS/2012/Labs/Lab02/CBW05583_028709_2011-08-15.gdb.zip) file, which contains the `CBW05583_028709_2011-08-15.``gdb` file geodatabase for the  [Bear Valley Creek Study Site](http://www.champmonitoring.org/Site/Details/3592#overview%7E).
+Please download the [`CBW05583_028709_2011-08-15.gdb``.zip`![img]({{ site.baseurl }}/_/rsrc/1326734358270/assignments/labs/lab-02---coordinate-data-projections-transformations/zip_icon.gif)](http://etal.usu.edu/Courses/GIS/2012/Labs/Lab02/CBW05583_028709_2011-08-15.gdb.zip) file, which contains the `CBW05583_028709_2011-08-15.``gdb` file geodatabase for the  [Bear Valley Creek Study Site](http://www.champmonitoring.org/Site/Details/3592#overview%7E).
 
 Bring the raw survey data into an empty ArcMap document, and create a map with a measured grid overlay to display the data, denote the different types of data, label the benchmarks, and illustrate that the data is unprojected in an assumed Cartesian coordinate system.  *While not spatially referenced, this data DOES have scale*.  It was collected in meters against the assumed grid.  
 
@@ -59,7 +59,7 @@ When finished, include a static version of this map in your website. Save your m
 
 You may wish to wait to export this map until you have finished Task 2.
 
-See [here](http://gis.joewheaton.org/assignments/labs/lab-02---coordinate-data-projections-transformations/task1) for more Task 1 detailed instructions.
+See [here]({{ site.baseurl }}/assignments/labs/lab-02---coordinate-data-projections-transformations/task1) for more Task 1 detailed instructions.
 
 #### Task 2 - Transform Data
 
@@ -80,7 +80,7 @@ The key to transforming any data from one coordinate system to another coordinat
 
 5. Make note of your residuals for your submission.
 
-See [here](http://gis.joewheaton.org/assignments/labs/lab-02---coordinate-data-projections-transformations/task2) for more detailed instructions.
+See [here]({{ site.baseurl }}/assignments/labs/lab-02---coordinate-data-projections-transformations/task2) for more detailed instructions.
 
 #### Task 3 - Share Transformed Data & Explain It
 
@@ -102,8 +102,8 @@ You can learn more about this particular site (CHaMP site CBW05583-028079) [here
 
 #### Detailed Task Tips & Instructions
 
-- [Task 1 - Visualizing Unprojected Data](http://gis.joewheaton.org/assignments/labs/lab-02---coordinate-data-projections-transformations/task1)
-- [Task 2 - Transforming Data Using CTT](http://gis.joewheaton.org/assignments/labs/lab-02---coordinate-data-projections-transformations/task2)
+- [Task 1 - Visualizing Unprojected Data]({{ site.baseurl }}/assignments/labs/lab-02---coordinate-data-projections-transformations/task1)
+- [Task 2 - Transforming Data Using CTT]({{ site.baseurl }}/assignments/labs/lab-02---coordinate-data-projections-transformations/task2)
 
 ### What to Submit
 
@@ -145,7 +145,7 @@ The most effective way to demonstrate the transformation and effectively convinc
 Remember: When building your figure, consider the importance of consistency between the task 1 and 2 data presentations.  Make it easy for your viewer to focus on the important differences between the assumed and UTM datasets.
 
 
-Make sure your lab conforms to the general [lab submission guidelines](http://a/joewheaton.org/gis-wats-4930-6920/labs#TOC-Lab-Submission-Guidelines).  Please read and follow [THESE GUIDELINES for producing your figures](http://gis.joewheaton.org/useful-quick-references/figure-preparation-guidelines/1-recognizing-what-s-wrong-with-typical-gis-maps)!
+Make sure your lab conforms to the general [lab submission guidelines](http://a/joewheaton.org/gis-wats-4930-6920/labs#TOC-Lab-Submission-Guidelines).  Please read and follow [THESE GUIDELINES for producing your figures]({{ site.baseurl }}/useful-quick-references/figure-preparation-guidelines/1-recognizing-what-s-wrong-with-typical-gis-maps)!
 
 Submit a URL for this lab's webpage to Canvas.
 
@@ -179,11 +179,11 @@ Submit a URL for this lab's webpage to Canvas.
 
 #### Follow up Activities:
 
-- [Lab 07 - Building DEMs](http://gis.joewheaton.org/assignments/labs/lab-07---building-dems) - Task 2 -*If you're curious what can actually be done in terms of spatial analyses with the stream habitat survey data you transformed in this lab, you can peak ahead to Lab 7. In Lab 7 we take topographic stream habitat survey data, and construct digital elevation models from them. CHaMP is using these data to assess the status and trends of salmonid habitat conditions in tributaries throughout the Columbia River Basin.*
+- [Lab 07 - Building DEMs]({{ site.baseurl }}/assignments/labs/lab-07---building-dems) - Task 2 -*If you're curious what can actually be done in terms of spatial analyses with the stream habitat survey data you transformed in this lab, you can peak ahead to Lab 7. In Lab 7 we take topographic stream habitat survey data, and construct digital elevation models from them. CHaMP is using these data to assess the status and trends of salmonid habitat conditions in tributaries throughout the Columbia River Basin.*
 
 #### Relevant Literature:
 
 - Wheaton JM, Garrard C, Volk C, Whitehead K and Bouwes N. 2012. [A Simple, Interactive GIS Tool for Transforming Assumed Total Station Surveys to Real World Coordinates - The CHaMP Transformation Tool](http://etal.usu.edu/Wheaton/Downloads/CAGEO_2817_Wheaton_2012_PersonalCopy.pdf). Submitted to Computers & Geosciences.42: 28-36. DOI: [10.1016/j.cageo.2012.02.003](http://dx.doi.org/10.1016/j.cageo.2012.02.003).
 
-Subpages (2): [Task 1 - Visualizing Unprojected Data](http://gis.joewheaton.org/assignments/labs/lab-02---coordinate-data-projections-transformations/task1) [Task 2 - Transforming Data Using CTT](http://gis.joewheaton.org/assignments/labs/lab-02---coordinate-data-projections-transformations/task2)
+Subpages (2): [Task 1 - Visualizing Unprojected Data]({{ site.baseurl }}/assignments/labs/lab-02---coordinate-data-projections-transformations/task1) [Task 2 - Transforming Data Using CTT]({{ site.baseurl }}/assignments/labs/lab-02---coordinate-data-projections-transformations/task2)
 

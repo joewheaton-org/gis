@@ -4,7 +4,7 @@ title: Task 3 - Morphometric Analyses
 
 ### Introduction
 
-We have a watershed boundary for the Big Cottonwood Creek watershed (from Lab 6). From [Task 1](http://gis.joewheaton.org/assignments/labs/lab-8---choice/lab08a/task-1---watershed-delineation), you know how to derive this watershed from the DEM and from [Task 2 ](http://gis.joewheaton.org/assignments/labs/lab-8---choice/lab08a/task-2---drainage-networkd-defnition)you now know something about the structure of the stream network within that watershed.  Now we want to analyze the DEM surface to better understand landscape characteristics that might tell us something about the hydrologic and/or geomorphic processes in the watershed. This will be potentially helpful in prioritizing watershed stewardship activities.
+We have a watershed boundary for the Big Cottonwood Creek watershed (from Lab 6). From [Task 1]({{ site.baseurl }}/assignments/labs/lab-8---choice/lab08a/task-1---watershed-delineation), you know how to derive this watershed from the DEM and from [Task 2 ]({{ site.baseurl }}/assignments/labs/lab-8---choice/lab08a/task-2---drainage-networkd-defnition)you now know something about the structure of the stream network within that watershed.  Now we want to analyze the DEM surface to better understand landscape characteristics that might tell us something about the hydrologic and/or geomorphic processes in the watershed. This will be potentially helpful in prioritizing watershed stewardship activities.
 
 ### Slope Analysis
 
@@ -64,5 +64,5 @@ The Zonal Statistics results are output to a statistics summary table.
   - Profile curvature raster
   - Planform curvature raster
 
-See [What to Submit section on main Lab 8 page](http://gis.joewheaton.org/assignments/labs/lab-8---choice/lab08a#TOC-What-to-Submit) and Lab 8 Rubric (Canvas) for details.
+See [What to Submit section on main Lab 8 page]({{ site.baseurl }}/assignments/labs/lab-8---choice/lab08a#TOC-What-to-Submit) and Lab 8 Rubric (Canvas) for details.
 

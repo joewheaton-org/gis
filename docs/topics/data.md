@@ -12,13 +12,13 @@ title: Week 03: Working with Data in GIS
 
 **Reading Assignments**
 
-[See Here for Reading Assignments](http://gis.joewheaton.org/assignments/reading-assignments-2010)
+[See Here for Reading Assignments]({{ site.baseurl }}/assignments/reading-assignments-2010)
 
 ------
 
 Lab Assignment(s)
 
-- [Lab 03 - Reproducing Maps - Geologic Map](http://gis.joewheaton.org/assignments/labs/lab03)
+- [Lab 03 - Reproducing Maps - Geologic Map]({{ site.baseurl }}/assignments/labs/lab03)
 
 ------
 
@@ -26,24 +26,24 @@ Lab Assignment(s)
 
 #### Introduction to Data
 
-GIS is all about data and until you appreciate how to manage that data, you can never really unlock the power of GIS. Both GIS and CAD (computer assisted drafting) can be used to make maps (in CAD often thought of instead as a plan). Both rely on the concept of layers to overlay information (see left). The fundamental difference between GIS and CAD is the way in which they represent spatial objects on these layers. In CAD, you draw spatial objects (e.g. lines, polylines, polygons, solids, etc.) that are referred to as entities and these reside in a drawing. By contrast, in GIS you don't draw per se, but instead you load a reference to data (e.g. in [ArcMap](http://help.arcgis.com/en/arcgisdesktop/10.0/help/index.html#/What_is_ArcGIS_Desktop/00v200000005000000/) you use the [Add Data tool ](http://help.arcgis.com/en/arcgisdesktop/10.0/help/index.html#/Adding_layers_to_a_map/00660000000t000000/)![img](http://gis.joewheaton.org/_/rsrc/1294288375649/topics/data/AddData.png)), which you choose how you want to display. Although CAD can be used to do GIS-type things, and GIS can be used to draw, neither are very good at doing what the other was fundamentally designed to do. In CAD you can draw very accurately and precisely with a multitude of options. This is extremely useful for design work, in which you want to create something. **In GIS, spatial data lies behind everything.** GIS is much more powerful then CAD when it comes to doing analyses, querying data, and managing large quantities of data. Over the next two weeks, we will help you better understand where data comes from and how it is manipulated in GIS.
+GIS is all about data and until you appreciate how to manage that data, you can never really unlock the power of GIS. Both GIS and CAD (computer assisted drafting) can be used to make maps (in CAD often thought of instead as a plan). Both rely on the concept of layers to overlay information (see left). The fundamental difference between GIS and CAD is the way in which they represent spatial objects on these layers. In CAD, you draw spatial objects (e.g. lines, polylines, polygons, solids, etc.) that are referred to as entities and these reside in a drawing. By contrast, in GIS you don't draw per se, but instead you load a reference to data (e.g. in [ArcMap](http://help.arcgis.com/en/arcgisdesktop/10.0/help/index.html#/What_is_ArcGIS_Desktop/00v200000005000000/) you use the [Add Data tool ](http://help.arcgis.com/en/arcgisdesktop/10.0/help/index.html#/Adding_layers_to_a_map/00660000000t000000/)![img]({{ site.baseurl }}/_/rsrc/1294288375649/topics/data/AddData.png)), which you choose how you want to display. Although CAD can be used to do GIS-type things, and GIS can be used to draw, neither are very good at doing what the other was fundamentally designed to do. In CAD you can draw very accurately and precisely with a multitude of options. This is extremely useful for design work, in which you want to create something. **In GIS, spatial data lies behind everything.** GIS is much more powerful then CAD when it comes to doing analyses, querying data, and managing large quantities of data. Over the next two weeks, we will help you better understand where data comes from and how it is manipulated in GIS.
 
 #### The power of layers in GIS:
 ![GUID-5BD98316-8BF4-430C-BA24-F47EFF8BF66D-web]({{ site.baseurl }}/assets/images/GUID-5BD98316-8BF4-430C-BA24-F47EFF8BF66D-web.png)
 
 #### Why we're Covering it
 
-You should be aware of the plethora of data sources from which you can get GIS data and use it for context or analysis, and how to edit and make your own data. ArcGIS makes some of these choices so easy for you that you can get yourself in trouble. These skills will be crucial in your [projects](http://gis.joewheaton.org/assignments/project) and the if you intend to use GIS in your career to do more than just make location maps (i.e. [lab 01](http://gis.joewheaton.org/assignments/labs/lab01)).
+You should be aware of the plethora of data sources from which you can get GIS data and use it for context or analysis, and how to edit and make your own data. ArcGIS makes some of these choices so easy for you that you can get yourself in trouble. These skills will be crucial in your [projects]({{ site.baseurl }}/assignments/project) and the if you intend to use GIS in your career to do more than just make location maps (i.e. [lab 01]({{ site.baseurl }}/assignments/labs/lab01)).
 
 #### Learning Outcomes
 
-These lectures, readings and Labs [03](http://gis.joewheaton.org/assignments/labs/lab03) & [04](http://gis.joewheaton.org/assignments/labs/lab04) all help fulfill [primary learning outcomes](http://gis.joewheaton.org/about/primary-learning-outcomes) 1, 2, 3 & 4.
+These lectures, readings and Labs [03]({{ site.baseurl }}/assignments/labs/lab03) & [04]({{ site.baseurl }}/assignments/labs/lab04) all help fulfill [primary learning outcomes]({{ site.baseurl }}/about/primary-learning-outcomes) 1, 2, 3 & 4.
 
 ### Lectures and Podcasts
 
 #### Quiz 2
 
-Did you like Quiz 2? Most people find it frustrating and time consuming. However, it really puts into practice the concepts we talked about last week with projections and coordinate systems on a paper map. If you'd like further explanation on the Quiz answers, check out [this PODCAST](http://gis.joewheaton.org/topics/data/quiz-2-feedback-podcast).
+Did you like Quiz 2? Most people find it frustrating and time consuming. However, it really puts into practice the concepts we talked about last week with projections and coordinate systems on a paper map. If you'd like further explanation on the Quiz answers, check out [this PODCAST]({{ site.baseurl }}/topics/data/quiz-2-feedback-podcast).
 
 #### Vector Data, Editing & Attributing Data + Metadata
 
@@ -51,7 +51,7 @@ At some point, you will want to modify some data someone gave to you, and you'll
 
 * [2015 Lecture Slides](http://etal.usu.edu/Courses/GIS/2015/Lectures/2_EditingAtributingDataMetadata.pdf)  - PDF 
 
-* - See [here for individual topic PODCASTs](http://gis.joewheaton.org/topics/data/vector-data-podcast) or watch [whole series](http://youtube.com/watch?v=-9I3VWMZ1SQ).
+* - See [here for individual topic PODCASTs]({{ site.baseurl }}/topics/data/vector-data-podcast) or watch [whole series](http://youtube.com/watch?v=-9I3VWMZ1SQ).
 
 Previous:
 
@@ -71,11 +71,11 @@ Previous:
 
 #### Raster Imagery, Data Sources & Intro to Remote Sensing
 
-We will go through an overview of raster imagery basics with a review/intro to remote sensing. We'll then talk about some of the places you can acquire raster and vector data to use in your own maps (e.g. for the [Reproducing Maps... Geologic Map lab](http://gis.joewheaton.org/assignments/labs/lab03)).
+We will go through an overview of raster imagery basics with a review/intro to remote sensing. We'll then talk about some of the places you can acquire raster and vector data to use in your own maps (e.g. for the [Reproducing Maps... Geologic Map lab]({{ site.baseurl }}/assignments/labs/lab03)).
 
 *  [2015](http://etal.usu.edu/Courses/GIS/2015/Lectures/1_RasterImagery_DataSources.pdf)[ Lecture Slides](http://etal.usu.edu/Courses/GIS/2015/Lectures/1_RasterImagery_DataSources.pdf)  - PDF 
 
-* - See [here for individual PODCASTs by Topic](http://gis.joewheaton.org/topics/data/raster-data-podcast) or [here for whole series](http://youtu.be/BA6ZEqh2QWo?list=PL0ZiZg4rilzKtluJ99W0DYC7aw9zKmzTB).
+* - See [here for individual PODCASTs by Topic]({{ site.baseurl }}/topics/data/raster-data-podcast) or [here for whole series](http://youtu.be/BA6ZEqh2QWo?list=PL0ZiZg4rilzKtluJ99W0DYC7aw9zKmzTB).
 
 Previous:
 
@@ -97,7 +97,7 @@ Previous:
 
 This year we did the TLS Demo and Synthesis of GIS Fundamentals in One Go
 
-[2015](http://gis.joewheaton.org/topics/goog_136810839)[ Thursday Lecture](http://etal.usu.edu/Courses/GIS/2015/Lectures/3_TerrestrialLaserScanning.pdf)  - PDF 
+[2015]({{ site.baseurl }}/topics/goog_136810839)[ Thursday Lecture](http://etal.usu.edu/Courses/GIS/2015/Lectures/3_TerrestrialLaserScanning.pdf)  - PDF 
 
 Previous Years: 
 

@@ -6,11 +6,11 @@ title: Task 1 - Ground Based Topography
 
 In this task we are provided with some raw topographic survey data. Your job is to build a DEM from that data (of appropriate resolution), show the water depth overlaid on the DEM, and pull a longitudinal profile and some cross sections off the DEM. You will use a triangular irregular network (TIN) to interpolate between your raw topographic survey data and produce a continuous surface that you will later convert to a raster DEM.
 
-These instructions are for ArcGIS 10 and are primarily provided in the form of video tutorials. As an additional reference, you might find the 'Using ArcGIS 9.3.X to Construct and Manipulate DEMs' tutorial listed in the [main Lab 6 page](http://gis.joewheaton.org/assignments/labs/lab06-1#TOC-Follow-up-Activities:) helpful (it uses different data, and is for the old version of ArcGIS, but goes through a similar sequence of steps to arrive at the same end point in Part I of the document; one significant difference is the absence of TIN editing in ArcGIS 9.3.X). 
+These instructions are for ArcGIS 10 and are primarily provided in the form of video tutorials. As an additional reference, you might find the 'Using ArcGIS 9.3.X to Construct and Manipulate DEMs' tutorial listed in the [main Lab 6 page]({{ site.baseurl }}/assignments/labs/lab06-1#TOC-Follow-up-Activities:) helpful (it uses different data, and is for the old version of ArcGIS, but goes through a similar sequence of steps to arrive at the same end point in Part I of the document; one significant difference is the absence of TIN editing in ArcGIS 9.3.X). 
 
 ### Data
 
-Everything you need to create a TIN can be found in the [`PatsCabinSurveyPoints.csv`](http://etal.usu.edu/Courses/GIS/2012/Labs/Lab06/PatsCabinSurveyPoints.csv)* *file and the [`Task3_PatsCabinShapefiles.zip`](http://etal.usu.edu/Courses/GIS/2012/Labs/Lab06/Task3_PatsCabinShapeFiles.zip)![img](http://gis.joewheaton.org/_/rsrc/1325810037423/assignments/labs/lab-07---building-dems/tas/zip_icon.gif). This video tutorial goes through what is included in the data and how to import it into ArcGIS:
+Everything you need to create a TIN can be found in the [`PatsCabinSurveyPoints.csv`](http://etal.usu.edu/Courses/GIS/2012/Labs/Lab06/PatsCabinSurveyPoints.csv)* *file and the [`Task3_PatsCabinShapefiles.zip`](http://etal.usu.edu/Courses/GIS/2012/Labs/Lab06/Task3_PatsCabinShapeFiles.zip)![img]({{ site.baseurl }}/_/rsrc/1325810037423/assignments/labs/lab-07---building-dems/tas/zip_icon.gif). This video tutorial goes through what is included in the data and how to import it into ArcGIS:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jb-UY6S6r8I" frameborder="0" allowfullscreen></iframe>
 
@@ -79,7 +79,7 @@ Using the 3D Analyst interpolate line and profile graph features, you can easily
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Kv263FBGJnE" frameborder="0" allowfullscreen></iframe>
 
 ### What to turn in
-See the what to turn in section of the [main lab page](http://gis.joewheaton.org/assignments/labs/lab-07---building-dems) for what is expected from Task 1.
+See the what to turn in section of the [main lab page]({{ site.baseurl }}/assignments/labs/lab-07---building-dems) for what is expected from Task 1.
 
-​     [Up to Lab 7](http://gis.joewheaton.org/assignments/labs/lab-07---building-dems)                                                                 [Ahead to Task 2->](http://gis.joewheaton.org/assignments/labs/lab-07---building-dems/task-4)
+​     [Up to Lab 7]({{ site.baseurl }}/assignments/labs/lab-07---building-dems)                                                                 [Ahead to Task 2->]({{ site.baseurl }}/assignments/labs/lab-07---building-dems/task-4)
 

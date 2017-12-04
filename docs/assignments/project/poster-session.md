@@ -6,7 +6,7 @@ We will hold a poster session during class on April 23rd in the Atrium. You will
 
 - The poster should be a summary of the key findings from your work and your interpretations. You will unlikely be able to fit everything you did on one poster.
 - The poster should briefly tell a story and present the question/motivation, objectives, study site, methods, results, interpretation, conclusion.
-- Attendance is mandatory to get a passing grade on the [project](http://gis.joewheaton.org/assignments/project).
+- Attendance is mandatory to get a passing grade on the [project]({{ site.baseurl }}/assignments/project).
 
 ![PosterGeek]({{ site.baseurl }}/assets/images/PosterGeek.PNG)
 

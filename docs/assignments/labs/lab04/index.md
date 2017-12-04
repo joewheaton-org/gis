@@ -8,7 +8,7 @@ title: Lab 04 - Digitzing, Editing, Sharing Data & Intro to Geoprocessing
 
 The Forest Service has funds to create a new campground.  The site will be located in northern Utah, on the east side of the Wasatch Range, north of Liberty.  You have been tasked with creating a map to present a campground of your own design, reporting some development specifics, and making your plan (a map) and GIS files available via your website. 
 
-The manipulation and creation of vector data (points, polylines and polygons) is a fundamental part of your GIS toolkit. In ArcGIS, the manipulation, modification, drawing, and digitizing of vector data is referred to as editing. We need to build proficiency in these tasks before we can do vector-based spatial analyses (i.e. [Lab 05](http://gis.joewheaton.org/assignments/labs/lab05) & [Week 05](http://gis.joewheaton.org/topics/vector-analyses)). 
+The manipulation and creation of vector data (points, polylines and polygons) is a fundamental part of your GIS toolkit. In ArcGIS, the manipulation, modification, drawing, and digitizing of vector data is referred to as editing. We need to build proficiency in these tasks before we can do vector-based spatial analyses (i.e. [Lab 05]({{ site.baseurl }}/assignments/labs/lab05) & [Week 05]({{ site.baseurl }}/topics/vector-analyses)). 
 
 #### Potential Campground Site, Liberty, Utah
 
@@ -22,7 +22,7 @@ The manipulation and creation of vector data (points, polylines and polygons) is
 - Share vector and tabular data with other GIS users
 - Learn how to use Model Builder & Geoprocessing
 
-Meets [Course Learning Outcomes](http://gis.joewheaton.org/about/primary-learning-outcomes) 2, 4 & 5. 
+Meets [Course Learning Outcomes]({{ site.baseurl }}/about/primary-learning-outcomes) 2, 4 & 5. 
 
 ### Lab Tasks Overview
 
@@ -55,7 +55,7 @@ You will need to *create* 3 shapefiles:
 
 See the “what to submit” section below for map details.  
 
-Click [here](http://gis.joewheaton.org/assignments/labs/lab04/task-1-specific-instructions) for specific instructions for Task 1.
+Click [here]({{ site.baseurl }}/assignments/labs/lab04/task-1-specific-instructions) for specific instructions for Task 1.
 
 #### Task 2 - Share GIS Data for Campground Design in Different Formats
 
@@ -87,12 +87,12 @@ But you need to be familiar and comfortable with each of these file types.
 
 [Link to Canvas Lab 4 Quiz page](https://usu.instructure.com/courses/360981/quizzes/504498)
 
-Click [here](http://gis.joewheaton.org/assignments/labs/lab04/task-2-details-share-files-with-internal-review-committee) for specific instructions for Task 2.
+Click [here]({{ site.baseurl }}/assignments/labs/lab04/task-2-details-share-files-with-internal-review-committee) for specific instructions for Task 2.
 
 #### Detailed Instructions
 
-- [Task 1 Details: Create Campground Presentation Map](http://gis.joewheaton.org/assignments/labs/lab04/task-1-specific-instructions)
-- [Task 2 Details: Share Files with Internal Review Committee](http://gis.joewheaton.org/assignments/labs/lab04/task-2-details-share-files-with-internal-review-committee)
+- [Task 1 Details: Create Campground Presentation Map]({{ site.baseurl }}/assignments/labs/lab04/task-1-specific-instructions)
+- [Task 2 Details: Share Files with Internal Review Committee]({{ site.baseurl }}/assignments/labs/lab04/task-2-details-share-files-with-internal-review-committee)
 
 #### Data for Lab
 

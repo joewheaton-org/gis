@@ -2,7 +2,7 @@
 title: Task 2 - Airborne LiDaR
 ---
 
-After your experience working with LiDaR DEMs in [Task 2](http://gis.joewheaton.org/assignments/labs/lab06-1/task-2) from Lab 6, and building TINs and DEMs in [Task 1](http://gis.joewheaton.org/assignments/labs/lab-07---building-dems/tas), this step will be pretty straight forward. Your boss wants you to simply use the Watershed Sciences 2005 LiDaR survey of Bridge Creek to provide some contextual topography for the Pats Cabin Creek and talk about how this might be used in the monitoring. The image below is a [hillshade](http://help.arcgis.com/en/arcgisdesktop/10.0/help/index.html#/Hillshade/00q900000036000000/) created in [Open Topography](http://opentopography.org/) from that dataset in the vicinity of the Pats Cabin reach on Bridge Creek.
+After your experience working with LiDaR DEMs in [Task 2]({{ site.baseurl }}/assignments/labs/lab06-1/task-2) from Lab 6, and building TINs and DEMs in [Task 1]({{ site.baseurl }}/assignments/labs/lab-07---building-dems/tas), this step will be pretty straight forward. Your boss wants you to simply use the Watershed Sciences 2005 LiDaR survey of Bridge Creek to provide some contextual topography for the Pats Cabin Creek and talk about how this might be used in the monitoring. The image below is a [hillshade](http://help.arcgis.com/en/arcgisdesktop/10.0/help/index.html#/Hillshade/00q900000036000000/) created in [Open Topography](http://opentopography.org/) from that dataset in the vicinity of the Pats Cabin reach on Bridge Creek.
 
 ### 
 
@@ -36,7 +36,7 @@ After we have the *.las points imported as a Multipoint feature class, we need t
 
 You should create a figure that displays the LiDAR DEM with the survey DEM from Task 1. You have some liberty in how you choose to display this data. But consider framing it within the context of channel change detection analysis.  You should think about (and include in your write up) the differences between the survey point DEM created in Task 1 and the LiDAR DEM created in Task 2.   Specifically, with the goal of analyzing the surface to detect changes in channel morphometry, would the airborne LiDAR be more or less effective than the survey DEM?  Incorporate what you've learned about airborne LiDAR and the survey data, and think about data extent, resolution, and what types of features can or can't be resolved by each data set to support your decision to use one or the other for change detection analysis.
 
-Refer to the [What to Submit Section](http://gis.joewheaton.org/assignments/labs/lab06-1#TOC-What-to-Submit) for guidelines.
+Refer to the [What to Submit Section]({{ site.baseurl }}/assignments/labs/lab06-1#TOC-What-to-Submit) for guidelines.
 
-[<-Back to Task 1 ](http://gis.joewheaton.org/assignments/labs/lab-07---building-dems/tas)                                                                        [Up to Lab 7](http://gis.joewheaton.org/assignments/labs/lab-07---building-dems)[ ^](http://gis.joewheaton.org/assignments/labs/lab06-1)                                            [ Ahead to Task 3->](http://gis.joewheaton.org/assignments/labs/lab-07---building-dems/task-5)
+[<-Back to Task 1 ]({{ site.baseurl }}/assignments/labs/lab-07---building-dems/tas)                                                                        [Up to Lab 7]({{ site.baseurl }}/assignments/labs/lab-07---building-dems)[ ^]({{ site.baseurl }}/assignments/labs/lab06-1)                                            [ Ahead to Task 3->]({{ site.baseurl }}/assignments/labs/lab-07---building-dems/task-5)
 

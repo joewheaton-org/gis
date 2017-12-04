@@ -2,7 +2,7 @@
 title: Old Instructions (text)
 ---
 
-Here you are going to reproduce a portion of the 1:100,000 scale Logan (30’ x 60’) Quadrangle on an 8.5” x 11” page, which normally fits on a 36” x 26” page. You can either attempt your own workflow that approximates the map shown on the [parent page](http://gis.joewheaton.org/assignments/labs/lab03), or follow the potential workflow spelt out step-by-step for you below: 
+Here you are going to reproduce a portion of the 1:100,000 scale Logan (30’ x 60’) Quadrangle on an 8.5” x 11” page, which normally fits on a 36” x 26” page. You can either attempt your own workflow that approximates the map shown on the [parent page]({{ site.baseurl }}/assignments/labs/lab03), or follow the potential workflow spelt out step-by-step for you below: 
 
 ### Bring in Data
 
@@ -10,7 +10,7 @@ Here you are going to reproduce a portion of the 1:100,000 scale Logan (30’ x 
 
 - Open a new empty Map Document. Set the map page size (under *File *-> *Page and Print Setup*) to a portrait letter.
 
-- First we will bring in the geology layers [provided to us](http://gis.joewheaton.org/assignments/labs/lab03#TOC-Data-for-Lab). Switch to Data View and add the geology layers in the following order: `LoganBase.tif.lyr, geounits.lyr, geolines.lyr, folds.lyr, mapsymbl.lyr`. Double check the 'correct' projection has been used and assigned automatically to your data frame. Make sure the geounits layer is adjusted with a slight transparency (e.g. 40%). The layers should appear the same as they do on the [PDF](http://geology.utah.gov/maps/geomap/30x60/pdf/i-2210.pdf) from the Utah Geologic Survey website of this map. With all these layers loaded, you will notice that the map is rather slow to redraw. You may wish to turn off some layers you are not actively working with as you proceed and only turn them on as you need them.
+- First we will bring in the geology layers [provided to us]({{ site.baseurl }}/assignments/labs/lab03#TOC-Data-for-Lab). Switch to Data View and add the geology layers in the following order: `LoganBase.tif.lyr, geounits.lyr, geolines.lyr, folds.lyr, mapsymbl.lyr`. Double check the 'correct' projection has been used and assigned automatically to your data frame. Make sure the geounits layer is adjusted with a slight transparency (e.g. 40%). The layers should appear the same as they do on the [PDF](http://geology.utah.gov/maps/geomap/30x60/pdf/i-2210.pdf) from the Utah Geologic Survey website of this map. With all these layers loaded, you will notice that the map is rather slow to redraw. You may wish to turn off some layers you are not actively working with as you proceed and only turn them on as you need them.
 
   ![DataView]({{ site.baseurl }}/assets/images/DataView.PNG)
 
@@ -59,7 +59,7 @@ Next we need to set up the layout view data frame so it fits neatly on our page 
 - - Right click to the left of your last point (straight south of your first point) and enter the final Absolute XY coordinate pair.  Right click and choose Finish Sketch.
 
 
-- - After you are done, you should have a rectangle of the desired dimensions. You should verify the dimensions by clicking on the edit tool ![img](http://gis.joewheaton.org/_/rsrc/1295735175194/assignments/labs/lab03/task-01---reproduce-geologic-map/editTool.PNG) in the editor toolbar, clicking on the rectangle you drew to select it, then right clicking and selecting '*Edit Vertices*' in the context menu.
+- - After you are done, you should have a rectangle of the desired dimensions. You should verify the dimensions by clicking on the edit tool ![img]({{ site.baseurl }}/_/rsrc/1295735175194/assignments/labs/lab03/task-01---reproduce-geologic-map/editTool.PNG) in the editor toolbar, clicking on the rectangle you drew to select it, then right clicking and selecting '*Edit Vertices*' in the context menu.
 
 - [![editor]({{ site.baseurl }}/assets/images/editor.PNG)]({{ site.baseurl }}/assets/images/hr/editor.PNG)
 
@@ -210,4 +210,4 @@ R[ead this to learn about setting calibration angles in ArcGIS 10.1](http://reso
 
 Save your map and export it as both an image and a PDF. You will present these on your website.
 
-^ [Back to Main Lab Page  ](http://gis.joewheaton.org/assignments/labs/lab03)                                  [See Task 2](http://gis.joewheaton.org/assignments/labs/lab03/task-2-a-simple-area-calculation) ->
+^ [Back to Main Lab Page  ]({{ site.baseurl }}/assignments/labs/lab03)                                  [See Task 2]({{ site.baseurl }}/assignments/labs/lab03/task-2-a-simple-area-calculation) ->

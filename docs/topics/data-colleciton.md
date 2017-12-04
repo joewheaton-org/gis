@@ -10,13 +10,13 @@ In this week's lectures we cover the fundamentals of coordinate surveying via ei
 
 #### Learning Outcomes
 
-This fulfills course [learning outcomes](http://gis.joewheaton.org/about/primary-learning-outcomes) 2, 3, 4 & 5.
+This fulfills course [learning outcomes]({{ site.baseurl }}/about/primary-learning-outcomes) 2, 3, 4 & 5.
 
 ### Lecture Materials
 
 #### Field Surveying
 
-- ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) [2015 ](http://gis.joewheaton.org/topics/goog_165393131)[Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2015/Lectures/1_TS+GPS_Surveying.pdf)  - PDF 
+- ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) [2015 ]({{ site.baseurl }}/topics/goog_165393131)[Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2015/Lectures/1_TS+GPS_Surveying.pdf)  - PDF 
 
 Past Years
 

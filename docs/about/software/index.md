@@ -12,7 +12,7 @@ The reason we use ArcGIS is because it is the industry standard and the vast maj
 
 #### Installation Instructions
 
-- [ArcGIS Installation Instructions](http://gis.joewheaton.org/about/software/arcgis_install)
+- [ArcGIS Installation Instructions]({{ site.baseurl }}/about/software/arcgis_install)
 
 ### Open Source Desktop GIS Alternatives to ArcGIS
 

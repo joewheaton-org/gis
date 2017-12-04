@@ -14,7 +14,7 @@ We will use some data from the [Utah Geologic Survey](http://geology.utah.gov/) 
 
 #### Data for Lab
 
-Navigate to the Utah Geological Survey website (http://geology.utah.gov/) and use the navigation menu on the left to browse to ‘Databases & Data’ -> ‘GIS Geologic Map Data’ and scroll down to download the 30’ x 60’ Logan Quad as a GIS zip file. Unzip all the data to [wherever you are working](http://gis.joewheaton.org/assignments/labs/lab01/getting-organized-and-oriented/file-management) for Lab 3 (e.g. in a 
+Navigate to the Utah Geological Survey website (http://geology.utah.gov/) and use the navigation menu on the left to browse to ‘Databases & Data’ -> ‘GIS Geologic Map Data’ and scroll down to download the 30’ x 60’ Logan Quad as a GIS zip file. Unzip all the data to [wherever you are working]({{ site.baseurl }}/assignments/labs/lab01/getting-organized-and-oriented/file-management) for Lab 3 (e.g. in a 
 
 ```
 Lab03\Raw_Data
@@ -24,8 +24,8 @@ Lab03\Raw_Data
 
 Prerequisites
 
-- [Lab 01](http://gis.joewheaton.org/assignments/labs/lab01)
-- [Lab 02](http://gis.joewheaton.org/assignments/labs/old-labs/Georeferencing) is helpful but not necessary
+- [Lab 01]({{ site.baseurl }}/assignments/labs/lab01)
+- [Lab 02]({{ site.baseurl }}/assignments/labs/old-labs/Georeferencing) is helpful but not necessary
 
 ### Lab Objectives
 
@@ -33,7 +33,7 @@ Prerequisites
 2. To teach you how to extract summary statistics and data from existing data
 3. Learn how to make professional maps not just using ArcGIS, but by leveraging the power of a vector graphics application (e.g. Adobe Illustrator)
 
-This lab helps fulfill [primary learning outcomes](http://gis.joewheaton.org/about/primary-learning-outcomes) 2 & 4.
+This lab helps fulfill [primary learning outcomes]({{ site.baseurl }}/about/primary-learning-outcomes) 2 & 4.
 
 ## Lab Tasks
 
@@ -41,7 +41,7 @@ This lab helps fulfill [primary learning outcomes](http://gis.joewheaton.org/abo
 
 2. For the above, report the areas and relative portions of each rock unit.
 
-Detailed Instructions[Task 1: Reproduce Geologic Map](http://gis.joewheaton.org/assignments/labs/lab03/task-01---reproduce-geologic-map)[Old Instructions (text)](http://gis.joewheaton.org/assignments/labs/lab03/task-01---reproduce-geologic-map/old-instructions-text)[Task 2: A simple area calculation](http://gis.joewheaton.org/assignments/labs/lab03/task-2-a-simple-area-calculation)
+Detailed Instructions[Task 1: Reproduce Geologic Map]({{ site.baseurl }}/assignments/labs/lab03/task-01---reproduce-geologic-map)[Old Instructions (text)]({{ site.baseurl }}/assignments/labs/lab03/task-01---reproduce-geologic-map/old-instructions-text)[Task 2: A simple area calculation]({{ site.baseurl }}/assignments/labs/lab03/task-2-a-simple-area-calculation)
 
 ### What to Submit
 
@@ -76,7 +76,7 @@ Make sure your lab conforms to the general [lab submission guidelines](http://a/
 
 #### Lab Introduction Lecture Slides
 
-[![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1325801572897/assignments/labs/lab01/PDF_Icon.png)](http://gis.joewheaton.org/assignments/labs/lab01/PDF_Icon.png?attredirects=0)[ Lab 3 Slides](http://etal.usu.edu/Courses/GIS/2013/Lab/ppt/4930_wk03_geolmap.pdf) - Shannon Belmont (2013)
+[![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1325801572897/assignments/labs/lab01/PDF_Icon.png)]({{ site.baseurl }}/assignments/labs/lab01/PDF_Icon.png?attredirects=0)[ Lab 3 Slides](http://etal.usu.edu/Courses/GIS/2013/Lab/ppt/4930_wk03_geolmap.pdf) - Shannon Belmont (2013)
 
 #### Tutorial or Step-by-Step Instructions for Specific Tasks
 

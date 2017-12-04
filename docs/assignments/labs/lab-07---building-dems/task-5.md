@@ -130,5 +130,5 @@ The reach has 13 beaver dams and/or support structures installed. After 2011 hig
 
 If you are confident in your results, create a map illustrating the change in the channel from 2010 to 2011.  You have full creative license to display this data in the most effective and convincing way.
 
-#### See [What to Submit section on main Lab 7 page](http://gis.joewheaton.org/assignments/labs/lab-07---building-dems#TOC-What-to-Submit) for specific submission details.
+#### See [What to Submit section on main Lab 7 page]({{ site.baseurl }}/assignments/labs/lab-07---building-dems#TOC-What-to-Submit) for specific submission details.
 

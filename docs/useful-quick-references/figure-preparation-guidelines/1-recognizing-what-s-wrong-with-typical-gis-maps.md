@@ -2,7 +2,7 @@
 title: 1. Recognizing What's Wrong With Typical GIS Maps
 ---
 
-If from [Lab 1](http://gis.joewheaton.org/assignments/labs/lab01/task-1---build-map) we learned, a typical GIS map is supposed to have:
+If from [Lab 1]({{ site.baseurl }}/assignments/labs/lab01/task-1---build-map) we learned, a typical GIS map is supposed to have:
 
 - North arrow 
 - Title
@@ -58,7 +58,7 @@ Sure, north arrows and scale bars are generally necessary*, but what if I'm maki
 
 #### Location vs. Vicinity Map
 
-This is where *context* ([6 C's](http://gis.joewheaton.org/about/grades)) comes in. If you've already shown the location or vicinity map earlier in the report, manuscript, website, etc., do you need to show it again?  Often, in reports and manuscripts, a stand-alone location map is shown early on in a 'Study Site Description' section, for example. In instances where there may only be one map figure or no room for a stand-alone location map, an inset location or vicinity map is sometimes used. It might be helpful to first review the difference between a location and vicinity map. 
+This is where *context* ([6 C's]({{ site.baseurl }}/about/grades)) comes in. If you've already shown the location or vicinity map earlier in the report, manuscript, website, etc., do you need to show it again?  Often, in reports and manuscripts, a stand-alone location map is shown early on in a 'Study Site Description' section, for example. In instances where there may only be one map figure or no room for a stand-alone location map, an inset location or vicinity map is sometimes used. It might be helpful to first review the difference between a location and vicinity map. 
 
 - A **location map** shows where your main map or area of interest is in reference to some broader geographic region that your audience will be familiar with. For the most general of audiences, this may be a map of the world or a continent, whereas for more specific audiences it may be a map of a state, county, city or watershed.
 - A **vicinity or inset map** is similar to a location map, but generally shows a portion of the main map in greater detail.  
@@ -83,7 +83,7 @@ Color Brewer is so easy to use, it hardly needs explanation, but if you want a s
 
 #### Projections, Coordinate Systems and Datums 
 
-It is *sometimes* considered best practice to denote information about the coordinate system and datum you used in a caption or note (often in one of the lower corners) of a map. This is one where *context *comes into play. If your audience is or includes GIS Savvy readers, you may choose to list this information in a caption. However, in many instances information about the projection really does not make a big deal (e.g. Figure 3 above or Figure 4C below). Ask yourself if the meaning of the map is fundamentally different if it was displayed in one coordinate system or another (state-plane versus UTM, for example)? One case where it does make a difference is when you are using a grid or graticule. The labels in the grid (e.g. Figure 4A below) don't have much meaning without the context of which coordinate system they are in or units. Plus, when a grid (Figure 4A) or graticule (Figure 4B) is used, you can avoid the need for a location map because this spatial location information is explicitly shown. We learn more about using grids and graticules in [Lab 3](http://gis.joewheaton.org/assignments/labs/lab03).
+It is *sometimes* considered best practice to denote information about the coordinate system and datum you used in a caption or note (often in one of the lower corners) of a map. This is one where *context *comes into play. If your audience is or includes GIS Savvy readers, you may choose to list this information in a caption. However, in many instances information about the projection really does not make a big deal (e.g. Figure 3 above or Figure 4C below). Ask yourself if the meaning of the map is fundamentally different if it was displayed in one coordinate system or another (state-plane versus UTM, for example)? One case where it does make a difference is when you are using a grid or graticule. The labels in the grid (e.g. Figure 4A below) don't have much meaning without the context of which coordinate system they are in or units. Plus, when a grid (Figure 4A) or graticule (Figure 4B) is used, you can avoid the need for a location map because this spatial location information is explicitly shown. We learn more about using grids and graticules in [Lab 3]({{ site.baseurl }}/assignments/labs/lab03).
 
 ![GIS_Example_Grid_Graticule_Scale]({{ site.baseurl }}/assets/images/GIS_Example_Grid_Graticule_Scale.png)
 
@@ -159,7 +159,7 @@ See [here](http://www.joewheaton.org/Home/students-teaching/teaching-materials/w
 
 ### Copyrighting And Sharing
 
-For this class, you are not required to copyright your work, but you are required to share your work on [your own website](http://gis.joewheaton.org/assignments/labs/lab01/task-2---build-website). However, you may want to copyright your work to protect yourself (especially if your website is open to anyone in the world). If you do copyright your work, you need to take extra precautions to make sure you are citing any other copyrighted work or data sources you might have used in preparation of your own maps and figures. Here are some things to consider in different contexts:
+For this class, you are not required to copyright your work, but you are required to share your work on [your own website]({{ site.baseurl }}/assignments/labs/lab01/task-2---build-website). However, you may want to copyright your work to protect yourself (especially if your website is open to anyone in the world). If you do copyright your work, you need to take extra precautions to make sure you are citing any other copyrighted work or data sources you might have used in preparation of your own maps and figures. Here are some things to consider in different contexts:
 
 - **Report: **If the figure is in a report and you are solely responsible for its preparation, a blanket copyright for the report will cover you. Figures included in the report that are not produced by the author(s) should be appropriately acknowledged (e.g. *Figure reproduced from Wheaton et al. (2010); or Figure adapted from Smith (2009)*). 
 - **Manuscript: **Every publisher has specific guidelines for how copyrights are handled. These often require or urge you to transfer copyright to the publisher, something you can only do if you own the work or get permission from the owner.
@@ -179,9 +179,9 @@ There are many ways to share your work in a manner that protects your legal righ
 
 ![88x31]({{ site.baseurl }}/assets/images/88x31.png)
 
-Example Figure by [Wheaton](http://gis.joewheaton.org/useful-quick-references/figure-preparation-guidelines/gis.joewheaton.org) is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US).
+Example Figure by [Wheaton]({{ site.baseurl }}/useful-quick-references/figure-preparation-guidelines/gis.joewheaton.org) is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US).
 
-Based on a work at [joewheaton.org](http://gis.joewheaton.org/useful-quick-references/figure-preparation-guidelines/joewheaton.org).
+Based on a work at [joewheaton.org]({{ site.baseurl }}/useful-quick-references/figure-preparation-guidelines/joewheaton.org).
 
 This is the [form you fill out](http://creativecommons.org/choose/) to create your own:
 
@@ -193,4 +193,4 @@ This is the [form you fill out](http://creativecommons.org/choose/) to create yo
 
 If you want to make your figures (or reports and presentations for that matter) available publicly and have a permanent DOI (digital object identifier) you can post them on [FigShare](http://figshare.com/). One of the advantages of using figshare, is you can get a permanent, stable DOI and URL, as well as providing people with a simple way to cite your work. One of the disadvantages of figshare is once you post something, it is permanent and you can never remove it from the public domain.
 
-Ahead to [2. Planning your Figure Layout](http://gis.joewheaton.org/useful-quick-references/figure-preparation-guidelines/2-planning-your-figure-layout) ->
+Ahead to [2. Planning your Figure Layout]({{ site.baseurl }}/useful-quick-references/figure-preparation-guidelines/2-planning-your-figure-layout) ->

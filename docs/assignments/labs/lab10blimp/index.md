@@ -8,7 +8,7 @@ Introduction to Lab
 
 One of the many powers of GIS is combining various data based on spatial location.  Information can be obtained from aerial imagery or scanned maps, but to correctly overlay other layers of data, spatial reference or a coordinate system must be defined for, and assigned to, the aerial imagery or scanned maps.  This is the process of [georeferencing](http://help.arcgis.com/en/arcgisdesktop/10.0/help/index.html#/Fundamentals_for_georeferencing_a_raster_dataset/009t000000mn000000/): aligning some type of raster imagery to a map coordinate system.  This workshop works through two exercises on georeferencing raster imagery, intended to reinforce some of the coordinate system and projection principles we cover in week 2, as an example from which to build good maps from existing data.
 
-In the second part of this workshop you will be c[ollecting your own data](http://gis.joewheaton.org/topics/data-colleciton).  You will set ground control with a total station and acquire your own aerial imagery by flying a [low-altitude blimp](http://www.joewheaton.org/Home/research/tools/low-altitude-blimps-poor-man-s-aerial-photography). Aerial imagery can be acquired from satellites, fixed-wing aircraft, helicopters, drones, or tethered blimps and balloons.  You will then build some georeferenced, high-resolution imagery of the Quad.
+In the second part of this workshop you will be c[ollecting your own data]({{ site.baseurl }}/topics/data-colleciton).  You will set ground control with a total station and acquire your own aerial imagery by flying a [low-altitude blimp](http://www.joewheaton.org/Home/research/tools/low-altitude-blimps-poor-man-s-aerial-photography). Aerial imagery can be acquired from satellites, fixed-wing aircraft, helicopters, drones, or tethered blimps and balloons.  You will then build some georeferenced, high-resolution imagery of the Quad.
 
 **Warning:** We will be at the mercy of the weather for this lab. Dress accordingly.
 
@@ -23,7 +23,7 @@ During this workshop you will learn how to take digital images or maps that are 
 3. Use a total station to acquire ground control points visible in your photo for use in accurately georeferencing the imagery you acquire
 4. Georeference a digital aerial photo collected from a small blimp using control points.
 
-Meets [Course Learning Outcomes](http://gis.joewheaton.org/about/primary-learning-outcomes) 2, 4 & 5. 
+Meets [Course Learning Outcomes]({{ site.baseurl }}/about/primary-learning-outcomes) 2, 4 & 5. 
 
 ## Instructions & Lab Tasks
 
@@ -65,7 +65,7 @@ The **primary source of data** for Tasks 2 & 3, is the data you collect in the f
 
 ### Raw Ungeoreferenced Aerial Imagery
 
-See [`BlimpSlides_2009.pdf`](http://etal.usu.edu/Courses/GIS/2012/Labs/Lab10/2011Data/BlimpSlides_From2009.pdf)  ![img](http://gis.joewheaton.org/_/rsrc/1326143629313/assignments/labs/lab10blimp/pdf_icon.gif) for some examples of georeferenced images from earlier Blimp flights.
+See [`BlimpSlides_2009.pdf`](http://etal.usu.edu/Courses/GIS/2012/Labs/Lab10/2011Data/BlimpSlides_From2009.pdf)  ![img]({{ site.baseurl }}/_/rsrc/1326143629313/assignments/labs/lab10blimp/pdf_icon.gif) for some examples of georeferenced images from earlier Blimp flights.
 
 Data files from 2014:
 
@@ -103,16 +103,16 @@ There are approximately 180 photos from the first Tuesday flight. They have been
 
 Data Files from 2012:
 
-- [Thursday 2012 Imagery - Flight 1_north_March22_2012](http://etal.usu.edu/Courses/GIS/2012/Labs/Lab10/2012Data/Flight%201_north_March22_2012.zip) (Heads up: 500 MB Zip file)![img](http://gis.joewheaton.org/_/rsrc/1293667540566/config/pagetemplates/lab-template/zip_icon.gif)
-- [Thursday 2012 Imagery - Flight 2_south_March22_2012](http://etal.usu.edu/Courses/GIS/2012/Labs/Lab10/2012Data/Flight%202_south_March22_2012.zip) (Heads up: 550 MB Zip file)![img](http://gis.joewheaton.org/_/rsrc/1293667540566/config/pagetemplates/lab-template/zip_icon.gif)
+- [Thursday 2012 Imagery - Flight 1_north_March22_2012](http://etal.usu.edu/Courses/GIS/2012/Labs/Lab10/2012Data/Flight%201_north_March22_2012.zip) (Heads up: 500 MB Zip file)![img]({{ site.baseurl }}/_/rsrc/1293667540566/config/pagetemplates/lab-template/zip_icon.gif)
+- [Thursday 2012 Imagery - Flight 2_south_March22_2012](http://etal.usu.edu/Courses/GIS/2012/Labs/Lab10/2012Data/Flight%202_south_March22_2012.zip) (Heads up: 550 MB Zip file)![img]({{ site.baseurl }}/_/rsrc/1293667540566/config/pagetemplates/lab-template/zip_icon.gif)
 
 The aerial photos collected with the blimp on Tuesday are not included as winds prevented us from getting enough altitude to capture the entire quad in one image. 
 
 Data Files from 2011: (FOR REFERENCE ONLY)
 
-- [Tuesday 2011 Imagery](http://etal.usu.edu/Courses/GIS/2012/Labs/Lab10/2011Data/TuesdayPhotos.zip08/TuesdayPhotos.zip) (Warning: 2 GB  Zip file) ![img](http://gis.joewheaton.org/_/rsrc/1293667540566/config/pagetemplates/lab-template/zip_icon.gif)
-- [Thursday 2011 Imagery](http://etal.usu.edu/Courses/GIS/2012/Labs/Lab10/2011Data/ThursdayPhotos.zip) (Warning: 1.8 GB Zip file) ![img](http://gis.joewheaton.org/_/rsrc/1293667540566/config/pagetemplates/lab-template/zip_icon.gif)
-- [Friday 2011 Imagery](http://etal.usu.edu/Courses/GIS/2012/Labs/Lab10/2011Data/FridayPhotos.zip) (Warning: 0.8 GB Zip file) ![img](http://gis.joewheaton.org/_/rsrc/1293667540566/config/pagetemplates/lab-template/zip_icon.gif)
+- [Tuesday 2011 Imagery](http://etal.usu.edu/Courses/GIS/2012/Labs/Lab10/2011Data/TuesdayPhotos.zip08/TuesdayPhotos.zip) (Warning: 2 GB  Zip file) ![img]({{ site.baseurl }}/_/rsrc/1293667540566/config/pagetemplates/lab-template/zip_icon.gif)
+- [Thursday 2011 Imagery](http://etal.usu.edu/Courses/GIS/2012/Labs/Lab10/2011Data/ThursdayPhotos.zip) (Warning: 1.8 GB Zip file) ![img]({{ site.baseurl }}/_/rsrc/1293667540566/config/pagetemplates/lab-template/zip_icon.gif)
+- [Friday 2011 Imagery](http://etal.usu.edu/Courses/GIS/2012/Labs/Lab10/2011Data/FridayPhotos.zip) (Warning: 0.8 GB Zip file) ![img]({{ site.baseurl }}/_/rsrc/1293667540566/config/pagetemplates/lab-template/zip_icon.gif)
 
 It's important to note that changing conditions can greatly affect the ability to collect data with the Blimp.  Flights in 2011 were not under ideal circumstances. Tuesday's lab had decent conditions but the camera settings were off and the images are largely over-exposed and they did not fly high enough to cover the entire quad in one image. Thursday's flight was better, but the winds were strong. The high altitude images don't provide a complete coverage of the Quad (in one image) and a strong northwest shifted the coverage outside the quad. The winds were so strong on Friday that the first group could not fly.
 
@@ -154,7 +154,7 @@ Produce a figure for your webpage of the correctly georeferenced 1953 St. Helena
   - coordinate system information, 
   - *and* any other information that helps convince your audience the georeferencing was done correctly.
 
-- #### [Detailed instructions for Task 1](http://gis.joewheaton.org/assignments/labs/lab10blimp/task-1-georeferencing-a-scanned-historical-image)
+- #### [Detailed instructions for Task 1]({{ site.baseurl }}/assignments/labs/lab10blimp/task-1-georeferencing-a-scanned-historical-image)
 
 - ### Task 2 - Georeference Quad photo using existing imagery 
 
@@ -230,7 +230,7 @@ Make sure your lab conforms to the general [lab submission guidelines](http://a/
 
 #### Lab Introduction Slides
 
-[![img](http://gis.joewheaton.org/_/rsrc/1325801572897/assignments/labs/lab01/PDF_Icon.png)](http://gis.joewheaton.org/assignments/labs/lab01/PDF_Icon.png?attredirects=0) [Lab  10 Slides](http://etal.usu.edu/Courses/GIS/2013/Lab/ppt/4930_wk09_georef.pdf) - Shannon wing Belmont Spring 2013
+[![img]({{ site.baseurl }}/_/rsrc/1325801572897/assignments/labs/lab01/PDF_Icon.png)]({{ site.baseurl }}/assignments/labs/lab01/PDF_Icon.png?attredirects=0) [Lab  10 Slides](http://etal.usu.edu/Courses/GIS/2013/Lab/ppt/4930_wk09_georef.pdf) - Shannon wing Belmont Spring 2013
 
 #### Tutorial or Step-by-Step Instructions for Specific Tasks
 
@@ -248,5 +248,5 @@ This weeks lab is based in the Sulphur Creek Watershed of Northern California, N
 - Grossinger R, Striplen C, Brewster E and McKee L. 2003. [Ecological, Geomorphic, and Land Use History of Sulphur Creek Watershed: A component of the watershed management plan for the Sulphur Creek watershed, Napa County, California](http://www.napawatersheds.org/files/managed/Document/2398/Sulphur%20Draft%20HE%20report%20Final%20v1.pdf). A Technical Report of the Regional Watershed Program, San Francisco Estuary Institute, Oakland, CA, 51 pp. 
 - [Watershed Information Center & Conservancy of Napa County](http://www.napawatersheds.org/)
 
-Subpages (1): [Task 1: Georeferencing a Scanned Historical Image](http://gis.joewheaton.org/assignments/labs/lab10blimp/task-1-georeferencing-a-scanned-historical-image)
+Subpages (1): [Task 1: Georeferencing a Scanned Historical Image]({{ site.baseurl }}/assignments/labs/lab10blimp/task-1-georeferencing-a-scanned-historical-image)
 

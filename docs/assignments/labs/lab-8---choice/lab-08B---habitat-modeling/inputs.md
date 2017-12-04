@@ -136,5 +136,5 @@ Your euclidean distance should look something like the above.
 - Euclidean_Distance_to_Water.img
 - Euclidean_Distance_to_Water.asc
 
-[Ahead to Run the Model](http://gis.joewheaton.org/assignments/labs/lab-8---choice/lab-08B---habitat-modeling/run-the-model) →
+[Ahead to Run the Model]({{ site.baseurl }}/assignments/labs/lab-8---choice/lab-08B---habitat-modeling/run-the-model) →
 

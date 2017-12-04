@@ -4,7 +4,7 @@ title: Podcasts
 
 ### Wrap up of Tuesday's Lecture
 
-Recall, on Tuesday we got through about 80% of the material on [projections and coordinate systems](http://gis.joewheaton.org/topics/digitalmaps#TOC-Projections-Coordinate-Systems). This video provides the final missing pieces on State Plane Coordinates, PLSS and Transformations. In addition, a preview of [Lab 2](http://gis.joewheaton.org/assignments/labs/lab-02---coordinate-data-projections-transformations) for next week is provided.
+Recall, on Tuesday we got through about 80% of the material on [projections and coordinate systems]({{ site.baseurl }}/topics/digitalmaps#TOC-Projections-Coordinate-Systems). This video provides the final missing pieces on State Plane Coordinates, PLSS and Transformations. In addition, a preview of [Lab 2]({{ site.baseurl }}/assignments/labs/lab-02---coordinate-data-projections-transformations) for next week is provided.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RkMFaBt1nNI" frameborder="0" allowfullscreen></iframe>
 

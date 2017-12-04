@@ -25,7 +25,7 @@ Adobe Illustrator is a vector graphics editor program.  If you have not used Ill
 
 ### A Guided Tour of Building a Basic Figure in Adobe Illustrator After Exporting out of ArcMap:
 
-In the video below, Martha walks us through how to bring in the data we exported out of ArcMap (see [3. Use ArcGIS ONLY for Making Figure Building Block](http://gis.joewheaton.org/useful-quick-references/figure-preparation-guidelines/2-use-arcgis-only-for-making-map)) and build a basic figure in Adobe Illustrator.
+In the video below, Martha walks us through how to bring in the data we exported out of ArcMap (see [3. Use ArcGIS ONLY for Making Figure Building Block]({{ site.baseurl }}/useful-quick-references/figure-preparation-guidelines/2-use-arcgis-only-for-making-map)) and build a basic figure in Adobe Illustrator.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hlvKHJJxaE8" frameborder="0" allowfullscreen></iframe>
 
@@ -49,5 +49,5 @@ Assembling a Figure Made Up of Multiple Maps & A Table:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8TdzgGoBrhw" frameborder="0" allowfullscreen></iframe>
 
-←Back to [4. Gather Up Your Other Figure Components](http://gis.joewheaton.org/useful-quick-references/figure-preparation-guidelines/3-gather-up-your-other-figure-components)[ ](http://gis.joewheaton.org/useful-quick-references/figure-preparation-guidelines/3-gather-up-your-other-figure-components)        Ahead to [6. Export the Final Figure & Put Where Needed](http://gis.joewheaton.org/useful-quick-references/figure-preparation-guidelines/5-export-the-final-figure-put-where-needed) →
+←Back to [4. Gather Up Your Other Figure Components]({{ site.baseurl }}/useful-quick-references/figure-preparation-guidelines/3-gather-up-your-other-figure-components)[ ]({{ site.baseurl }}/useful-quick-references/figure-preparation-guidelines/3-gather-up-your-other-figure-components)        Ahead to [6. Export the Final Figure & Put Where Needed]({{ site.baseurl }}/useful-quick-references/figure-preparation-guidelines/5-export-the-final-figure-put-where-needed) →
 

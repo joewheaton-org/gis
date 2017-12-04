@@ -13,7 +13,7 @@ For this lab, pretend that you are doing research (vaguely defined) at Tony Grov
 #### Prerequisites
 
 - Computer literacy and familiarity with Windows file management and web browsing
-- Previous experience with ArcGIS is helpful, but even if you've never used ArcGIS, we will walk you through everything step-by-step in this lab. As we continue through the semester, we'll work toward providing you with fewer and fewer step-by-step instructions, and encouraging you to piece together the steps required to complete a task on your own (i.e. [Primary Learning Outcome](http://gis.joewheaton.org/about/primary-learning-outcomes) 3)
+- Previous experience with ArcGIS is helpful, but even if you've never used ArcGIS, we will walk you through everything step-by-step in this lab. As we continue through the semester, we'll work toward providing you with fewer and fewer step-by-step instructions, and encouraging you to piece together the steps required to complete a task on your own (i.e. [Primary Learning Outcome]({{ site.baseurl }}/about/primary-learning-outcomes) 3)
 - No previous web editing or HTML coding experience is necessary
 
 ![icon_arcgis]({{ site.baseurl }}/assets/images/icon_arcgis.gif)
@@ -26,19 +26,19 @@ For this lab, pretend that you are doing research (vaguely defined) at Tony Grov
 - Have you publish your map in three forms to your new website: 1) image, 2) PDF, and 3) an interactive Google Map (i.e. webGIS). 
 - Finally, the lab is designed to familiarize you with the format of labs for this course, help you set up your lab account, and establish a personal file management system.  
 
-This lab helps fulfill the [primary learning outcomes](http://gis.joewheaton.org/about/primary-learning-outcomes) 2 & 5 for the course.
+This lab helps fulfill the [primary learning outcomes]({{ site.baseurl }}/about/primary-learning-outcomes) 2 & 5 for the course.
 
 ### Lab Tasks
 
-There are three primary tasks in this lab you will be assessed on (see [here](http://gis.joewheaton.org/about/grades#TOC-Labs-50-of-final-grade-) for general course grading criteria & Canvas for grading rubric specific to this lab):
+There are three primary tasks in this lab you will be assessed on (see [here]({{ site.baseurl }}/about/grades#TOC-Labs-50-of-final-grade-) for general course grading criteria & Canvas for grading rubric specific to this lab):
 
 #### Task 1 - Create Study Site Map
 
-Using ArcMap, create a map of your Tony Grove study site. You should use [this polygon](http://etal.usu.edu/Courses/GIS/2012/Labs/Lab01/Lab01_StudySite.zip) (data credits: Joe Wheaton) as your study site and include some context basemap layers (e.g. aerial imagery). The map must have all the attributes of a good map and [pass the 6 C's litmus test](http://gis.joewheaton.org/about/grades)! You should also create an inset location map. Export your completed map as a JPG and PDF, and create a KMZ of the study site layer. See [detailed instructions](http://gis.joewheaton.org/assignments/labs/lab01/task-1---build-map).
+Using ArcMap, create a map of your Tony Grove study site. You should use [this polygon](http://etal.usu.edu/Courses/GIS/2012/Labs/Lab01/Lab01_StudySite.zip) (data credits: Joe Wheaton) as your study site and include some context basemap layers (e.g. aerial imagery). The map must have all the attributes of a good map and [pass the 6 C's litmus test]({{ site.baseurl }}/about/grades)! You should also create an inset location map. Export your completed map as a JPG and PDF, and create a KMZ of the study site layer. See [detailed instructions]({{ site.baseurl }}/assignments/labs/lab01/task-1---build-map).
 
 #### Task 2 - Create your own GIS Website
 
-Create a website (we suggest using Google Sites), which will house all your labs.  See [detailed instructions](http://gis.joewheaton.org/assignments/labs/lab01/task-2---build-website).
+Create a website (we suggest using Google Sites), which will house all your labs.  See [detailed instructions]({{ site.baseurl }}/assignments/labs/lab01/task-2---build-website).
 
 #### Task 3 - Publish Maps to Your Website
 
@@ -50,31 +50,31 @@ Prepare a web page for this lab the showcases your final map and provides approp
 - Cite your data sources
 - Interactive map of study site.
 
-See [detailed instructions](http://gis.joewheaton.org/assignments/labs/lab01/task3).
+See [detailed instructions]({{ site.baseurl }}/assignments/labs/lab01/task3).
 
 ### What to Submit
 
 To Canvas, you will submit a [URL](https://www.merriam-webster.com/dictionary/URL) to your newly created GIS website. Within your GIS website, prepare a web page for this lab.   The web page should be clearly labeled at the top of the page (i.e. page name) as "Lab 01 - ArcGIS Refresher & Intro to WebGIS". 
 
-Make sure your lab conforms to the general [lab submission guidelines](http://gis.joewheaton.org/assignments/labs). **Submit a URL for this lab's webpage **on Canvas**.** 
+Make sure your lab conforms to the general [lab submission guidelines]({{ site.baseurl }}/assignments/labs). **Submit a URL for this lab's webpage **on Canvas**.** 
 
 ### Suggested Instructions & Workflows
 
-For most labs, the tasks will be laid out concisely (see above), and you are free to use any workflow you wish to complete the tasks. Typically, we will provide you with some suggested instructions and workflows in subpages. In this lab, the workflow walks you through every step. In future labs, the workflows may provide only a broad overview, or only specific detail on the most difficult steps. For this first lab, we also provide you with some[ initial orientation material about ArcGIS and suggestions about file management](http://gis.joewheaton.org/assignments/labs/lab01/getting-organized-and-oriented) (YOU SHOULD READ AND FOLLOW THESE).
+For most labs, the tasks will be laid out concisely (see above), and you are free to use any workflow you wish to complete the tasks. Typically, we will provide you with some suggested instructions and workflows in subpages. In this lab, the workflow walks you through every step. In future labs, the workflows may provide only a broad overview, or only specific detail on the most difficult steps. For this first lab, we also provide you with some[ initial orientation material about ArcGIS and suggestions about file management]({{ site.baseurl }}/assignments/labs/lab01/getting-organized-and-oriented) (YOU SHOULD READ AND FOLLOW THESE).
 
 **Detailed Instructions**
 
-[Getting Organized and Oriented](http://gis.joewheaton.org/assignments/labs/lab01/getting-organized-and-oriented)
+[Getting Organized and Oriented]({{ site.baseurl }}/assignments/labs/lab01/getting-organized-and-oriented)
 
-- [Task 1 - Create Study Site Map](http://gis.joewheaton.org/assignments/labs/lab01/task-1---build-map)
-- [Task 2 - Build Website](http://gis.joewheaton.org/assignments/labs/lab01/task-2---build-website)
-- [Task 3 - Publish Maps to Lab Page](http://gis.joewheaton.org/assignments/labs/lab01/task3)
+- [Task 1 - Create Study Site Map]({{ site.baseurl }}/assignments/labs/lab01/task-1---build-map)
+- [Task 2 - Build Website]({{ site.baseurl }}/assignments/labs/lab01/task-2---build-website)
+- [Task 3 - Publish Maps to Lab Page]({{ site.baseurl }}/assignments/labs/lab01/task3)
 
 ### Additional Resources
 
 #### Lab Introduction Lecture Slides
 
-- [![img](http://gis.joewheaton.org/_/rsrc/1325801572897/assignments/labs/lab01/PDF_Icon.png)](http://gis.joewheaton.org/assignments/labs/lab01/PDF_Icon.png?attredirects=0) [Lab 1 Slides](http://etal.usu.edu/Courses/GIS/2013/Lab/ppt/4930_wk01_intro.pdf) - Shannon Belmont (Spring 2013)
+- [![img]({{ site.baseurl }}/_/rsrc/1325801572897/assignments/labs/lab01/PDF_Icon.png)]({{ site.baseurl }}/assignments/labs/lab01/PDF_Icon.png?attredirects=0) [Lab 1 Slides](http://etal.usu.edu/Courses/GIS/2013/Lab/ppt/4930_wk01_intro.pdf) - Shannon Belmont (Spring 2013)
 - ​      2015 slides are on Canvas
 
 #### Related Tutorials & Help for ArcGIS

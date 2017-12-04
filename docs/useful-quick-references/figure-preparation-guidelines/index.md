@@ -15,12 +15,12 @@ In this class we will show you demos in Adobe Illustrator. You are welcome to us
 
 #### Steps to Creating Professional Figures
 
-- [1. Recognizing What's Wrong With Typical GIS Maps](http://gis.joewheaton.org/useful-quick-references/figure-preparation-guidelines/1-recognizing-what-s-wrong-with-typical-gis-maps)
-- [2. Planning your Figure Layout](http://gis.joewheaton.org/useful-quick-references/figure-preparation-guidelines/2-planning-your-figure-layout)
-- [3. Use ArcGIS ONLY for Making Figure Building Block](http://gis.joewheaton.org/useful-quick-references/figure-preparation-guidelines/2-use-arcgis-only-for-making-map)
-- [4. Gather Up Your Other Figure Components](http://gis.joewheaton.org/useful-quick-references/figure-preparation-guidelines/3-gather-up-your-other-figure-components)
-- [5. Assemble the 'Figure' in a Drawing Application](http://gis.joewheaton.org/useful-quick-references/figure-preparation-guidelines/4-assemble-the-figure-in-a-drawing-application)
-  - [Using Adobe Illustrator to Assemble](http://gis.joewheaton.org/useful-quick-references/figure-preparation-guidelines/4-assemble-the-figure-in-a-drawing-application/using-adobe-illustrator-to-assemble)
-  - [Using Inkscape to Assemble](http://gis.joewheaton.org/useful-quick-references/figure-preparation-guidelines/4-assemble-the-figure-in-a-drawing-application/using-inkscape-to-assemble)
-- [6. Export the Final Figure & Put Where Needed](http://gis.joewheaton.org/useful-quick-references/figure-preparation-guidelines/5-export-the-final-figure-put-where-needed)
+- [1. Recognizing What's Wrong With Typical GIS Maps]({{ site.baseurl }}/useful-quick-references/figure-preparation-guidelines/1-recognizing-what-s-wrong-with-typical-gis-maps)
+- [2. Planning your Figure Layout]({{ site.baseurl }}/useful-quick-references/figure-preparation-guidelines/2-planning-your-figure-layout)
+- [3. Use ArcGIS ONLY for Making Figure Building Block]({{ site.baseurl }}/useful-quick-references/figure-preparation-guidelines/2-use-arcgis-only-for-making-map)
+- [4. Gather Up Your Other Figure Components]({{ site.baseurl }}/useful-quick-references/figure-preparation-guidelines/3-gather-up-your-other-figure-components)
+- [5. Assemble the 'Figure' in a Drawing Application]({{ site.baseurl }}/useful-quick-references/figure-preparation-guidelines/4-assemble-the-figure-in-a-drawing-application)
+  - [Using Adobe Illustrator to Assemble]({{ site.baseurl }}/useful-quick-references/figure-preparation-guidelines/4-assemble-the-figure-in-a-drawing-application/using-adobe-illustrator-to-assemble)
+  - [Using Inkscape to Assemble]({{ site.baseurl }}/useful-quick-references/figure-preparation-guidelines/4-assemble-the-figure-in-a-drawing-application/using-inkscape-to-assemble)
+- [6. Export the Final Figure & Put Where Needed]({{ site.baseurl }}/useful-quick-references/figure-preparation-guidelines/5-export-the-final-figure-put-where-needed)
 
