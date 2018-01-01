@@ -2,7 +2,7 @@
 title: First Reading Assignment
 ---
 
-[![img]({{ site.baseurl }}/_/rsrc/1357597003403/assignments/reading-assignments-spring-2011/readingfortuesdayjanuary15th/GIS_Fundamentals_4E.png)]({{ site.baseurl }}/assignments/reading-assignments-spring-2011/readingfortuesdayjanuary15th/GIS_Fundamentals_4E.png?attredirects=0)Finish reading the following by **Tuesday, January 13, 2015** :Read the following from Chapter Three (Map Projections & Coordinate Systems) of [Bolstad (2005)]({{ site.baseurl }}/about/text-readings) 
+Finish reading the following by **Tuesday, January 13, 2015** :Read the following from Chapter Three (Map Projections & Coordinate Systems) of [Bolstad (2005)]({{ site.baseurl }}/about/text-readings) 
 
 * skim pp 70-72 (early measurements)
 * Read rest of chapter in detail pp 72-119

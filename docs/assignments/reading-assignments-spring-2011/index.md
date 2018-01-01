@@ -2,7 +2,7 @@
 title: Reading Assignments
 ---
 
-![img]({{ site.baseurl }}/_/rsrc/1507793539000/system/app/images/icon_feed.gif) [Subscribe to posts]({{ site.baseurl }}/assignments/reading-assignments-spring-2011/posts.xml)
+Spring 2015 Reading Assignments. See [here](http://gis.joewheaton.org/assignments/reading-assignments-2010) for past reading assignments.
 
 #### [New for 2017]({{ site.baseurl }}/assignments/reading-assignments-spring-2011/newfor2017)
 
