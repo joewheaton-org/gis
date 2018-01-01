@@ -2,7 +2,7 @@
 title: Assignments
 ---
 
-#### ssignment Types
+#### Assignment Types
 
 There are four types of assignments in these classes:
 
