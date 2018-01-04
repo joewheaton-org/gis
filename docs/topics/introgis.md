@@ -54,21 +54,21 @@ Here we cover the syllabus, introductions and start to review maps.
 
 Current Year:
 
-- [![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif)]({{ site.baseurl }}/topics/introgis/pdf_icon.gif?attredirects=0) [2017 Tuesday & Thursday Lecture](http://etalweb.joewheaton.org/Courses/GIS/2017/Lectures/1_IntroToCourse_%26GIS_Review.pdf) - PDF 
+- [2017 Tuesday & Thursday Lecture](http://etalweb.joewheaton.org/Courses/GIS/2017/Lectures/1_IntroToCourse_%26GIS_Review.pdf) - PDF 
 
 Past Years:
 
 Starting in 2013, we covered the syllabus, a review of GIS and intro to WebGIS on the first day.
 
-- [![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif)]({{ site.baseurl }}/topics/introgis/pdf_icon.gif?attredirects=0) [2015 Tuesday Lecture - PDF](http://etal.usu.edu/Courses/GIS/2015/Lectures/1_IntroToCourse_&GIS_Review.pdf) 
+- [2015 Tuesday Lecture - PDF](http://etal.usu.edu/Courses/GIS/2015/Lectures/1_IntroToCourse_&GIS_Review.pdf) 
 
-- [![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif)]({{ site.baseurl }}/topics/introgis/pdf_icon.gif?attredirects=0) [2014 Tuesday Lecture - PDF](http://etal.usu.edu/Courses/GIS/2014/Lectures/Week01/1_IntroToCourse_&GIS_Review.pdf)
+- [2014 Tuesday Lecture - PDF](http://etal.usu.edu/Courses/GIS/2014/Lectures/Week01/1_IntroToCourse_&GIS_Review.pdf)
 
-- [![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif)]({{ site.baseurl }}/topics/introgis/pdf_icon.gif?attredirects=0) 2013 [Tuesday Lecture - PDF](http://etal.usu.edu/Courses/GIS/2013/Lectures/Week_01/1_IntroToCourse_&GIS_Review.pdf)
+- 2013 [Tuesday Lecture - PDF](http://etal.usu.edu/Courses/GIS/2013/Lectures/Week_01/1_IntroToCourse_&GIS_Review.pdf)
 
-- [![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif)](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/topics/introgis/1_IntroToCourse_%26GIS_Review_2PP.pdf?attredirects=0) 2012 [Tuesday Lecture  - PDF](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2001%20-%20Intro%20to%20GIS/1_IntroToCourse_&GIS_Review_2PP.pdf) w/ 2 slides per page
+- 2012 [Tuesday Lecture  - PDF](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2001%20-%20Intro%20to%20GIS/1_IntroToCourse_&GIS_Review_2PP.pdf) w/ 2 slides per page
 
-- ![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2012 [Tuesday Lecture - PDF](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2001%20-%20Intro%20to%20GIS/1_IntroToCourse_&GIS_Review_6PP.pdf) w/ 6 slides per page
+- 2012 [Tuesday Lecture - PDF](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2001%20-%20Intro%20to%20GIS/1_IntroToCourse_&GIS_Review_6PP.pdf) w/ 6 slides per page
 
 - - 2012 [Video of Lecture](http://youtube.com/watch?v=ZNBiOnxcJkY) 
 
