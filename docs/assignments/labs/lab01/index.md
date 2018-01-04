@@ -74,7 +74,7 @@ For most labs, the tasks will be laid out concisely (see above), and you are fre
 
 #### Lab Introduction Lecture Slides
 
-- [![img]({{ site.baseurl }}/_/rsrc/1325801572897/assignments/labs/lab01/PDF_Icon.png)]({{ site.baseurl }}/assignments/labs/lab01/PDF_Icon.png?attredirects=0) [Lab 1 Slides](http://etal.usu.edu/Courses/GIS/2013/Lab/ppt/4930_wk01_intro.pdf) - Shannon Belmont (Spring 2013)
+-  [Lab 1 Slides](http://etal.usu.edu/Courses/GIS/2013/Lab/ppt/4930_wk01_intro.pdf) - Shannon Belmont (Spring 2013)
 - ​      2015 slides are on Canvas
 
 #### Related Tutorials & Help for ArcGIS
