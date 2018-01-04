@@ -18,6 +18,6 @@ The above learning outcomes apply to the courses as follows:
 | 4 - Spatial Analysis in Research         | NA                 | Core               | NA            |
 | 5 - Communicating with GIS               | Core               | Core               | Core          |
 
-![Yampa%20River%202010%20129]({{ site.baseurl }}/assets/images/Yampa%20River%202010%20129.jpg)
+![Yampa%20River%202010%20129]({{site.baseurl }}/assets/images/Yampa%20River%202010%20129.jpg)
 
 GIS being used in the field, here with a ground-based LiDaR. 
