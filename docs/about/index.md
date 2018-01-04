@@ -39,7 +39,7 @@ We will deliver lectures via a mix of in-person, interactive lectures, versus vi
 | End of WATS 4930/6920      |               |                                          |                         |                                          |
 | 4931 & 6921                | WEEK 11       | Project Proposals                        | Mar 28 & 30             | [1. Project Proposals]({{ site.baseurl }}/assignments/project/project-proposal) |
 | 4931 & 6921                | WEEK 12       | Getting Your Data, & Prepping For Analysis | Apr 4 & Apr 6           | [2. Data Vignette]({{ site.baseurl }}/assignments/project/data-preparation-vignette) |
-| 4931 & 6921                | WEEK 13       | Analysis                                 | Apr 11 & 13             | [3. Analysis Vignette]({{ site.baseurl }}/assignments/project/data-analysis-vignette) |
+| 4931 & 6921                | WEEK 13       | Analysis                                 | Apr 11 & 13             | [3. Analysis Vignette]({{ site.baseurl }}assignments/project/data-analysis-vignette) |
 | 4931 & 6921                | WEEK 14       | Analysis                                 | Apr 18 & 20             | [4. Analysis Vignette]({{ site.baseurl }}/assignments/project/data-analysis-vignettes) |
 | 4931 & 6921                | WEEK 15       | Poster Presentations                     | Apr 25 & 27             | [5. Project Poster]({{ site.baseurl }}/assignments/project/poster-session) |
 
