@@ -2,7 +2,7 @@
 title: Reading Assignments
 ---
 
-Spring 2015 Reading Assignments. See [here](http://gis.joewheaton.org/assignments/reading-assignments-2010) for past reading assignments.
+Spring 2015 Reading Assignments. See [here]({{ site.baseurl }}/assignments/reading-assignments-2010) for past reading assignments.
 
 #### [New for 2017]({{ site.baseurl }}/assignments/reading-assignments-spring-2011/newfor2017)
 

@@ -10,7 +10,7 @@ One of the many powers of GIS is combining various data based on spatial locatio
 
 #### Prerequistites
 
-- Completion of [Lab 01](http://gis.joewheaton.org/assignments/labs/lab01).  It is also expected that you are familiar with the[ 6 C's](http://gis.joewheaton.org/about/grades#TOC-The-Six-C-s-Rubric) to make effective maps.
+- Completion of [Lab 01]({{ site.baseurl }}/assignments/labs/lab01).  It is also expected that you are familiar with the[ 6 C's]({{ site.baseurl }}/about/grades#TOC-The-Six-C-s-Rubric) to make effective maps.
 
 ------
 
@@ -36,7 +36,7 @@ During this workshop you will learn how to take digital images or maps that are 
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d40859.65423114738!2d-122.50179599999998!3d38.486929!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sus!4v1515090486163" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-You are provided with the following new data (in[ Georeferencing_StHelena.zip](http://etal.usu.edu/Courses/GIS/2012/Labs/Lab09/Georeferencing_StHelena.zip)![img](http://gis.joewheaton.org/_/rsrc/1357494636601/assignments/labs/old-labs/Georeferencing/zip_icon.gif)): 
+You are provided with the following new data (in[ Georeferencing_StHelena.zip](http://etal.usu.edu/Courses/GIS/2012/Labs/Lab09/Georeferencing_StHelena.zip)![img]({{ site.baseurl }}/_/rsrc/1357494636601/assignments/labs/old-labs/Georeferencing/zip_icon.gif)): 
 
  
 
@@ -48,11 +48,11 @@ You are provided with the following new data (in[ Georeferencing_StHelena.zip](h
 
 #### Task 1 - Georeferencing a Scanned Historical Image
 
-You need to georeference a scanned historical image (`1953_StHelena_AP.jpg`) based on establishing control points in a more recent (`2002_SulphurCreek_AP.tif`) correctly georeferenced image. This means that the new georeferenced image you produce will take on the coordinate system and projection of the more recent image. You should also assess how good a job you did at georeferencing the imagery, and create a map that convinces your boss that you did the georeferencing correctly. See [here](http://gis.joewheaton.org/assignments/labs/old-labs/Georeferencing/task-1-georeferencing-a-scanned-historical-image) for detailed instructions. 
+You need to georeference a scanned historical image (`1953_StHelena_AP.jpg`) based on establishing control points in a more recent (`2002_SulphurCreek_AP.tif`) correctly georeferenced image. This means that the new georeferenced image you produce will take on the coordinate system and projection of the more recent image. You should also assess how good a job you did at georeferencing the imagery, and create a map that convinces your boss that you did the georeferencing correctly. See [here]({{ site.baseurl }}/assignments/labs/old-labs/Georeferencing/task-1-georeferencing-a-scanned-historical-image) for detailed instructions. 
 
 #### Task 2 - Georeferencing a Digital Aerial Photograph
 
-In this task you will take an image acquired from an aerial platform (`2006_BlimpPhoto.jpg`) and georeference it using aerial targets visible in the image, which correspond to known ground coordinates (`2006_Blimp_Targets.asc`). Again, you will need to assess how good a job you did at georeferencing and create a convincing map. See [here](http://gis.joewheaton.org/assignments/labs/old-labs/Georeferencing/task-2-georeferencing-a-digital-aerial-photograph) for some instructions.
+In this task you will take an image acquired from an aerial platform (`2006_BlimpPhoto.jpg`) and georeference it using aerial targets visible in the image, which correspond to known ground coordinates (`2006_Blimp_Targets.asc`). Again, you will need to assess how good a job you did at georeferencing and create a convincing map. See [here]({{ site.baseurl }}/assignments/labs/old-labs/Georeferencing/task-2-georeferencing-a-digital-aerial-photograph) for some instructions.
 
 ------
 
@@ -86,14 +86,14 @@ Make sure your lab conforms to the general [lab submission guidelines](http://a/
 
 #### Workflows
 
-[Task 1: Georeferencing a Scanned Historical Image](http://gis.joewheaton.org/assignments/labs/old-labs/Georeferencing/task-1-georeferencing-a-scanned-historical-image)
-[Task 2: Georeferencing a Digital Aerial Photograph](http://gis.joewheaton.org/assignments/labs/old-labs/Georeferencing/task-2-georeferencing-a-digital-aerial-photograph)
+[Task 1: Georeferencing a Scanned Historical Image]({{ site.baseurl }}/assignments/labs/old-labs/Georeferencing/task-1-georeferencing-a-scanned-historical-image)
+[Task 2: Georeferencing a Digital Aerial Photograph]({{ site.baseurl }}/assignments/labs/old-labs/Georeferencing/task-2-georeferencing-a-digital-aerial-photograph)
 
 ### Additional Resources
 
 #### Lab Introduction Slides
 
-[![img](http://gis.joewheaton.org/_/rsrc/1325801572897/assignments/labs/lab01/PDF_Icon.png)](http://gis.joewheaton.org/assignments/labs/lab01/PDF_Icon.png?attredirects=0) [Lab Slides](http://etal.usu.edu/Courses/GIS/2012/Labs/Lab09/WATS4930_2012_wk9.pdf) - Shannon Belmont
+[![img]({{ site.baseurl }}/_/rsrc/1325801572897/assignments/labs/lab01/PDF_Icon.png)]({{ site.baseurl }}/assignments/labs/lab01/PDF_Icon.png?attredirects=0) [Lab Slides](http://etal.usu.edu/Courses/GIS/2012/Labs/Lab09/WATS4930_2012_wk9.pdf) - Shannon Belmont
 
 #### Tutorial or Step-by-Step Instructions for Specific Tasks
 

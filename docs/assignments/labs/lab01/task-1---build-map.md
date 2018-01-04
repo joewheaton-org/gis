@@ -5,7 +5,7 @@ title: Task 1 - Create Study Site Map
 ### Make New Map & Bring in Data and Context Layers
 
 - If you have not already, make a [folder connection](http://help.arcgis.com/en/arcgisdesktop/10.0/help/index.html#//00sn00000007000000.htm) to your `...\WATS4930\Labs\Lab01` folder. 
-- Download and unzip the contents of ![img](http://gis.joewheaton.org/_/rsrc/1294374366830/assignments/labs/lab01/task-1---build-map/zip_icon.gif)[StudySite Polygon](http://etal.usu.edu/Courses/GIS/2012/Labs/Lab01/Lab01_StudySite.zip) (data credits: Joe Wheaton) to your `...\WATS4930\Labs\Lab01` folder (Note this step is not in ArcGIS).
+- Download and unzip the contents of ![img]({{ site.baseurl }}/_/rsrc/1294374366830/assignments/labs/lab01/task-1---build-map/zip_icon.gif)[StudySite Polygon](http://etal.usu.edu/Courses/GIS/2012/Labs/Lab01/Lab01_StudySite.zip) (data credits: Joe Wheaton) to your `...\WATS4930\Labs\Lab01` folder (Note this step is not in ArcGIS).
 - In ArcMap's Catalog Window, you should be able to browse to the Lab01 folder through your folder connections and see the downloaded shapefile (`StudySite.shp`) and layer file (`Study Site.lyr`). If it does not show up, you may need to hit F5 to refresh the contents. 
 
 ![CatalogWindow_wShapeFile]({{ site.baseurl }}/assets/images/CatalogWindow_wShapeFile.PNG)
@@ -20,12 +20,12 @@ Before adding this data, right-click on the **Layers **data frame in the *Table 
 
 (Your image may be different depending on the ArcMap version used.)
 
-- Now add the `Study Site.lyr` file to the map (by either dragging it to the Table of Contents from the catalog, or using the *Add Data ![img](http://gis.joewheaton.org/_/rsrc/1294558850323/assignments/labs/lab01/task-1---build-map/AddDataButton.PNG) *command).  Note, if your layer shows the dreaded red exclamation source next to it (**!**) just right click on it >* Data ->  Repair Data Source* and point the layer to the source file: `StudySite.shp`.
+- Now add the `Study Site.lyr` file to the map (by either dragging it to the Table of Contents from the catalog, or using the *Add Data ![img]({{ site.baseurl }}/_/rsrc/1294558850323/assignments/labs/lab01/task-1---build-map/AddDataButton.PNG) *command).  Note, if your layer shows the dreaded red exclamation source next to it (**!**) just right click on it >* Data ->  Repair Data Source* and point the layer to the source file: `StudySite.shp`.
 - Again, right-click on the **Layers **data frame and notice that a projection is associated with this data frame. Is it the same as the shapefile?
 
 ![DataFrame_CS_After]({{ site.baseurl }}/assets/images/DataFrame_CS_After.PNG)
 
-- It is very important to verify that the map document you are working in has the coordinate system you want loaded. By default, ArcMap assigns the coordinate system for the data frame based on the coordinate system of the first layer added to the data frame. If other layers are later added without coordinate systems, ArcMap assumes they are in the same coordinate system as the data frame. If other layers are added with different coordinate systems, ArcMap reprojects those layers on the fly and attempts to correctly overlay that layer with the others. This is convenient, but dangerous if you don't know what is happening behind the scenes and don't know what you are doing. We will cover this topic in more detail [next week](http://gis.joewheaton.org/topics/digitalmaps) and in [Lab 02](http://gis.joewheaton.org/assignments/labs/old-labs/Georeferencing). 
+- It is very important to verify that the map document you are working in has the coordinate system you want loaded. By default, ArcMap assigns the coordinate system for the data frame based on the coordinate system of the first layer added to the data frame. If other layers are later added without coordinate systems, ArcMap assumes they are in the same coordinate system as the data frame. If other layers are added with different coordinate systems, ArcMap reprojects those layers on the fly and attempts to correctly overlay that layer with the others. This is convenient, but dangerous if you don't know what is happening behind the scenes and don't know what you are doing. We will cover this topic in more detail [next week]({{ site.baseurl }}/topics/digitalmaps) and in [Lab 02]({{ site.baseurl }}/assignments/labs/old-labs/Georeferencing). 
 
 #### Add Some Context
 
@@ -48,7 +48,7 @@ Before adding this data, right-click on the **Layers **data frame in the *Table 
 
 - - Switch to the [layout view](http://help.arcgis.com/en/arcgisdesktop/10.0/help/index.html#/A_quick_tour_of_page_layouts/00s900000007000000/). 
 
-  - Using your [background knowledge of ArcGIS](http://gis.joewheaton.org/assignments/labs/lab01/getting-organized-and-oriented/arcgis-10-desktop-orientation), create a nice looking map that meets the [six C's criteria](http://gis.joewheaton.org/about/grades#TOC-The-Six-C-s-Rubric) and fits the [purpose defined for this lab](http://gis.joewheaton.org/assignments/labs/lab01#TOC-Background). For the context C, [minimally](http://help.arcgis.com/en/arcgisdesktop/10.0/help/index.html#/How_maps_convey_geographic_information/00v20000000s000000/), your map should include:
+  - Using your [background knowledge of ArcGIS]({{ site.baseurl }}/assignments/labs/lab01/getting-organized-and-oriented/arcgis-10-desktop-orientation), create a nice looking map that meets the [six C's criteria]({{ site.baseurl }}/about/grades#TOC-The-Six-C-s-Rubric) and fits the [purpose defined for this lab]({{ site.baseurl }}/assignments/labs/lab01#TOC-Background). For the context C, [minimally](http://help.arcgis.com/en/arcgisdesktop/10.0/help/index.html#/How_maps_convey_geographic_information/00v20000000s000000/), your map should include:
 
   - - Effective symbology
     - North arrow 
@@ -66,7 +66,7 @@ Before adding this data, right-click on the **Layers **data frame in the *Table 
 
   - **Add a locator map: **a second data frame with a basemap and use of [extent indicators](http://pro.arcgis.com/en/pro-app/help/layouts/extent-indicators.htm)?...
 
-  - Export your finished map to a PDF (see [here](http://gis.joewheaton.org/assignments/labs/lab01/getting-organized-and-oriented/arcgis-10-desktop-orientation/working-with-arcmap#TOC-Exporting-a-Map-as-an-Image) if you need help), AND  jpeg format. 
+  - Export your finished map to a PDF (see [here]({{ site.baseurl }}/assignments/labs/lab01/getting-organized-and-oriented/arcgis-10-desktop-orientation/working-with-arcmap#TOC-Exporting-a-Map-as-an-Image) if you need help), AND  jpeg format. 
 
 - ### Convert your Study Site Layer as a KMZ file
 
@@ -84,9 +84,9 @@ Before adding this data, right-click on the **Layers **data frame in the *Table 
 - Open the KMZ file in Google Earth and make sure it looks like it is in the correct location.
 - KMZ and KML are both keyhole markup files. The Z is for 'zipped'.
 
-This concludes the instructions for Task 1. You've created a map of your study site that meets the [six C's criteria](http://gis.joewheaton.org/about/grades#TOC-The-Six-C-s-Rubric)and demonstrates your mad GIS visualization skills. You've exported your map into both a PDF and a JPG image format. You've converted the study site polygons from ArcGIS to a KMZ format that can be viewed in Google Earth.
+This concludes the instructions for Task 1. You've created a map of your study site that meets the [six C's criteria]({{ site.baseurl }}/about/grades#TOC-The-Six-C-s-Rubric)and demonstrates your mad GIS visualization skills. You've exported your map into both a PDF and a JPG image format. You've converted the study site polygons from ArcGIS to a KMZ format that can be viewed in Google Earth.
 
 ------
 
-[Next Task](http://gis.joewheaton.org/assignments/labs/lab01/task-2---build-website) (Task 2)
+[Next Task]({{ site.baseurl }}/assignments/labs/lab01/task-2---build-website) (Task 2)
 

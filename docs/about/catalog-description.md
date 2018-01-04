@@ -26,6 +26,6 @@ This intensive four week crash course in GIS is intended for graduate students w
 - WATS 6921 - Must have WATS 6920 or equivalent experience
 - WATS 6915 - None
 
-**Semester(s) Traditionally Offered:** Spring. See [here](http://gis.joewheaton.org/about/how-to-register) for registration information.
+**Semester(s) Traditionally Offered:** Spring. See [here]({{ site.baseurl }}/about/how-to-register) for registration information.
 
 [Link to Catalog](http://catalog.usu.edu/content.php?filter%5B27%5D=WATS&filter%5B29%5D=4930&filter%5Bcourse_type%5D=-1&filter%5Bkeyword%5D=&filter%5B32%5D=1&cpage=1&cur_cat_oid=2&expand=&catoid=2&navoid=86&search_database=Filter&filter%5Bexact_match%5D=1)

@@ -26,7 +26,7 @@ You will need to reenter your password and then you will be logged into [Google 
 ### Step 3 - Edit Your Home Page & Build Your Lab Page
 
 1. Next, we'll want to edit the home page to be a little more informative and explain what the website is (see video below). 
-2. We'll then want to create the parent lab page beneath which you will create all of your individual lab pages (eventually, there will be one for each of our [10 labs](http://gis.joewheaton.org/assignments/labs) this semester).
+2. We'll then want to create the parent lab page beneath which you will create all of your individual lab pages (eventually, there will be one for each of our [10 labs]({{ site.baseurl }}/assignments/labs) this semester).
 3. Beneath that, we will create a single lab page, titled something like 'Lab 01 - ArcGIS & WebGIS Intro'. 
 
 This video goes through the above steps.
@@ -41,7 +41,7 @@ In this video, we go through some of the simple steps you can take to change the
 
 ### Wrap Up of Task
 
-That's it for Task 2. For this task, you will be graded using the [6 C's rubric](http://gis.joewheaton.org/about/grades) to determine whether or not your website is correct (you included everything that was asked for above and your map is displaying properly), has context (e.g. a home page with a informative description about why this site exists), is convincing (i.e. does what is supposed to do... no broken links), colorful (avoid bold red text on turquoise backgrounds... not that kind of colorful), creative, and consistent. 
+That's it for Task 2. For this task, you will be graded using the [6 C's rubric]({{ site.baseurl }}/about/grades) to determine whether or not your website is correct (you included everything that was asked for above and your map is displaying properly), has context (e.g. a home page with a informative description about why this site exists), is convincing (i.e. does what is supposed to do... no broken links), colorful (avoid bold red text on turquoise backgrounds... not that kind of colorful), creative, and consistent. 
 
-[Next Task](http://gis.joewheaton.org/assignments/labs/lab01/task3) (Task 3)
+[Next Task]({{ site.baseurl }}/assignments/labs/lab01/task3) (Task 3)
 

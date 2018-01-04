@@ -11,22 +11,22 @@ There are many situations where you may need to reproduce a map  that you only h
 #### Data for Lab
 
 - You will find a digital copy (e.g. non georeferenced image) or paper copy of a map you like and want to reproduce. 
-- You may not reproduce a map from a lap in which all the layers you need are provided to you (e.g. the Geologic Map in [Lab 03](http://gis.joewheaton.org/assignments/labs/lab03)). 
-- You will then put together and acquire the basemap layers you need and you may even need to create (i.e. [edit and/or digitize](http://gis.joewheaton.org/assignments/labs/lab04)) some layers from scratch.
+- You may not reproduce a map from a lap in which all the layers you need are provided to you (e.g. the Geologic Map in [Lab 03]({{ site.baseurl }}/assignments/labs/lab03)). 
+- You will then put together and acquire the basemap layers you need and you may even need to create (i.e. [edit and/or digitize]({{ site.baseurl }}/assignments/labs/lab04)) some layers from scratch.
 
 No this is not plagiarism, because you will [appropriately cite](http://libguides.usu.edu/content.php?pid=176243&sid=1484011) the map you find and all the data you use!
 
 #### Prerequisites
 
-- Lab [01](http://gis.joewheaton.org/assignments/labs/lab01), [03](http://gis.joewheaton.org/assignments/labs/lab03)
-- Lab [04](http://gis.joewheaton.org/assignments/labs/lab04) might be helpful
+- Lab [01]({{ site.baseurl }}/assignments/labs/lab01), [03]({{ site.baseurl }}/assignments/labs/lab03)
+- Lab [04]({{ site.baseurl }}/assignments/labs/lab04) might be helpful
 - You can do this lab at any point in the semester when you feel you have the skill set developed to do it.
 
 ### Lab Objectives
 
 The purpose of this lab is primarily to make you realize that most of the maps that you see and like, you can probably produce youself. We want you to look for maps that impress you, and then figure out what it would take to make one just like it. In the process, this will reinforce a lot of really important GIS and cartographic skills.
 
-Meets [Course Learning Outcomes](http://gis.joewheaton.org/about/primary-learning-outcomes) 2 & 5. 
+Meets [Course Learning Outcomes]({{ site.baseurl }}/about/primary-learning-outcomes) 2 & 5. 
 
 ## Tasks
 

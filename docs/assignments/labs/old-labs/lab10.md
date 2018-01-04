@@ -12,7 +12,7 @@ In some ways, this lab will expect more intellectual maturity from you than any 
 
 Ultimately, your job with this lab is to **convince** your audience that even in light of uncertainty in your input data and analysis methods, that your analysis is reasonable (i.e. fit for purpose), and how confident we can be in it. If you can not demonstrate this, at least you need to articulate why not and propose what you would need in order to improve the analysis in the future to the point it can be considered reliable and informative. 
 
-No specific guidelines are prescribed as to how you must convince your audience. You are expected to draw from concepts in this week's [lecture on this topic](http://gis.joewheaton.org/past-year-s-course-topics/uncertainty) and leverage existing tools to go through an uncertainty assessment and error analysis.  
+No specific guidelines are prescribed as to how you must convince your audience. You are expected to draw from concepts in this week's [lecture on this topic]({{ site.baseurl }}/past-year-s-course-topics/uncertainty) and leverage existing tools to go through an uncertainty assessment and error analysis.  
 
 #### Data for Lab
 
@@ -26,7 +26,7 @@ No data is provided for this lab as you are expected to use your project data.
 
 The primary purpose of this lab is to force you to consider, quantify (to extent possible) and assess the significance of uncertainty in a spatial analysis you have performed for your project. 
 
-Meets [Course Learning Outcomes](http://gis.joewheaton.org/about/primary-learning-outcomes) 2, 3 & 4. 
+Meets [Course Learning Outcomes]({{ site.baseurl }}/about/primary-learning-outcomes) 2, 3 & 4. 
 
 
 
@@ -63,5 +63,5 @@ Make sure your lab conforms to the general [lab submission guidelines](http://a/
 
 ### Additional Resources
 
-See [Lecture Topic Resources](http://gis.joewheaton.org/topics/uncertainty#TOC-Additional-Resources)
+See [Lecture Topic Resources]({{ site.baseurl }}/topics/uncertainty#TOC-Additional-Resources)
 
