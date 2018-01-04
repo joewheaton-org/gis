@@ -33,8 +33,8 @@ Previous Year's:
 
 - ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2014 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2014/Lectures/Week05/1_VectorAnalyses.pdf) - PDF
 - ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2013 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2013/Lectures/Week_05/1_VectorAnalyses.pdf) - PDF
-- ![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2012 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2005%20-%20Vector%20Analyses/1_VectorAnalyses_2PP.pdf)  - PDF w/ 2 slides per page 
-- ![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2012 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2005%20-%20Vector%20Analyses/1_VectorAnalyses_6PP.pdf) - PDF w/ 6 slides per page
+-  2012 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2005%20-%20Vector%20Analyses/1_VectorAnalyses_2PP.pdf)  - PDF w/ 2 slides per page 
+-  2012 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2005%20-%20Vector%20Analyses/1_VectorAnalyses_6PP.pdf) - PDF w/ 6 slides per page
 - 2012 [Video of Lecture](http://youtu.be/jYrVuwgfJXM)
 
 #### NOT the PODCAST - Old 2012 Lecture
@@ -49,9 +49,9 @@ Previous Year's:
 Past Lectures:
 
 - ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2014 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2014/Lectures/Week05/2_VectorRasterAnalysesCombined.pdf) - PDF
-- ![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif)  2013 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2013/Lectures/Week_06/2_VectorRasterAnalysesCombined.pdf) - PDF
-- ![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2012 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2006%20&%2007%20-%20Raster%20Analyses/3_VectorRasterAnalysesCombined_2PP.pdf) - PDF w/ 2 slides per page 
-- ![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2012 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2006%20&%2007%20-%20Raster%20Analyses/3_VectorRasterAnalysesCombined_6PP.pdf) - PDF w/ 6 slides per page 
+-   2013 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2013/Lectures/Week_06/2_VectorRasterAnalysesCombined.pdf) - PDF
+-  2012 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2006%20&%2007%20-%20Raster%20Analyses/3_VectorRasterAnalysesCombined_2PP.pdf) - PDF w/ 2 slides per page 
+-  2012 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2006%20&%2007%20-%20Raster%20Analyses/3_VectorRasterAnalysesCombined_6PP.pdf) - PDF w/ 6 slides per page 
 - 2012 [Video of Lecture](http://youtu.be/83cbN8u2jcQ)
 
 NOT the PODCAST - The old 2011 Lecture

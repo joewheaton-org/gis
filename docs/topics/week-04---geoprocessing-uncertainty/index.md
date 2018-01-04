@@ -75,8 +75,8 @@ This year, the Uncertainty in GIS was combined with the Geoprocessing Lecture
 
 - ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif)  [2015 Thursday Lecture](http://etal.usu.edu/Courses/GIS/2015/Lectures/5_Uncertainty.pdf) - PDF
 - ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) [2014](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/topics/goog_930015760)[ Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2014/Lectures/Week03/2_Geoprocessing_AND_Uncertainty.pdf)  - PDF
-- ![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2012 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2003%20&%2004%20-%20Working%20with%20Data/4_UncertaintyInGIS_2pp.pdf) - PDF w/ 2 slides per page
-- ![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2012 [Tuesday Lecture](http://www.gis.usu.edu/~jwheaton/courses/WATS4930/Lectures/Week%2003%20&%2004%20-%20Working%20with%20Data/4_UncertaintyInGIS_6pp.pdf) - PDF w/ 6 slides per page
+-  2012 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2003%20&%2004%20-%20Working%20with%20Data/4_UncertaintyInGIS_2pp.pdf) - PDF w/ 2 slides per page
+-  2012 [Tuesday Lecture](http://www.gis.usu.edu/~jwheaton/courses/WATS4930/Lectures/Week%2003%20&%2004%20-%20Working%20with%20Data/4_UncertaintyInGIS_6pp.pdf) - PDF w/ 6 slides per page
 - 2012 [Video of Lecture](http://youtu.be/QZ9zifqTBBQ)
 
 #### NOT the Podcast.... Old Lecture From 2012

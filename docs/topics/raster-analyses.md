@@ -45,7 +45,7 @@ Discussion
 
 #### Raster Analyses
 
-- ![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) [Lecture Slides PDF](http://etal.usu.edu/Courses/GIS/2014/Lectures/Week06/1_RasterAnalyses.pdf)
+-  [Lecture Slides PDF](http://etal.usu.edu/Courses/GIS/2014/Lectures/Week06/1_RasterAnalyses.pdf)
 
 The podcast below I recorded in 2014, as is not broken out into separate topics.
 
@@ -55,22 +55,22 @@ The podcast below I recorded in 2014, as is not broken out into separate topics.
 
 Past Lectures:
 
-- ![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2012 [Thursday Lecture - PDF](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2006%20&%2007%20-%20Raster%20Analyses/2_RasterAnalyses_2PP.pdf) w/ 2 slides per page 
-- ![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2012 [Thursday Lecture - PDF](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2006%20&%2007%20-%20Raster%20Analyses/2_RasterAnalyses_6PP.pdf) w/ 6 slides per page 
+-  2012 [Thursday Lecture - PDF](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2006%20&%2007%20-%20Raster%20Analyses/2_RasterAnalyses_2PP.pdf) w/ 2 slides per page 
+-  2012 [Thursday Lecture - PDF](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2006%20&%2007%20-%20Raster%20Analyses/2_RasterAnalyses_6PP.pdf) w/ 6 slides per page 
 - 2012 [Video of Lecture](http://youtu.be/JZAZ_5oSl_M)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JZAZ_5oSl_M" frameborder="0" allowfullscreen></iframe>
 
 #### Digital Elevation Models
 
-- ![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) [Lecture Slides](http://etal.usu.edu/Courses/GIS/2015/Lectures/2_DEMs.pdf) - PDF
+-  [Lecture Slides](http://etal.usu.edu/Courses/GIS/2015/Lectures/2_DEMs.pdf) - PDF
 
 Past Lectures:
 
-- ![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) [2014 Tuesday Lecture Slides - PDF](http://etal.usu.edu/Courses/GIS/2014/Lectures/Week06/2_DEMs.pdf)
-- ![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2013 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2013/Lectures/Week_06/1_DEMs.pdf) - PDF
-- ![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2012 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2006%20&%2007%20-%20Raster%20Analyses/1_DEMs_2PP.pdf) - PDF w/ 2 slides per page 
-- ![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2012 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2006%20&%2007%20-%20Raster%20Analyses/1_DEMs_6PP.pdf) - PDF w/ 6 slides per page* *
+-  [2014 Tuesday Lecture Slides - PDF](http://etal.usu.edu/Courses/GIS/2014/Lectures/Week06/2_DEMs.pdf)
+-  2013 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2013/Lectures/Week_06/1_DEMs.pdf) - PDF
+-  2012 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2006%20&%2007%20-%20Raster%20Analyses/1_DEMs_2PP.pdf) - PDF w/ 2 slides per page 
+-  2012 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2006%20&%2007%20-%20Raster%20Analyses/1_DEMs_6PP.pdf) - PDF w/ 6 slides per page* *
 - 2012 [Video of Lecture](http://youtu.be/4rcBaE-Updw)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4rcBaE-Updw" frameborder="0" allowfullscreen></iframe>

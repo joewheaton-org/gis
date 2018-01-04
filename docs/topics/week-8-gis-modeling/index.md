@@ -35,11 +35,11 @@ Discussion
 
 #### Introduction to Topic
 
-Modeling in GIS is not a phrase that is used consistently amongst GIS practitioners. In this week, we will take modeling to mean the process of interpolation of discrete point observations to represent that data as a continuous surface or the derivation of other surfaces (i.e. morphometric analysis) from such interpolated surfaces. One could also view this as an extension of the 
+Modeling in GIS is not a phrase that is used consistently amongst GIS practitioners. In this week, we will take modeling to mean the process of interpolation of discrete point observations to represent that data as a continuous surface or the derivation of other surfaces (i.e. morphometric analysis) from such interpolated surfaces. One could also view this as an extension of the
 
 Raster Analyses
 
- and 
+ and
 
 Vector Analyses
 
@@ -57,45 +57,45 @@ These lectures, readings and Lab [07]({{ site.baseurl }}/assignments/labs/lab-8-
 
 #### Morphometric Analyses of Topography
 
-- ![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) [2015 Thursday Lecture](http://etal.usu.edu/Courses/GIS/2015/Lectures/3_MorphometricAnalyses.pdf) - PDF 
+-  [2015 Thursday Lecture](http://etal.usu.edu/Courses/GIS/2015/Lectures/3_MorphometricAnalyses.pdf) - PDF 
 
 Past Lectures:
 
-- ![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) [2014 Thursday Lecture](http://etal.usu.edu/Courses/GIS/2014/Lectures/Week07/3_MorphometricAnalyses.pdf) - 
-- ![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2012 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2008%20-%20GIS%20Modeling/1_MorphometricAnalyses_2PP.pdf) - PDF w/ 2 slides per page 
-- ![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2012 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2008%20-%20GIS%20Modeling/1_MorphometricAnalyses_6PP.pdf) - PDF w/ 6 slides per page* *
+-  [2014 Thursday Lecture](http://etal.usu.edu/Courses/GIS/2014/Lectures/Week07/3_MorphometricAnalyses.pdf) -
+-  2012 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2008%20-%20GIS%20Modeling/1_MorphometricAnalyses_2PP.pdf) - PDF w/ 2 slides per page
+-  2012 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2008%20-%20GIS%20Modeling/1_MorphometricAnalyses_6PP.pdf) - PDF w/ 6 slides per page* *
 - 2012 [Video of Lecture](http://youtu.be/4elbkmetPfM)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4elbkmetPfM" frameborder="0" allowfullscreen></iframe>
 
 #### Spatial Estimation & Interpolation
 
-- ![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) [2015 Thursday Lecture](http://etal.usu.edu/Courses/GIS/2015/Lectures/1_Interpoloation_Geostatistics.pdf) - PDF
-- For a playlist of all the podcast segments in this series visit [here](http://www.youtube.com/playlist?list=PL0ZiZg4rilzI0anLfiZ8XDxdqAifBmYon). 
+-  [2015 Thursday Lecture](http://etal.usu.edu/Courses/GIS/2015/Lectures/1_Interpoloation_Geostatistics.pdf) - PDF
+- For a playlist of all the podcast segments in this series visit [here](http://www.youtube.com/playlist?list=PL0ZiZg4rilzI0anLfiZ8XDxdqAifBmYon).
 - To choose by topic see [here]({{ site.baseurl }}/topics/week-8-gis-modeling/interpolation-podcast).
 
 Past Lectures
 
-- ![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) [2014 Thursday Lecture](http://etal.usu.edu/Courses/GIS/2014/Lectures/Week08/1_Interpoloation_Geostatistics.pdf) - PDF
-- ![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) [2013 Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2013/Lectures/Week_09/2_Interpoloation.pdf) - PDF
-- ![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2012 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2008%20-%20GIS%20Modeling/2_Interpoloation_2PP.pdf) - PDF w/ 2 slides per page 
-- ![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2012 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2008%20-%20GIS%20Modeling/2_Interpoloation_6PP.pdf) - PDF w/ 6 slides per page* *
+-  [2014 Thursday Lecture](http://etal.usu.edu/Courses/GIS/2014/Lectures/Week08/1_Interpoloation_Geostatistics.pdf) - PDF
+-  [2013 Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2013/Lectures/Week_09/2_Interpoloation.pdf) - PDF
+-  2012 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2008%20-%20GIS%20Modeling/2_Interpoloation_2PP.pdf) - PDF w/ 2 slides per page
+-  2012 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2008%20-%20GIS%20Modeling/2_Interpoloation_6PP.pdf) - PDF w/ 6 slides per page* *
 - 2012 [Video of Lecture](http://youtu.be/QBbWybbS4rs)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QBbWybbS4rs" frameborder="0" allowfullscreen></iframe>
 
 #### Habitat Modeling
 
-- ![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) [2015 Thursday Lecture](http://etal.usu.edu/Courses/GIS/2015/Lectures/1_HabitatModeling.pdf) - PDF
-- We covered HSI models in lecture, and a podcast rounds out the habitat modeling lecture. For a playlist of all the podcast segments in this series visit [here](https://www.youtube.com/playlist?list=PL0ZiZg4rilzKhVTuOJuJAheIJQCWCCQtk). 
+-  [2015 Thursday Lecture](http://etal.usu.edu/Courses/GIS/2015/Lectures/1_HabitatModeling.pdf) - PDF
+- We covered HSI models in lecture, and a podcast rounds out the habitat modeling lecture. For a playlist of all the podcast segments in this series visit [here](https://www.youtube.com/playlist?list=PL0ZiZg4rilzKhVTuOJuJAheIJQCWCCQtk).
 - To choose by topic see [here]({{ site.baseurl }}/topics/week-8-gis-modeling/habitat-modeling-podcast-wrapup).
 
 Past Lectures
 
-- ![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) [2014 Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2014/Lectures/Week09/1_HabitatModeling.pdf)- PDF 
-- ![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) [2013 Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2013/Lectures/Week_09/1_HabitatModeling.pdf)- PDF
+-  [2014 Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2014/Lectures/Week09/1_HabitatModeling.pdf)- PDF
+-  [2013 Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2013/Lectures/Week_09/1_HabitatModeling.pdf)- PDF
 
-#### 
+####
 
 #### Guest Lecture From Sean Maday (Google Earth)
 
@@ -107,9 +107,9 @@ Sean read an [article in the Associated Press]({{ site.baseurl }}/classroom-news
 
 ![NorthArrowResearch-logo_Small]({{ site.baseurl }}/assets/images/NorthArrowResearch-logo_Small.png)
 
-- ![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) [2013 Thursday Guest Lecture- PDF](http://etal.usu.edu/Courses/GIS/2013/Lectures/Week_08/2013_02_28_BuildingCustomGISApplicationsAndSoftware.pdf) - [Philip Bailey](http://northarrowresearch.com/north-arrow-research/people/) from [North Arrow Research](http://northarrowresearch.com/)
+-  [2013 Thursday Guest Lecture- PDF](http://etal.usu.edu/Courses/GIS/2013/Lectures/Week_08/2013_02_28_BuildingCustomGISApplicationsAndSoftware.pdf) - [Philip Bailey](http://northarrowresearch.com/north-arrow-research/people/) from [North Arrow Research](http://northarrowresearch.com/)
 
-#### 
+####
 
 ------
 
@@ -130,4 +130,3 @@ Sean read an [article in the Associated Press]({{ site.baseurl }}/classroom-news
 
 
 Subpages (2): [Habitat Modeling Podcast WrapUp]({{ site.baseurl }}/topics/week-8-gis-modeling/habitat-modeling-podcast-wrapup) [Interpolation Podcast]({{ site.baseurl }}/topics/week-8-gis-modeling/interpolation-podcast)
-
