@@ -78,8 +78,8 @@ Starting in 2013, we covered the syllabus, a review of GIS and intro to WebGIS o
 
 In this lecture (from 2012) we eased into a review of GIS and Intro to WebGIS
 
-- [![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif)]({{ site.baseurl }}/topics/introgis/pdf_icon.gif?attredirects=0) 2012 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2001%20-%20Intro%20to%20GIS/2_ArcGIS_Refresher_WebGIS_2PP.pdf) - PDF w/ 2 slides per page 
-- [![img]({{ site.baseurl }}/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif)]({{ site.baseurl }}/topics/introgis/pdf_icon.gif?attredirects=0) 2012 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2001%20-%20Intro%20to%20GIS/2_ArcGIS_Refresher_WebGIS_6PP.pdf) - PDF w/ 6 slides per page
+- 2012 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2001%20-%20Intro%20to%20GIS/2_ArcGIS_Refresher_WebGIS_2PP.pdf) - PDF w/ 2 slides per page 
+- 2012 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2001%20-%20Intro%20to%20GIS/2_ArcGIS_Refresher_WebGIS_6PP.pdf) - PDF w/ 6 slides per page
 - 2012 [Video of Lecture](http://youtu.be/2oj-ay1NBSM?list=PL0ZiZg4rilzIZguMkS4RihH2SSIcWLasD)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2oj-ay1NBSM" frameborder="0" allowfullscreen></iframe>
