@@ -2,7 +2,7 @@
 title: Advanced GIS Courses
 ---
 
-Welcome to the *Geographic Information Systems* course website. This site acts as the course page for WATS 4930, 4931, 6920, 6921 and 6900 (see [here]({{ site.baseurl }}/about)for description of different courses; or [here]({{ site.baseurl }}/about/how-to-register) for how to enroll).
+Welcome to the *Geographic Information Systems* course website. This site acts as the course page for WATS 4930, 4931, 6920, 6921 and 6900 (see [here]({{ site.baseurl }}/about) for description of different courses; or [here]({{ site.baseurl }}/about/how-to-register) for how to enroll).
 
 #### Enrolled & Past Students:
 
