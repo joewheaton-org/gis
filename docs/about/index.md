@@ -34,7 +34,7 @@ We will deliver lectures via a mix of in-person, interactive lectures, versus vi
 | 4930 & 6920                | WEEK 8        | [GIS Modeling]({{ site.baseurl }}/topics/week-8-gis-modeling/index) | Feb 28* & Mar 2         | [7. Building DEMs]({{ site.baseurl }}/assignments/labs/lab-07---building-dems/index) |
 | Spring Break – March 6 -10 | (Catch Up)    |                                          |                         |                                          |
 | 4930 & 6920                | WEEK 9        | [GIS Modeling]({{ site.baseurl }}/topics/week-8-gis-modeling/index) | Mar 14 & 16             | [8. Morphometric Analyses or Habitat Modelling]({{ site.baseurl }}/assignments/labs/lab-8---choice/index) |
-| 4930 & 6920                | WEEK 10       | [Collecting Your Own Data]({{ site.baseurl }}/topics/data-colleciton) | Mar 23                  | [9. Blimp & Georeferencing Lab]({{ site.baseurl }}/assignments/labs/lab10blimp/index) |
+| 4930 & 6920                | WEEK 10       | [Collecting Your Own Data]({{ site.baseurl }}/topics/data-collection) | Mar 23                  | [9. Blimp & Georeferencing Lab]({{ site.baseurl }}/assignments/labs/lab10blimp/index) |
 | 4930 & 6920                | WEEK 10       | [Synthesis]({{ site.baseurl }}/topics/week-10---course-synthesis) | Mar 23                  | NO LAB                                   |
 | End of WATS 4930/6920      |               |                                          |                         |                                          |
 | 4931 & 6921                | WEEK 11       | Project Proposals                        | Mar 28 & 30             | [1. Project Proposals]({{ site.baseurl }}/assignments/project/project-proposal) |

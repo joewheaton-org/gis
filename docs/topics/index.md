@@ -21,7 +21,7 @@ Note that Weeks 1-4 are WATS 6915 Topics.
 - [Week 05: Vector Analyses]({{ site.baseurl }}/topics/vector-analyses)
 - [Week 06 to 07: Raster Analyses]({{ site.baseurl }}/topics/raster-analyses)
 - [Week 08 & 09: GIS Modeling]({{ site.baseurl }}/topics/week-8-gis-modeling)
-- [Week 10: Collecting Your Own Data]({{ site.baseurl }}/topics/data-colleciton)
+- [Week 10: Collecting Your Own Data]({{ site.baseurl }}/topics/data-collection)
 - [Week 11 : Course Synthesis]({{ site.baseurl }}/topics/week-10---course-synthesis)
 
 ### Past Topics
