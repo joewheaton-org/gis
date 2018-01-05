@@ -16,16 +16,16 @@ This fulfills course [learning outcomes]({{ site.baseurl }}/about/primary-learni
 
 #### Field Surveying
 
-- ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) [2015 ]({{ site.baseurl }}/topics/goog_165393131)[Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2015/Lectures/1_TS+GPS_Surveying.pdf)  - PDF 
+-   [2015 ]({{ site.baseurl }}/topics/goog_165393131)[Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2015/Lectures/1_TS+GPS_Surveying.pdf)  - PDF 
 
 Past Years
 
-- ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2014 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2014/Lectures/Week09/1_TS+GPS_Surveying.pdf)  - PDF 
-- ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2013 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2013/Lectures/Week_09/1_TS+GPS_Surveying.pdf)  - PDF 
+-   2014 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2014/Lectures/Week09/1_TS+GPS_Surveying.pdf)  - PDF 
+-   2013 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2013/Lectures/Week_09/1_TS+GPS_Surveying.pdf)  - PDF 
 
 
-- 2012 - RTKGPS![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2012 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2009%20-%20Collecting%20Data/1_TS+GPS_Surveying_2PP.pdf)  - PDF w/ 2 slides per page 
-- ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2012 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2009%20-%20Collecting%20Data/1_TS+GPS_Surveying_6PP.pdf) - PDF w/ 6 slides per page
+- 2012 - RTKGPS  2012 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2009%20-%20Collecting%20Data/1_TS+GPS_Surveying_2PP.pdf)  - PDF w/ 2 slides per page 
+-   2012 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2009%20-%20Collecting%20Data/1_TS+GPS_Surveying_6PP.pdf) - PDF w/ 6 slides per page
 - 2012 [Video of Lecture](http://youtu.be/_Fc0twhNvF8)
 
 ![P1020238]({{ site.baseurl }}/assets/images/P1020238.JPG)
@@ -36,18 +36,18 @@ Wrap - up GPS:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/17yOpTyoVNE" frameborder="0" allowfullscreen></iframe>
 
-- ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2012 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2009%20-%20Collecting%20Data/4_Synthesis_2PP.pdf)  - PDF w/ 2 slides per page 
+-   2012 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2009%20-%20Collecting%20Data/4_Synthesis_2PP.pdf)  - PDF w/ 2 slides per page 
 
 #### TLS 
 
 Ground-Based LiDaR or Terrestrial Laser Scanning Demo 
 
-- ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2013 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2013/Lectures/Week_10/2_TerrestrialLaserScanning.pdf) - PDF
+-   2013 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2013/Lectures/Week_10/2_TerrestrialLaserScanning.pdf) - PDF
 
 2012:
 
-- 2012 ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2005%20-%20Vector%20Analyses/2_TerrestrialLaserScanning_2PP.pdf)  - PDF w/ 2 slides per page 
-- 2012 ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2005%20-%20Vector%20Analyses/2_TerrestrialLaserScanning_6PP.pdf) - PDF w/ 6 slides per page
+- 2012   [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2005%20-%20Vector%20Analyses/2_TerrestrialLaserScanning_2PP.pdf)  - PDF w/ 2 slides per page 
+- 2012   [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2005%20-%20Vector%20Analyses/2_TerrestrialLaserScanning_6PP.pdf) - PDF w/ 6 slides per page
 - 2012 [Video of Lecture](http://youtu.be/EDtIFOto5cs)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EDtIFOto5cs" frameborder="0" allowfullscreen></iframe>

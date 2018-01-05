@@ -42,8 +42,8 @@ Here we dive into the details of what allows us to overlay data so seemingly see
 
 Past Materials:
 
-- ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) [2014 Thursday Lecture - PDF](http://etal.usu.edu/Courses/GIS/2014/Lectures/Week02/1_Projections&CoordinateSystems.pdf)
-- ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif)  [2013 Tuesday Lecture - PDF](http://etal.usu.edu/Courses/GIS/2013/Lectures/Week_02/1_Projections&CoordinateSystems.pdf)
+-   [2014 Thursday Lecture - PDF](http://etal.usu.edu/Courses/GIS/2014/Lectures/Week02/1_Projections&CoordinateSystems.pdf)
+-    [2013 Tuesday Lecture - PDF](http://etal.usu.edu/Courses/GIS/2013/Lectures/Week_02/1_Projections&CoordinateSystems.pdf)
 -  2012 [Tuesday Lecture - PDF](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2002%20-%20Abstracting%20World%20to%20GIS/1_Projections&CoordinateSystems_2PP.pdf) w/ 2 slides per page 
 -  2012 [Tuesday Lecture - PDF](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2002%20-%20Abstracting%20World%20to%20GIS/1_Projections&CoordinateSystems_6PP.pdf) w/ 6 slides per page
 - 2012 [Video of Tuesday's Lecture](http://youtu.be/cDHM6va6OKQ)
@@ -61,8 +61,8 @@ Here we review what you should already know, but will surely have forgotten beca
 
 Past Materials:
 
-- ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) [2014 Tuesday Lecture - PDF](http://etal.usu.edu/Courses/GIS/2014/Lectures/Week02/2_DataTypes.pdf)
-- ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) [2013 Thursday Lecture - PDF](http://etal.usu.edu/Courses/GIS/2013/Lectures/Week_02/2_DataTypes.pdf)
+-   [2014 Tuesday Lecture - PDF](http://etal.usu.edu/Courses/GIS/2014/Lectures/Week02/2_DataTypes.pdf)
+-   [2013 Thursday Lecture - PDF](http://etal.usu.edu/Courses/GIS/2013/Lectures/Week_02/2_DataTypes.pdf)
 -  2012 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2002%20-%20Abstracting%20World%20to%20GIS/2_DataTypes_2PP.pdf)  - PDF w/ 2 slides per page 
 -  2012 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2002%20-%20Abstracting%20World%20to%20GIS/2_DataTypes_6PP.pdf) - PDF w/ 6 slides per page
 - 2012 [Video of Thursday's Lecture](http://youtu.be/0i2mb2-VCAc)

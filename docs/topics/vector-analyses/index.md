@@ -26,13 +26,13 @@ These lectures, readings and [Lab 05]({{ site.baseurl }}/assignments/labs/lab05)
 
 Vector-based spatial analyses of discrete spatial data is one of the most power forms of geographic analysis. 
 
-- ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) [Lecture Slides](http://etal.usu.edu/Courses/GIS/2015/Lectures/1_VectorAnalyses.pdf) - PDF
+-   [Lecture Slides](http://etal.usu.edu/Courses/GIS/2015/Lectures/1_VectorAnalyses.pdf) - PDF
 - See[ here for PODCAST by topic]({{ site.baseurl }}/topics/vector-analyses/podcast-of-vector-analyses), or [here to stream all in order](http://www.youtube.com/playlist?list=PL0ZiZg4rilzIhpWsSaDg_Il0bRlutAvYz).
 
 Previous Year's:
 
-- ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2014 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2014/Lectures/Week05/1_VectorAnalyses.pdf) - PDF
-- ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2013 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2013/Lectures/Week_05/1_VectorAnalyses.pdf) - PDF
+-   2014 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2014/Lectures/Week05/1_VectorAnalyses.pdf) - PDF
+-   2013 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2013/Lectures/Week_05/1_VectorAnalyses.pdf) - PDF
 -  2012 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2005%20-%20Vector%20Analyses/1_VectorAnalyses_2PP.pdf)  - PDF w/ 2 slides per page 
 -  2012 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2005%20-%20Vector%20Analyses/1_VectorAnalyses_6PP.pdf) - PDF w/ 6 slides per page
 - 2012 [Video of Lecture](http://youtu.be/jYrVuwgfJXM)
@@ -43,12 +43,12 @@ Previous Year's:
 
 #### Analyses Combining Raster & Vector Data
 
-- ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) [Lecture]({{ site.baseurl }}/topics/goog_1569863267)[ Slides](http://etal.usu.edu/Courses/GIS/2015/Lectures/2_VectorRasterAnalysesCombined.pdf) - PDF
+-   [Lecture]({{ site.baseurl }}/topics/goog_1569863267)[ Slides](http://etal.usu.edu/Courses/GIS/2015/Lectures/2_VectorRasterAnalysesCombined.pdf) - PDF
 - See[ here for PODCAST by topic]({{ site.baseurl }}/topics/vector-analyses/podcast---analyses-combining-raster--vector-data), or [here to stream all in order](http://www.youtube.com/playlist?list=PL0ZiZg4rilzIJ_QNCqtH8U_tZMpcRfoNY).
 
 Past Lectures:
 
-- ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2014 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2014/Lectures/Week05/2_VectorRasterAnalysesCombined.pdf) - PDF
+-   2014 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2014/Lectures/Week05/2_VectorRasterAnalysesCombined.pdf) - PDF
 -   2013 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2013/Lectures/Week_06/2_VectorRasterAnalysesCombined.pdf) - PDF
 -  2012 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2006%20&%2007%20-%20Raster%20Analyses/3_VectorRasterAnalysesCombined_2PP.pdf) - PDF w/ 2 slides per page 
 -  2012 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2006%20&%2007%20-%20Raster%20Analyses/3_VectorRasterAnalysesCombined_6PP.pdf) - PDF w/ 6 slides per page 

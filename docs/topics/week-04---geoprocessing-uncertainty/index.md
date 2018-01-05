@@ -51,12 +51,12 @@ View
 
 [Podcast Here]({{ site.baseurl }}/topics/week-04---geoprocessing-uncertainty/geoprocessing-podcast) or [stream whole podcast series here](https://www.youtube.com/playlist?list=PL0ZiZg4rilzJ8p6ap_EQ7A7r7_xUD8E6D)
 
-- ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) [2015]({{ site.baseurl }}/topics/goog_670769724)[ Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2015/Lectures/4_Geoprocessing.pdf)  - PDF
+-   [2015]({{ site.baseurl }}/topics/goog_670769724)[ Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2015/Lectures/4_Geoprocessing.pdf)  - PDF
 
 Previous:
 
-- ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) [2014](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/topics/goog_930015760)[ Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2014/Lectures/Week03/2_Geoprocessing_AND_Uncertainty.pdf)  - PDF
-- ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) [2013](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/topics/goog_930015760)[ Thursday Lecture](http://etal.usu.edu/Courses/GIS/2013/Lectures/Week_03/2_Geoprocessing.pdf)  - PDF
+-   [2014](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/topics/goog_930015760)[ Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2014/Lectures/Week03/2_Geoprocessing_AND_Uncertainty.pdf)  - PDF
+-   [2013](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/topics/goog_930015760)[ Thursday Lecture](http://etal.usu.edu/Courses/GIS/2013/Lectures/Week_03/2_Geoprocessing.pdf)  - PDF
 - ![img]({{ site.baseurl }}/_/rsrc/1325824218298/past-year-s-course-topics/geoprocessing/pdf_icon.gif) 2012 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2003%20&%2004%20-%20Working%20with%20Data/2_Geoprocessing_2PP.pdf) - 2 Slides per page
 - ![img]({{ site.baseurl }}/_/rsrc/1325824218298/past-year-s-course-topics/geoprocessing/pdf_icon.gif) 2012 [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2003%20&%2004%20-%20Working%20with%20Data/2_Geoprocessing_6PP.pdf) - 6 Slides per page
 - 2012 [Video of Lecture](http://youtu.be/rG0Zq-S7k50)
@@ -69,12 +69,12 @@ Previous:
 
 #### Uncertainty in GIS & Synthesis of GIS Fundamentals
 
-- ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) [2016 Thursday Lecture](http://etalweb.joewheaton.org/Courses/GIS/2017/Lectures/5_Uncertainty.pdf) - PDF
+-   [2016 Thursday Lecture](http://etalweb.joewheaton.org/Courses/GIS/2017/Lectures/5_Uncertainty.pdf) - PDF
 
 This year, the Uncertainty in GIS was combined with the Geoprocessing Lecture
 
-- ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif)  [2015 Thursday Lecture](http://etal.usu.edu/Courses/GIS/2015/Lectures/5_Uncertainty.pdf) - PDF
-- ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) [2014](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/topics/goog_930015760)[ Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2014/Lectures/Week03/2_Geoprocessing_AND_Uncertainty.pdf)  - PDF
+-    [2015 Thursday Lecture](http://etal.usu.edu/Courses/GIS/2015/Lectures/5_Uncertainty.pdf) - PDF
+-   [2014](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/topics/goog_930015760)[ Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2014/Lectures/Week03/2_Geoprocessing_AND_Uncertainty.pdf)  - PDF
 -  2012 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2003%20&%2004%20-%20Working%20with%20Data/4_UncertaintyInGIS_2pp.pdf) - PDF w/ 2 slides per page
 -  2012 [Tuesday Lecture](http://www.gis.usu.edu/~jwheaton/courses/WATS4930/Lectures/Week%2003%20&%2004%20-%20Working%20with%20Data/4_UncertaintyInGIS_6pp.pdf) - PDF w/ 6 slides per page
 - 2012 [Video of Lecture](http://youtu.be/QZ9zifqTBBQ)

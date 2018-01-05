@@ -55,13 +55,13 @@ At some point, you will want to modify some data someone gave to you, and you'll
 
 Previous:
 
-- ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) [2014](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/topics/goog_930015760)[ Thursday Lecture](http://etal.usu.edu/Courses/GIS/2014/Lectures/Week03/3_EditingAtributingDataMetadata.pdf)  - PDF 
+-   [2014](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/topics/goog_930015760)[ Thursday Lecture](http://etal.usu.edu/Courses/GIS/2014/Lectures/Week03/3_EditingAtributingDataMetadata.pdf)  - PDF 
 
-- ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2013 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2013/Lectures/Week_04/3_EditingAtributingDataMetadata.pdf)  - PDF 
+-   2013 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2013/Lectures/Week_04/3_EditingAtributingDataMetadata.pdf)  - PDF 
 
-- ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2012 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2003%20&%2004%20-%20Working%20with%20Data/3_EditingAtributingDataMetadata_2PP.pdf) - PDF w/ 2 slides per page
+-   2012 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2003%20&%2004%20-%20Working%20with%20Data/3_EditingAtributingDataMetadata_2PP.pdf) - PDF w/ 2 slides per page
 
-- ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2012 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2003%20&%2004%20-%20Working%20with%20Data/3_EditingAtributingDataMetadata_6PP.pdf) - PDF w/ 6 slides per page 
+-   2012 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2003%20&%2004%20-%20Working%20with%20Data/3_EditingAtributingDataMetadata_6PP.pdf) - PDF w/ 6 slides per page 
 
 - - 2012 [Video of Lecture](http://youtu.be/djawcbprGIg)
 
@@ -79,13 +79,13 @@ We will go through an overview of raster imagery basics with a review/intro to r
 
 Previous:
 
-- ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) [2014](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/topics/goog_1621448348)[ Thursday Lecture](http://etal.usu.edu/Courses/GIS/2014/Lectures/Week03/1_RasterImagery_DataSources.pdf)  - PDF 
+-   [2014](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/topics/goog_1621448348)[ Thursday Lecture](http://etal.usu.edu/Courses/GIS/2014/Lectures/Week03/1_RasterImagery_DataSources.pdf)  - PDF 
 
-- ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2013 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2013/Lectures/Week_03/1_RasterImagery_DataSources.pdf)  - PDF 
+-   2013 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2013/Lectures/Week_03/1_RasterImagery_DataSources.pdf)  - PDF 
 
-- ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2012 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2003%20&%2004%20-%20Working%20with%20Data/1_RasterImagery_DataSources_2pp.pdf)  - PDF w/ 2 slides per page 
+-   2012 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2003%20&%2004%20-%20Working%20with%20Data/1_RasterImagery_DataSources_2pp.pdf)  - PDF w/ 2 slides per page 
 
-- ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) 2012 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2003%20&%2004%20-%20Working%20with%20Data/1_RasterImagery_DataSources_6pp.pdf) - PDF w/ 6 slides per page
+-   2012 [Tuesday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2003%20&%2004%20-%20Working%20with%20Data/1_RasterImagery_DataSources_6pp.pdf) - PDF w/ 6 slides per page
 
 - - 2012 [Video of Lecture](http://youtu.be/B_94S2hnDDA)
 
@@ -101,9 +101,9 @@ This year we did the TLS Demo and Synthesis of GIS Fundamentals in One Go
 
 Previous Years: 
 
-- 2014 ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) [2014](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/topics/goog_930015760)[ Thursday Lecture](http://etal.usu.edu/Courses/GIS/2014/Lectures/Week03/4_TerrestrialLaserScanning.pdf)  - PDF 
-- 2012 ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2005%20-%20Vector%20Analyses/2_TerrestrialLaserScanning_2PP.pdf)  - PDF w/ 2 slides per page 
-- 2012 ![img](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/_/rsrc/1294035212312/topics/introgis/pdf_icon.gif) [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2005%20-%20Vector%20Analyses/2_TerrestrialLaserScanning_6PP.pdf) - PDF w/ 6 slides per page
+- 2014   [2014](https://sites.google.com/a/joewheaton.org/gis-wats-4930-6920/topics/goog_930015760)[ Thursday Lecture](http://etal.usu.edu/Courses/GIS/2014/Lectures/Week03/4_TerrestrialLaserScanning.pdf)  - PDF 
+- 2012   [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2005%20-%20Vector%20Analyses/2_TerrestrialLaserScanning_2PP.pdf)  - PDF w/ 2 slides per page 
+- 2012   [Thursday Lecture](http://etal.usu.edu/Courses/GIS/2012/Lectures/Week%2005%20-%20Vector%20Analyses/2_TerrestrialLaserScanning_6PP.pdf) - PDF w/ 6 slides per page
 - 2012 [Video of Lecture](http://youtu.be/EDtIFOto5cs)
 
 #### NOT THE PODCAST! - 2012 Lecture For Reference
