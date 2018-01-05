@@ -16,5 +16,5 @@ title: Course Policies
 
 
 
-![P1010738]({{ site.baseurl }}assets/images/P1010738.JPG)
+![P1010738]({{ site.baseurl }}/assets/images/P1010738.JPG)
 
