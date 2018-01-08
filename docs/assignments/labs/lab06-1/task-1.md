@@ -31,7 +31,7 @@ For 2 m LiDaR DEM... you will need to know what tiles to download. You can do th
 
 [![2011-02-13_112019]({{ sites.baseurl }}/assets/images/2011-02-13_112019.png)]({{ sites.baseurl }}/assets/images/hr/2011-02-13_112019.png)
 
-Now we have a problem. When we look at the **LiDAR2006_2m_BareEarth_Tiles** attribute table, we see the query has correctly returned 51 records (note you can view just the selected in the attribute table with the *Show Selected Records* button![img]({{ site.baseurl }}/_/rsrc/1297621926365/assignments/labs/lab06-1/task-1/ShowJustSelcted.png): 
+Now we have a problem. When we look at the **LiDAR2006_2m_BareEarth_Tiles** attribute table, we see the query has correctly returned 51 records (note you can view just the selected in the attribute table with the *Show Selected Records* button ![ShowJustSelcted]({{ sites.baseurl }}/assets/images/ShowJustSelcted.png): 
 
 [![2011-02-13_112907]({{ sites.baseurl }}/assets/images/2011-02-13_112907.png)]({{ sites.baseurl }}/assets/images/hr/2011-02-13_112907.png)
 
